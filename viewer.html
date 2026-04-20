@@ -351,7 +351,7 @@
   <h1>Zone Viewer</h1>
   <div class="mode-toggle">
     <button class="mode-btn active" id="btnTrending" onclick="setMode('trending')">Recently Registered</button>
-    <button class="mode-btn" id="btnDropped" onclick="setMode('dropped')">Dropped</button>
+    <button class="mode-btn" id="btnDropped" onclick="setMode('dropped')">No Zone Entry</button>
   </div>
   <span class="fetch-status" id="fetchStatus"></span>
   <button class="load-btn" onclick="document.getElementById('fileInput').click()">Load JSON file</button>
@@ -495,7 +495,7 @@ function updateListMeta() {
   if (!loadedData) { document.getElementById('listMeta').textContent = 'No file loaded'; return; }
   const total   = loadedData.meta.total;
   const inView  = filteredData.length;
-  const label   = mode === 'trending' ? 'recently registered' : 'dropped';
+  const label   = mode === 'trending' ? 'recently registered' : 'no zone entry';
   if (inView === loadedData.data.length) {
     document.getElementById('listMeta').textContent =
       `${inView.toLocaleString()} ${label} tokens  ·  ${total.toLocaleString()} qualifying`;
