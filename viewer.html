@@ -350,7 +350,7 @@
 <div class="topbar">
   <h1>Zone Viewer</h1>
   <div class="mode-toggle">
-    <button class="mode-btn active" id="btnTrending" onclick="setMode('trending')">Trending</button>
+    <button class="mode-btn active" id="btnTrending" onclick="setMode('trending')">Recently Registered</button>
     <button class="mode-btn" id="btnDropped" onclick="setMode('dropped')">Dropped</button>
   </div>
   <span class="fetch-status" id="fetchStatus"></span>
@@ -495,7 +495,7 @@ function updateListMeta() {
   if (!loadedData) { document.getElementById('listMeta').textContent = 'No file loaded'; return; }
   const total   = loadedData.meta.total;
   const inView  = filteredData.length;
-  const label   = mode === 'trending' ? 'trending' : 'dropped';
+  const label   = mode === 'trending' ? 'recently registered' : 'dropped';
   if (inView === loadedData.data.length) {
     document.getElementById('listMeta').textContent =
       `${inView.toLocaleString()} ${label} tokens  ·  ${total.toLocaleString()} qualifying`;
