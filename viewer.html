@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zone Viewer</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #0f1117;
+    color: #e2e8f0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  /* ── Top bar ── */
+  .topbar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 20px;
+    background: #1a1d2e;
+    border-bottom: 1px solid #2d3148;
+    flex-shrink: 0;
+  }
+
+  .topbar h1 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #94a3b8;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-right: 6px;
+  }
+
+  .mode-toggle {
+    display: flex;
+    background: #0f1117;
+    border: 1px solid #2d3148;
+    border-radius: 7px;
+    overflow: hidden;
+  }
+
+  .mode-btn {
+    padding: 5px 15px;
+    font-size: 13px;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+    background: transparent;
+    color: #64748b;
+    transition: background 0.15s, color 0.15s;
+  }
+
+  .mode-btn.active { background: #3b82f6; color: #fff; }
+
+  .load-btn {
+    margin-left: auto;
+    padding: 6px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    background: #3b82f6;
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+
+  .load-btn:hover { background: #2563eb; }
+  #fileInput { display: none; }
+
+  .error-banner {
+    display: none;
+    padding: 8px 20px;
+    background: #7f1d1d;
+    color: #fca5a5;
+    font-size: 13px;
+    border-bottom: 1px solid #991b1b;
+    flex-shrink: 0;
+  }
+
+  /* ── Main layout ── */
+  .main {
+    display: flex;
+    flex: 1;
+    min-height: 0;          /* allow flex children to shrink below content height */
+  }
+
+  /* ── Left panel ── */
+  .left-panel {
+    width: 320px;
+    min-width: 220px;
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #2d3148;
+    flex-shrink: 0;
+    min-height: 0;
+  }
+
+  .search-bar {
+    padding: 10px 12px;
+    border-bottom: 1px solid #2d3148;
+    flex-shrink: 0;
+  }
+
+  .search-bar input {
+    width: 100%;
+    padding: 7px 11px;
+    background: #0f1117;
+    border: 1px solid #2d3148;
+    border-radius: 7px;
+    color: #e2e8f0;
+    font-size: 13px;
+    outline: none;
+    transition: border-color 0.15s;
+  }
+
+  .search-bar input:focus { border-color: #3b82f6; }
+  .search-bar input::placeholder { color: #475569; }
+
+  .list-meta {
+    padding: 5px 13px;
+    font-size: 11px;
+    color: #475569;
+    border-bottom: 1px solid #1e2235;
+    flex-shrink: 0;
+    letter-spacing: 0.02em;
+  }
+
+  .token-list {
+    flex: 1;
+    min-height: 0;          /* critical: lets it shrink and scroll internally */
+    overflow-y: auto;
+  }
+
+  .token-list::-webkit-scrollbar { width: 5px; }
+  .token-list::-webkit-scrollbar-track { background: transparent; }
+  .token-list::-webkit-scrollbar-thumb { background: #2d3148; border-radius: 3px; }
+
+  .token-row {
+    display: flex;
+    align-items: center;
+    padding: 8px 13px;
+    cursor: pointer;
+    border-bottom: 1px solid #1a1d2e;
+    transition: background 0.1s;
+    gap: 9px;
+  }
+
+  .token-row:hover { background: #1e2235; }
+  .token-row.selected { background: #1e3a5f; border-left: 3px solid #3b82f6; padding-left: 10px; }
+
+  .token-rank {
+    font-size: 11px;
+    color: #475569;
+    width: 30px;
+    text-align: right;
+    flex-shrink: 0;
+  }
+
+  .token-name {
+    flex: 1;
+    font-size: 13px;
+    font-weight: 500;
+    color: #e2e8f0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .token-count {
+    font-size: 11px;
+    color: #64748b;
+    background: #1a1d2e;
+    padding: 2px 7px;
+    border-radius: 10px;
+    flex-shrink: 0;
+  }
+
+  /* Load more row inside left token list */
+  .left-load-more {
+    padding: 12px 13px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 12px;
+    color: #3b82f6;
+    border-top: 1px solid #1e2235;
+    transition: background 0.1s;
+  }
+
+  .left-load-more:hover { background: #1e2235; }
+
+  .empty-state {
+    padding: 36px 18px;
+    text-align: center;
+    color: #475569;
+    font-size: 13px;
+    line-height: 1.8;
+  }
+
+  /* ── Right panel ── */
+  .right-panel {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+    overflow: hidden;
+  }
+
+  .detail-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 18px;
+    border-bottom: 1px solid #2d3148;
+    flex-shrink: 0;
+    background: #1a1d2e;
+    flex-wrap: wrap;
+    row-gap: 6px;
+  }
+
+  .detail-title {
+    font-size: 15px;
+    font-weight: 600;
+    color: #e2e8f0;
+  }
+
+  .detail-subtitle {
+    font-size: 12px;
+    color: #64748b;
+    flex: 1;
+  }
+
+  .page-size-wrap {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    color: #64748b;
+  }
+
+  .page-size-wrap select {
+    padding: 4px 8px;
+    background: #0f1117;
+    border: 1px solid #2d3148;
+    border-radius: 6px;
+    color: #94a3b8;
+    font-size: 12px;
+    cursor: pointer;
+    outline: none;
+  }
+
+  .page-size-wrap select:focus { border-color: #3b82f6; }
+
+  .action-btn {
+    padding: 5px 13px;
+    font-size: 12px;
+    font-weight: 500;
+    border: 1px solid #2d3148;
+    border-radius: 6px;
+    cursor: pointer;
+    background: #1a1d2e;
+    color: #94a3b8;
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+
+  .action-btn:hover { background: #2d3148; color: #e2e8f0; }
+  .action-btn.success { color: #4ade80; border-color: #166534; }
+
+  .domain-list {
+    flex: 1;
+    min-height: 0;          /* critical: prevents overflow; enables internal scroll */
+    overflow-y: auto;
+    padding: 6px 0;
+  }
+
+  .domain-list::-webkit-scrollbar { width: 5px; }
+  .domain-list::-webkit-scrollbar-track { background: transparent; }
+  .domain-list::-webkit-scrollbar-thumb { background: #2d3148; border-radius: 3px; }
+
+  .domain-item {
+    padding: 6px 18px;
+    font-size: 13px;
+    color: #94a3b8;
+    font-family: "SF Mono", "Fira Code", "Consolas", monospace;
+    border-bottom: 1px solid #1a1d2e;
+    transition: background 0.08s, color 0.08s;
+    user-select: text;
+  }
+
+  .domain-item:hover { background: #1e2235; color: #e2e8f0; }
+
+  /* Footer bar: "Load more" + count — stays pinned below the scroll area */
+  .detail-footer {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 18px;
+    border-top: 1px solid #2d3148;
+    flex-shrink: 0;
+    background: #0f1117;
+  }
+
+  .load-more-btn {
+    padding: 6px 18px;
+    font-size: 12px;
+    font-weight: 500;
+    background: #1e2235;
+    border: 1px solid #2d3148;
+    border-radius: 7px;
+    color: #94a3b8;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .load-more-btn:hover { background: #2d3148; color: #e2e8f0; }
+
+  .load-more-count {
+    font-size: 12px;
+    color: #475569;
+  }
+
+  .no-selection {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #2d3148;
+    font-size: 14px;
+  }
+
+  .no-selection-inner { text-align: center; line-height: 2.2; }
+  .no-selection-icon { font-size: 44px; margin-bottom: 10px; opacity: 0.35; }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <h1>Zone Viewer</h1>
+  <div class="mode-toggle">
+    <button class="mode-btn active" id="btnTrending" onclick="setMode('trending')">Trending</button>
+    <button class="mode-btn" id="btnDropped" onclick="setMode('dropped')">Dropped</button>
+  </div>
+  <button class="load-btn" onclick="document.getElementById('fileInput').click()">Load JSON file</button>
+  <input type="file" id="fileInput" accept=".json">
+</div>
+
+<div class="error-banner" id="errorBanner"></div>
+
+<div class="main">
+  <!-- Left: token list -->
+  <div class="left-panel">
+    <div class="search-bar">
+      <input type="text" id="searchInput" placeholder="Search tokens..." oninput="onSearch()">
+    </div>
+    <div class="list-meta" id="listMeta">No file loaded</div>
+    <div class="token-list" id="tokenList">
+      <div class="empty-state">Load a JSON file to begin.</div>
+    </div>
+  </div>
+
+  <!-- Right: domain names -->
+  <div class="right-panel" id="rightPanel">
+    <div class="no-selection">
+      <div class="no-selection-inner">
+        <div class="no-selection-icon">&#128269;</div>
+        Select a token to view its domains
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── State ──────────────────────────────────────────────────────────────────
+let mode          = 'trending';
+let loadedData    = null;       // { data[], meta }
+let filteredData  = [];         // filtered subset of data[]
+let leftShown     = 0;          // how many token rows are visible in left panel
+let selectedEntry = null;       // currently selected data[] item
+let rightShown    = 0;          // how many domain rows are visible in right panel
+let pageSize      = 50;         // right-panel page size (user-controlled)
+
+const LEFT_PAGE   = 50;         // left panel increments
+
+// ── Mode toggle ────────────────────────────────────────────────────────────
+function setMode(m) {
+  mode = m;
+  document.getElementById('btnTrending').classList.toggle('active', m === 'trending');
+  document.getElementById('btnDropped').classList.toggle('active', m === 'dropped');
+  resetAll();
+}
+
+function resetAll() {
+  loadedData = null;
+  filteredData = [];
+  leftShown = 0;
+  selectedEntry = null;
+  rightShown = 0;
+  document.getElementById('searchInput').value = '';
+  document.getElementById('listMeta').textContent = 'No file loaded';
+  renderTokenList();
+  renderDetailPanel();
+  hideError();
+}
+
+// ── File loading ───────────────────────────────────────────────────────────
+document.getElementById('fileInput').addEventListener('change', function () {
+  const file = this.files[0];
+  if (!file) return;
+  this.value = '';
+  const reader = new FileReader();
+  reader.onload = function (e) {
+    try {
+      const parsed = JSON.parse(e.target.result);
+      if (!Array.isArray(parsed.data) || !parsed.meta) {
+        throw new Error('JSON must have a "data" array and a "meta" object');
+      }
+      loadedData    = parsed;
+      filteredData  = loadedData.data.slice();
+      leftShown     = Math.min(LEFT_PAGE, filteredData.length);
+      selectedEntry = null;
+      rightShown    = 0;
+      document.getElementById('searchInput').value = '';
+      updateListMeta();
+      renderTokenList();
+      renderDetailPanel();
+      hideError();
+    } catch (err) {
+      showError('Invalid file: ' + err.message);
+    }
+  };
+  reader.readAsText(file);
+});
+
+// ── Search ─────────────────────────────────────────────────────────────────
+function onSearch() {
+  if (!loadedData) return;
+  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+  filteredData = q
+    ? loadedData.data.filter(e => e.domain.toLowerCase().includes(q))
+    : loadedData.data.slice();
+  leftShown = Math.min(LEFT_PAGE, filteredData.length);
+  if (selectedEntry && !filteredData.includes(selectedEntry)) {
+    selectedEntry = null;
+    rightShown = 0;
+    renderDetailPanel();
+  }
+  updateListMeta();
+  renderTokenList();
+}
+
+function updateListMeta() {
+  if (!loadedData) { document.getElementById('listMeta').textContent = 'No file loaded'; return; }
+  const total   = loadedData.meta.total;
+  const inView  = filteredData.length;
+  const label   = mode === 'trending' ? 'trending' : 'dropped';
+  if (inView === loadedData.data.length) {
+    document.getElementById('listMeta').textContent =
+      `${inView.toLocaleString()} ${label} tokens  ·  ${total.toLocaleString()} qualifying`;
+  } else {
+    document.getElementById('listMeta').textContent =
+      `${inView.toLocaleString()} of ${loadedData.data.length.toLocaleString()} match`;
+  }
+}
+
+// ── Token list ─────────────────────────────────────────────────────────────
+function renderTokenList() {
+  const container = document.getElementById('tokenList');
+  if (!loadedData || filteredData.length === 0) {
+    container.innerHTML = `<div class="empty-state">${
+      loadedData ? 'No tokens match your search.' : 'Load a JSON file to begin.'
+    }</div>`;
+    return;
+  }
+
+  const frag = document.createDocumentFragment();
+  const visible = filteredData.slice(0, leftShown);
+  for (const entry of visible) {
+    frag.appendChild(makeTokenRow(entry));
+  }
+  if (leftShown < filteredData.length) {
+    frag.appendChild(makeLeftLoadMore());
+  }
+  container.innerHTML = '';
+  container.appendChild(frag);
+}
+
+function makeTokenRow(entry) {
+  const row = document.createElement('div');
+  row.className = 'token-row' + (entry === selectedEntry ? ' selected' : '');
+  row.innerHTML =
+    `<span class="token-rank">#${entry.rank}</span>` +
+    `<span class="token-name">${escHtml(entry.domain)}</span>` +
+    `<span class="token-count">${entry.count.toLocaleString()}</span>`;
+  row.addEventListener('click', () => selectEntry(entry));
+  return row;
+}
+
+function makeLeftLoadMore() {
+  const remaining = filteredData.length - leftShown;
+  const div = document.createElement('div');
+  div.className = 'left-load-more';
+  div.textContent = `Load ${Math.min(LEFT_PAGE, remaining).toLocaleString()} more  (${remaining.toLocaleString()} remaining)`;
+  div.addEventListener('click', leftLoadMore);
+  return div;
+}
+
+function leftLoadMore() {
+  const container = document.getElementById('tokenList');
+  // Remove the existing load-more row
+  const existing = container.querySelector('.left-load-more');
+  if (existing) existing.remove();
+
+  const prev = leftShown;
+  leftShown = Math.min(leftShown + LEFT_PAGE, filteredData.length);
+
+  const frag = document.createDocumentFragment();
+  for (let i = prev; i < leftShown; i++) {
+    frag.appendChild(makeTokenRow(filteredData[i]));
+  }
+  if (leftShown < filteredData.length) {
+    frag.appendChild(makeLeftLoadMore());
+  }
+  container.appendChild(frag);
+}
+
+// ── Entry selection ────────────────────────────────────────────────────────
+function selectEntry(entry) {
+  selectedEntry = entry;
+  rightShown = 0;
+  // Update selection highlight without full re-render
+  document.querySelectorAll('.token-row').forEach(r => r.classList.remove('selected'));
+  event.currentTarget.classList.add('selected');
+  renderDetailPanel();
+}
+
+// ── Detail panel ───────────────────────────────────────────────────────────
+function renderDetailPanel() {
+  const panel = document.getElementById('rightPanel');
+
+  if (!selectedEntry) {
+    panel.innerHTML = `
+      <div class="no-selection">
+        <div class="no-selection-inner">
+          <div class="no-selection-icon">&#128269;</div>
+          Select a token to view its domains
+        </div>
+      </div>`;
+    return;
+  }
+
+  const names = selectedEntry.domain_names;
+  const total = names.length;
+  rightShown = Math.min(pageSize, total);
+
+  const pageSizeOptions = [25, 50, 100, 200]
+    .map(n => `<option value="${n}"${n === pageSize ? ' selected' : ''}>${n}</option>`)
+    .join('');
+
+  panel.innerHTML = `
+    <div class="detail-header">
+      <span class="detail-title">${escHtml(selectedEntry.domain)}</span>
+      <span class="detail-subtitle">${total.toLocaleString()} domain${total !== 1 ? 's' : ''}</span>
+      <div class="page-size-wrap">
+        <label for="pageSizeSelect">Page size</label>
+        <select id="pageSizeSelect" onchange="changePageSize(this.value)">
+          ${pageSizeOptions}
+        </select>
+      </div>
+      <button class="action-btn" id="copyBtn" onclick="copyDomains()">Copy all</button>
+      <button class="action-btn" id="saveBtn" onclick="saveDomains()">Save</button>
+    </div>
+    <div class="domain-list" id="domainList"></div>
+    <div class="detail-footer" id="detailFooter" style="display:none">
+      <button class="load-more-btn" onclick="rightLoadMore()">Load more</button>
+      <span class="load-more-count" id="loadMoreCount"></span>
+    </div>`;
+
+  appendDomainRows(0, rightShown);
+  updateFooter();
+}
+
+function appendDomainRows(from, to) {
+  const list = document.getElementById('domainList');
+  if (!list) return;
+  const names = selectedEntry.domain_names;
+  const frag = document.createDocumentFragment();
+  for (let i = from; i < to && i < names.length; i++) {
+    const div = document.createElement('div');
+    div.className = 'domain-item';
+    div.textContent = names[i];
+    frag.appendChild(div);
+  }
+  list.appendChild(frag);
+}
+
+function rightLoadMore() {
+  const prev = rightShown;
+  rightShown = Math.min(rightShown + pageSize, selectedEntry.domain_names.length);
+  appendDomainRows(prev, rightShown);
+  updateFooter();
+}
+
+function changePageSize(val) {
+  pageSize = parseInt(val, 10);
+  // Re-render domain list from scratch with new page size
+  rightShown = Math.min(pageSize, selectedEntry.domain_names.length);
+  const list = document.getElementById('domainList');
+  if (list) list.innerHTML = '';
+  appendDomainRows(0, rightShown);
+  updateFooter();
+}
+
+function updateFooter() {
+  const footer = document.getElementById('detailFooter');
+  if (!footer) return;
+  const total = selectedEntry.domain_names.length;
+  if (rightShown >= total) {
+    footer.style.display = 'none';
+  } else {
+    footer.style.display = 'flex';
+    const remaining = total - rightShown;
+    document.getElementById('loadMoreCount').textContent =
+      `Showing ${rightShown.toLocaleString()} of ${total.toLocaleString()} — ${remaining.toLocaleString()} more`;
+  }
+}
+
+// ── Clipboard & Save ───────────────────────────────────────────────────────
+function copyDomains() {
+  if (!selectedEntry) return;
+  const text = selectedEntry.domain_names.join('\n');
+  const btn  = document.getElementById('copyBtn');
+  const done = () => {
+    if (!btn) return;
+    btn.textContent = 'Copied!';
+    btn.classList.add('success');
+    setTimeout(() => { btn.textContent = 'Copy all'; btn.classList.remove('success'); }, 1800);
+  };
+  navigator.clipboard.writeText(text).then(done).catch(() => {
+    // Fallback for file:// where clipboard API may be blocked
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    ta.style.cssText = 'position:fixed;opacity:0;pointer-events:none';
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand('copy'); } catch (_) {}
+    document.body.removeChild(ta);
+    done();
+  });
+}
+
+function saveDomains() {
+  if (!selectedEntry) return;
+  const text = selectedEntry.domain_names.join('\n');
+  const blob = new Blob([text], { type: 'text/plain' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href = url;
+  a.download = selectedEntry.domain + '_domains.txt';
+  a.click();
+  setTimeout(() => URL.revokeObjectURL(url), 5000);
+}
+
+// ── Utilities ──────────────────────────────────────────────────────────────
+function escHtml(s) {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function showError(msg) {
+  const b = document.getElementById('errorBanner');
+  b.textContent = msg;
+  b.style.display = 'block';
+}
+
+function hideError() {
+  document.getElementById('errorBanner').style.display = 'none';
+}
+</script>
+</body>
+</html>
