@@ -337,6 +337,12 @@
 
   .no-selection-inner { text-align: center; line-height: 2.2; }
   .no-selection-icon { font-size: 44px; margin-bottom: 10px; opacity: 0.35; }
+
+  .fetch-status {
+    font-size: 11px;
+    color: #475569;
+    letter-spacing: 0.02em;
+  }
 </style>
 </head>
 <body>
@@ -347,6 +353,7 @@
     <button class="mode-btn active" id="btnTrending" onclick="setMode('trending')">Trending</button>
     <button class="mode-btn" id="btnDropped" onclick="setMode('dropped')">Dropped</button>
   </div>
+  <span class="fetch-status" id="fetchStatus"></span>
   <button class="load-btn" onclick="document.getElementById('fileInput').click()">Load JSON file</button>
   <input type="file" id="fileInput" accept=".json">
 </div>
@@ -394,6 +401,7 @@ function setMode(m) {
   document.getElementById('btnTrending').classList.toggle('active', m === 'trending');
   document.getElementById('btnDropped').classList.toggle('active', m === 'dropped');
   resetAll();
+  autoFetch(m === 'trending' ? 'trending.json' : 'dropped.json');
 }
 
 function resetAll() {
@@ -409,7 +417,43 @@ function resetAll() {
   hideError();
 }
 
-// ── File loading ───────────────────────────────────────────────────────────
+// ── Apply loaded data (shared by file picker and auto-fetch) ───────────────
+function applyLoadedData(parsed) {
+  loadedData    = parsed;
+  filteredData  = loadedData.data.slice();
+  leftShown     = Math.min(LEFT_PAGE, filteredData.length);
+  selectedEntry = null;
+  rightShown    = 0;
+  document.getElementById('searchInput').value = '';
+  updateListMeta();
+  renderTokenList();
+  renderDetailPanel();
+  hideError();
+}
+
+// ── Auto-fetch (GitHub Pages / local HTTP) ─────────────────────────────────
+async function autoFetch(filename) {
+  setFetchStatus('Loading\u2026');
+  try {
+    const res = await fetch(filename);
+    if (!res.ok) throw new Error(res.status);
+    const parsed = await res.json();
+    if (!Array.isArray(parsed.data) || !parsed.meta) {
+      throw new Error('bad schema');
+    }
+    applyLoadedData(parsed);
+    setFetchStatus(filename);
+  } catch (_) {
+    // Silent fail — file picker remains available
+    setFetchStatus('');
+  }
+}
+
+function setFetchStatus(text) {
+  document.getElementById('fetchStatus').textContent = text;
+}
+
+// ── File loading (manual picker) ───────────────────────────────────────────
 document.getElementById('fileInput').addEventListener('change', function () {
   const file = this.files[0];
   if (!file) return;
@@ -421,16 +465,8 @@ document.getElementById('fileInput').addEventListener('change', function () {
       if (!Array.isArray(parsed.data) || !parsed.meta) {
         throw new Error('JSON must have a "data" array and a "meta" object');
       }
-      loadedData    = parsed;
-      filteredData  = loadedData.data.slice();
-      leftShown     = Math.min(LEFT_PAGE, filteredData.length);
-      selectedEntry = null;
-      rightShown    = 0;
-      document.getElementById('searchInput').value = '';
-      updateListMeta();
-      renderTokenList();
-      renderDetailPanel();
-      hideError();
+      setFetchStatus(file.name);
+      applyLoadedData(parsed);
     } catch (err) {
       showError('Invalid file: ' + err.message);
     }
@@ -681,6 +717,11 @@ function showError(msg) {
 function hideError() {
   document.getElementById('errorBanner').style.display = 'none';
 }
+
+// ── Initial auto-fetch on page load ────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', () => {
+  autoFetch('trending.json');
+});
 </script>
 </body>
 </html>
