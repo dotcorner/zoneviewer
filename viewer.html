@@ -343,12 +343,27 @@
     color: #475569;
     letter-spacing: 0.02em;
   }
+
+  .date-select {
+    padding: 5px 10px;
+    background: #0f1117;
+    border: 1px solid #2d3148;
+    border-radius: 7px;
+    color: #e2e8f0;
+    font-size: 13px;
+    cursor: pointer;
+    outline: none;
+  }
+  .date-select:focus { border-color: #3b82f6; }
 </style>
 </head>
 <body>
 
 <div class="topbar">
   <h1>Zone Viewer</h1>
+  <div id="dateWrap" style="display:none">
+    <select id="dateSelect" class="date-select" onchange="onDateChange()"></select>
+  </div>
   <div class="mode-toggle">
     <button class="mode-btn active" id="btnTrending" onclick="setMode('trending')">Recently Registered</button>
     <button class="mode-btn" id="btnDropped" onclick="setMode('dropped')">No Zone Entry</button>
@@ -385,15 +400,17 @@
 
 <script>
 // ── State ──────────────────────────────────────────────────────────────────
-let mode          = 'trending';
-let loadedData    = null;       // { data[], meta }
-let filteredData  = [];         // filtered subset of data[]
-let leftShown     = 0;          // how many token rows are visible in left panel
-let selectedEntry = null;       // currently selected data[] item
-let rightShown    = 0;          // how many domain rows are visible in right panel
-let pageSize      = 50;         // right-panel page size (user-controlled)
+let mode           = 'trending';
+let loadedData     = null;       // { data[], meta }
+let filteredData   = [];         // filtered subset of data[]
+let leftShown      = 0;          // how many token rows are visible in left panel
+let selectedEntry  = null;       // currently selected data[] item
+let rightShown     = 0;          // how many domain rows are visible in right panel
+let pageSize       = 50;         // right-panel page size (user-controlled)
+let availableDates = [];         // from data/index.json, newest first
+let selectedDate   = null;       // currently selected ddmmyyyy string
 
-const LEFT_PAGE   = 50;         // left panel increments
+const LEFT_PAGE    = 50;         // left panel increments
 
 // ── Mode toggle ────────────────────────────────────────────────────────────
 function setMode(m) {
@@ -431,18 +448,59 @@ function applyLoadedData(parsed) {
   hideError();
 }
 
+// ── Date helpers ───────────────────────────────────────────────────────────
+function formatDate(ddmmyyyy) {
+  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const d = ddmmyyyy.slice(0, 2);
+  const m = parseInt(ddmmyyyy.slice(2, 4), 10) - 1;
+  const y = ddmmyyyy.slice(4);
+  return `${d} ${months[m]} ${y}`;
+}
+
+function populateDateDropdown() {
+  const sel = document.getElementById('dateSelect');
+  sel.innerHTML = availableDates
+    .map(d => `<option value="${d}">${formatDate(d)}</option>`)
+    .join('');
+}
+
+function onDateChange() {
+  selectedDate = document.getElementById('dateSelect').value;
+  resetAll();
+  autoFetch(mode === 'trending' ? 'trending.json' : 'dropped.json');
+}
+
+// ── Index manifest loader ──────────────────────────────────────────────────
+async function loadIndex() {
+  try {
+    const res = await fetch('data/index.json');
+    if (!res.ok) throw new Error('no index');
+    availableDates = await res.json();
+    if (!Array.isArray(availableDates) || !availableDates.length) throw new Error('empty');
+    populateDateDropdown();
+    selectedDate = availableDates[0];
+    document.getElementById('dateSelect').value = selectedDate;
+    document.getElementById('dateWrap').style.display = '';
+    autoFetch('trending.json');
+  } catch (_) {
+    // No index.json — date selector stays hidden, file picker is the fallback
+    document.getElementById('dateWrap').style.display = 'none';
+  }
+}
+
 // ── Auto-fetch (GitHub Pages / local HTTP) ─────────────────────────────────
 async function autoFetch(filename) {
   setFetchStatus('Loading\u2026');
+  const path = selectedDate ? `data/${selectedDate}/${filename}` : filename;
   try {
-    const res = await fetch(filename);
+    const res = await fetch(path);
     if (!res.ok) throw new Error(res.status);
     const parsed = await res.json();
     if (!Array.isArray(parsed.data) || !parsed.meta) {
       throw new Error('bad schema');
     }
     applyLoadedData(parsed);
-    setFetchStatus(filename);
+    setFetchStatus(selectedDate ? formatDate(selectedDate) : filename);
   } catch (_) {
     // Silent fail — file picker remains available
     setFetchStatus('');
@@ -718,9 +776,9 @@ function hideError() {
   document.getElementById('errorBanner').style.display = 'none';
 }
 
-// ── Initial auto-fetch on page load ────────────────────────────────────────
+// ── Initial load ───────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
-  autoFetch('trending.json');
+  loadIndex();
 });
 </script>
 </body>
