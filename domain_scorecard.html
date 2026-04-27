@@ -1,0 +1,1058 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Domain Valuation Scorecard — April 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Fraunces:ital,wght@0,300;0,600;0,900;1,300;1,600&family=Space+Grotesk:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #080c10;
+    --surface: #0d1520;
+    --surface2: #111d2e;
+    --border: #1a2d45;
+    --border-bright: #2a4060;
+    --text: #c8d8ea;
+    --text-dim: #5a7a9a;
+    --text-bright: #e8f2ff;
+    --accent: #3d9eff;
+    --accent-glow: rgba(61,158,255,0.15);
+    --green: #22c55e;
+    --green-dim: rgba(34,197,94,0.12);
+    --yellow: #f59e0b;
+    --yellow-dim: rgba(245,158,11,0.12);
+    --red: #ef4444;
+    --red-dim: rgba(239,68,68,0.10);
+    --gold: #fbbf24;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 13px;
+    line-height: 1.5;
+    min-height: 100vh;
+  }
+
+  /* ── GRID NOISE BACKGROUND ── */
+  body::before {
+    content: '';
+    position: fixed; inset: 0; pointer-events: none; z-index: 0;
+    background-image:
+      linear-gradient(rgba(61,158,255,0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(61,158,255,0.03) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+
+  .wrapper { position: relative; z-index: 1; max-width: 1600px; margin: 0 auto; padding: 40px 24px 80px; }
+
+  /* ── HEADER ── */
+  header {
+    border-bottom: 1px solid var(--border-bright);
+    padding-bottom: 32px;
+    margin-bottom: 40px;
+  }
+
+  .header-top {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  .logo-mark {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 8px;
+    opacity: 0.8;
+  }
+
+  h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+    font-size: clamp(28px, 4vw, 48px);
+    color: var(--text-bright);
+    letter-spacing: -0.02em;
+    line-height: 1.05;
+  }
+
+  h1 em {
+    font-style: italic;
+    color: var(--accent);
+  }
+
+  .header-meta {
+    text-align: right;
+  }
+
+  .meta-date {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--text-dim);
+    letter-spacing: 0.1em;
+  }
+
+  .meta-count {
+    font-size: 28px;
+    font-weight: 600;
+    color: var(--text-bright);
+    display: block;
+    margin-top: 4px;
+  }
+
+  /* ── SUMMARY PILLS ── */
+  .summary-bar {
+    display: flex;
+    gap: 12px;
+    margin-top: 28px;
+    flex-wrap: wrap;
+  }
+
+  .pill {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    border-radius: 6px;
+    border: 1px solid;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.05em;
+  }
+
+  .pill-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+  .pill.renew { border-color: var(--green); background: var(--green-dim); color: var(--green); }
+  .pill.consider { border-color: var(--yellow); background: var(--yellow-dim); color: var(--yellow); }
+  .pill.drop { border-color: var(--red); background: var(--red-dim); color: var(--red); }
+  .pill-dot.green { background: var(--green); }
+  .pill-dot.yellow { background: var(--yellow); }
+  .pill-dot.red { background: var(--red); }
+
+  /* ── LEGEND ── */
+  .legend {
+    margin-bottom: 24px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px 20px;
+    display: flex;
+    gap: 32px;
+    flex-wrap: wrap;
+    font-size: 11px;
+    color: var(--text-dim);
+    font-family: 'DM Mono', monospace;
+  }
+
+  .legend span { color: var(--text); }
+
+  /* ── TABLE WRAPPER ── */
+  .table-container {
+    overflow-x: auto;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    box-shadow: 0 0 60px rgba(0,0,0,0.5), 0 0 0 1px rgba(61,158,255,0.05);
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 1100px;
+  }
+
+  thead {
+    background: var(--surface);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+
+  thead th {
+    padding: 14px 12px;
+    text-align: left;
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    border-bottom: 1px solid var(--border-bright);
+    white-space: nowrap;
+  }
+
+  thead th:first-child { padding-left: 20px; }
+  thead th:last-child { padding-right: 20px; }
+
+  /* ── ROWS ── */
+  tbody tr {
+    border-bottom: 1px solid var(--border);
+    transition: background 0.15s;
+  }
+
+  tbody tr:hover { background: rgba(61,158,255,0.04); }
+  tbody tr:last-child { border-bottom: none; }
+
+  td {
+    padding: 14px 12px;
+    vertical-align: top;
+    font-size: 12px;
+  }
+
+  td:first-child { padding-left: 20px; }
+  td:last-child { padding-right: 20px; }
+
+  /* ── ROW COLORING ── */
+  tbody tr.row-drop { background: rgba(239,68,68,0.03); }
+  tbody tr.row-consider { background: rgba(245,158,11,0.03); }
+  tbody tr.row-renew { background: rgba(34,197,94,0.04); }
+
+  /* ── DOMAIN CELL ── */
+  .domain-name {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--text-bright);
+    white-space: nowrap;
+  }
+
+  .domain-price {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    color: var(--gold);
+    margin-top: 3px;
+  }
+
+  /* ── SCORE BARS ── */
+  .score-cell { min-width: 90px; }
+
+  .score-val {
+    font-family: 'DM Mono', monospace;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text-bright);
+    margin-bottom: 4px;
+  }
+
+  .score-bar {
+    height: 3px;
+    background: var(--border);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .score-fill {
+    height: 100%;
+    border-radius: 2px;
+    transition: width 0.3s;
+  }
+
+  .fill-ling { background: #7dd3fc; }
+  .fill-brand { background: #a78bfa; }
+  .fill-comm { background: #34d399; }
+
+  .score-detail {
+    font-size: 9px;
+    color: var(--text-dim);
+    margin-top: 4px;
+    font-family: 'DM Mono', monospace;
+    line-height: 1.4;
+  }
+
+  /* ── RISK CELL ── */
+  .risk-cell { max-width: 220px; }
+  .risk-text {
+    font-size: 11px;
+    color: var(--text-dim);
+    line-height: 1.5;
+  }
+
+  .risk-high { color: var(--red) !important; font-weight: 600; }
+
+  /* ── OVERALL SCORE ── */
+  .overall-score {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 1;
+  }
+
+  .overall-green { color: var(--green); }
+  .overall-yellow { color: var(--yellow); }
+  .overall-red { color: var(--red); }
+
+  .roi-badge {
+    display: inline-block;
+    margin-top: 5px;
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    padding: 2px 7px;
+    border-radius: 3px;
+    text-transform: uppercase;
+  }
+
+  .roi-low { background: var(--red-dim); color: var(--red); border: 1px solid rgba(239,68,68,0.3); }
+  .roi-med { background: var(--yellow-dim); color: var(--yellow); border: 1px solid rgba(245,158,11,0.3); }
+  .roi-high { background: var(--green-dim); color: var(--green); border: 1px solid rgba(34,197,94,0.3); }
+
+  /* ── VERDICT BADGE ── */
+  .verdict-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 12px;
+    border-radius: 5px;
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  .v-drop { background: var(--red-dim); color: var(--red); border: 1px solid rgba(239,68,68,0.35); }
+  .v-consider { background: var(--yellow-dim); color: var(--yellow); border: 1px solid rgba(245,158,11,0.35); }
+  .v-renew { background: var(--green-dim); color: var(--green); border: 1px solid rgba(34,197,94,0.35); }
+
+  /* ── ACTION CELL ── */
+  .action-cell { max-width: 240px; }
+  .action-text {
+    font-size: 11px;
+    color: var(--text);
+    line-height: 1.55;
+  }
+
+  .keyword-data {
+    margin-top: 6px;
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    color: var(--text-dim);
+    line-height: 1.5;
+  }
+
+  .price-tag {
+    display: inline-block;
+    margin-top: 4px;
+    font-size: 9px;
+    font-family: 'DM Mono', monospace;
+    padding: 2px 6px;
+    border-radius: 3px;
+  }
+
+  .price-over { background: rgba(239,68,68,0.1); color: var(--red); }
+  .price-fair { background: rgba(61,158,255,0.1); color: var(--accent); }
+  .price-under { background: rgba(34,197,94,0.1); color: var(--green); }
+
+  /* ── FOOTNOTE ── */
+  footer {
+    margin-top: 48px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    color: var(--text-dim);
+    line-height: 1.8;
+    letter-spacing: 0.03em;
+  }
+
+  footer strong { color: var(--text); }
+
+  /* ── KEYWORD BOX ── */
+  .kw-strong { color: #fbbf24; font-weight: 600; }
+
+  @media print {
+    body { background: white; color: #111; }
+    .table-container { box-shadow: none; border: 1px solid #ddd; }
+  }
+</style>
+</head>
+<body>
+<div class="wrapper">
+
+  <header>
+    <div class="header-top">
+      <div>
+        <div class="logo-mark">Domain Intelligence Report</div>
+        <h1>Portfolio <em>Renewal</em><br>Scorecard</h1>
+      </div>
+      <div class="header-meta">
+        <div class="meta-date">GENERATED: APRIL 27, 2026</div>
+        <span class="meta-count">20 Domains Evaluated</span>
+        <div class="meta-date" style="margin-top:4px">METHODOLOGY: Linguistic 25% · Brand 30% · Commercial 30% · Risk 15%</div>
+      </div>
+    </div>
+    <div class="summary-bar">
+      <div class="pill renew"><span class="pill-dot green"></span>RENEW — 0 domains</div>
+      <div class="pill consider"><span class="pill-dot yellow"></span>CONSIDER — 9 domains</div>
+      <div class="pill drop"><span class="pill-dot red"></span>DROP — 11 domains</div>
+    </div>
+  </header>
+
+  <div class="legend">
+    <div><span>L</span> = Linguistic Quality (1–10)</div>
+    <div><span>B</span> = Brandability (1–10)</div>
+    <div><span>C</span> = Commercial Viability (1–10)</div>
+    <div><span>R</span> = Risk Penalty Score (subtracted, weighted 15%)</div>
+    <div><span>Overall</span> = 0.25L + 0.30B + 0.30C − 0.15R</div>
+    <div><span>ROI</span> = 12-month sale probability at current ask</div>
+  </div>
+
+  <div class="table-container">
+    <table>
+      <thead>
+        <tr>
+          <th>Domain / Ask Price</th>
+          <th>🔤 Linguistic</th>
+          <th>🏷️ Brandability</th>
+          <th>💼 Commercial</th>
+          <th>⚠️ Risk Flags</th>
+          <th>Score / ROI</th>
+          <th>Verdict</th>
+          <th>💡 Suggested Action + Market Data</th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <!-- 1. sharafs.com -->
+        <tr class="row-drop">
+          <td><div class="domain-name">sharafs.com</div><div class="domain-price">$75,888</div></td>
+          <td class="score-cell">
+            <div class="score-val">6.5</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:65%"></div></div>
+            <div class="score-detail">Pron:6 Spell:6 Phon:6<br>Len:10(7ch) Struct:5</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">5.5</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:55%"></div></div>
+            <div class="score-detail">Mem:5 Uniq:7 Emot:5<br>Vis:5 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">3.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:35%"></div></div>
+            <div class="score-detail">Ind:4 Pool:4 Geo:3<br>Trend:3 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text risk-high">Personal/family name (Arabic for "honour"); extreme geo-specificity; no English buyer pool exists at this price tier</div></td>
+          <td>
+            <div class="overall-score overall-red">3.73</div>
+            <div><span class="roi-badge roi-low">ROI: Low</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">No keyword match</div>
+          </td>
+          <td><span class="verdict-badge v-drop">🔴 DROP</span></td>
+          <td class="action-cell">
+            <div class="action-text">Drop — Arabic personal name with no viable English buyer pool; price is ~20× realistic market value</div>
+            <span class="price-tag price-over">Severely Overpriced</span>
+          </td>
+        </tr>
+
+        <!-- 2. flokita.com -->
+        <tr class="row-consider">
+          <td><div class="domain-name">flokita.com</div><div class="domain-price">$19,888</div></td>
+          <td class="score-cell">
+            <div class="score-val">7.5</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:75%"></div></div>
+            <div class="score-detail">Pron:8 Spell:7 Phon:8<br>Len:10(7ch) Struct:7</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">7.5</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:75%"></div></div>
+            <div class="score-detail">Mem:8 Uniq:8 Emot:7<br>Vis:8 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">5.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:55%"></div></div>
+            <div class="score-detail">Ind:5 Pool:6 Geo:9<br>Trend:5 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text">None significant — coined word, no trademark conflicts detected</div></td>
+          <td>
+            <div class="overall-score overall-yellow">5.62</div>
+            <div><span class="roi-badge roi-low">ROI: Low</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">Coined word — no sales data</div>
+          </td>
+          <td><span class="verdict-badge v-consider">🟡 CONSIDER</span></td>
+          <td class="action-cell">
+            <div class="action-text">Reprice to $4,988–$6,988; playful brandable suits fashion/beauty/pet startups; current ask is 3× realistic ceiling</div>
+            <span class="price-tag price-over">Overpriced</span>
+          </td>
+        </tr>
+
+        <!-- 3. realionaire.com -->
+        <tr class="row-consider">
+          <td><div class="domain-name">realionaire.com</div><div class="domain-price">$9,988</div></td>
+          <td class="score-cell">
+            <div class="score-val">8.0</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:80%"></div></div>
+            <div class="score-detail">Pron:8 Spell:8 Phon:8<br>Len:8(11ch) Struct:8</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">8.5</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:85%"></div></div>
+            <div class="score-detail">Mem:9 Uniq:9 Emot:9<br>Vis:8 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">7.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:75%"></div></div>
+            <div class="score-detail">Ind:8 Pool:7 Geo:9<br>Trend:7 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text">None — clean portmanteau (real + millionaire), no proximity conflicts</div></td>
+          <td>
+            <div class="overall-score overall-yellow">6.65</div>
+            <div><span class="roi-badge roi-med">ROI: Medium</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">Portmanteau — no sales data</div>
+          </td>
+          <td><span class="verdict-badge v-consider">🟡 CONSIDER</span></td>
+          <td class="action-cell">
+            <div class="action-text">Top portfolio asset — aspirational wealth portmanteau; increase ask to $14,988; target fintech, wealth coaching or real estate platforms</div>
+            <span class="price-tag price-under">Underpriced</span>
+          </td>
+        </tr>
+
+        <!-- 4. gptebook.com -->
+        <tr class="row-drop">
+          <td><div class="domain-name">gptebook.com</div><div class="domain-price">$9,988</div></td>
+          <td class="score-cell">
+            <div class="score-val">7.0</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:70%"></div></div>
+            <div class="score-detail">Pron:7 Spell:7 Phon:6<br>Len:8(10ch) Struct:6</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">6.0</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:60%"></div></div>
+            <div class="score-detail">Mem:7 Uniq:5 Emot:6<br>Vis:5 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">6.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:65%"></div></div>
+            <div class="score-detail">Ind:7 Pool:6 Geo:9<br>Trend:8 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text risk-high">🚨 GPT = OpenAI trademark proximity — UDRP/legal exposure; trend-dependent shelf life; name becomes worthless if AI terminology shifts</div></td>
+          <td>
+            <div class="overall-score overall-red">4.75</div>
+            <div><span class="roi-badge roi-low">ROI: Low</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">GPT: 6 sales, avg $6,303<br>ebook: 6 sales, avg $4,638</div>
+          </td>
+          <td><span class="verdict-badge v-drop">🔴 DROP</span></td>
+          <td class="action-cell">
+            <div class="action-text">Drop — GPT trademark proximity to OpenAI creates material legal/UDRP risk that no buyer will accept</div>
+            <span class="price-tag price-over">Overpriced</span>
+          </td>
+        </tr>
+
+        <!-- 5. desktopscout.com -->
+        <tr class="row-consider">
+          <td><div class="domain-name">desktopscout.com</div><div class="domain-price">$4,988</div></td>
+          <td class="score-cell">
+            <div class="score-val">6.5</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:65%"></div></div>
+            <div class="score-detail">Pron:7 Spell:8 Phon:6<br>Len:5(13ch) Struct:7</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">6.5</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:65%"></div></div>
+            <div class="score-detail">Mem:7 Uniq:6 Emot:6<br>Vis:7 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">6.0</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:60%"></div></div>
+            <div class="score-detail">Ind:6 Pool:6 Geo:9<br>Trend:5 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text">None — clean compound; no trademark conflicts</div></td>
+          <td>
+            <div class="overall-score overall-yellow">5.22</div>
+            <div><span class="roi-badge roi-med">ROI: Medium</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">desktop: 5 sales, avg $3,515<br>scout: 4 sales, avg $7,837</div>
+          </td>
+          <td><span class="verdict-badge v-consider">🟡 CONSIDER</span></td>
+          <td class="action-cell">
+            <div class="action-text">Reprice to $2,988; target IT asset management or productivity SaaS; scout keyword commands solid premiums</div>
+            <span class="price-tag price-fair">Fairly Priced</span>
+          </td>
+        </tr>
+
+        <!-- 6. crystalwinner.com -->
+        <tr class="row-consider">
+          <td><div class="domain-name">crystalwinner.com</div><div class="domain-price">$4,988</div></td>
+          <td class="score-cell">
+            <div class="score-val">6.5</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:65%"></div></div>
+            <div class="score-detail">Pron:7 Spell:8 Phon:7<br>Len:5(13ch) Struct:7</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">6.5</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:65%"></div></div>
+            <div class="score-detail">Mem:7 Uniq:6 Emot:7<br>Vis:7 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">6.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:65%"></div></div>
+            <div class="score-detail">Ind:7 Pool:6 Geo:9<br>Trend:6 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text">None significant</div></td>
+          <td>
+            <div class="overall-score overall-yellow">5.38</div>
+            <div><span class="roi-badge roi-med">ROI: Medium</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace"><span class="kw-strong">winner: 5 sales, avg $46,273 🔥</span><br>crystal: 1 sale, avg $2,950</div>
+          </td>
+          <td><span class="verdict-badge v-consider">🟡 CONSIDER</span></td>
+          <td class="action-cell">
+            <div class="action-text">Winner keyword commands exceptional premiums ($46K avg) — hold or nudge to $5,988; target gaming rewards, loyalty, or awards platforms</div>
+            <span class="price-tag price-under">Underpriced</span>
+          </td>
+        </tr>
+
+        <!-- 7. grafula.com -->
+        <tr class="row-drop">
+          <td><div class="domain-name">grafula.com</div><div class="domain-price">$4,988</div></td>
+          <td class="score-cell">
+            <div class="score-val">6.0</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:60%"></div></div>
+            <div class="score-detail">Pron:6 Spell:6 Phon:5<br>Len:10(7ch) Struct:7</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">5.0</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:50%"></div></div>
+            <div class="score-detail">Mem:5 Uniq:7 Emot:4<br>Vis:5 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">4.0</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:40%"></div></div>
+            <div class="score-detail">Ind:4 Pool:4 Geo:9<br>Trend:3 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text">Phonetic similarity to "Dracula" creates minor negative association; no clear meaning or buyer segment; invented with no obvious angle</div></td>
+          <td>
+            <div class="overall-score overall-red">3.75</div>
+            <div><span class="roi-badge roi-low">ROI: Low</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">No keyword match</div>
+          </td>
+          <td><span class="verdict-badge v-drop">🔴 DROP</span></td>
+          <td class="action-cell">
+            <div class="action-text">Drop — no identifiable buyer segment, slight horror/dark phonetics, no supporting keyword market</div>
+            <span class="price-tag price-over">Overpriced</span>
+          </td>
+        </tr>
+
+        <!-- 8. aquadale.com -->
+        <tr class="row-consider">
+          <td><div class="domain-name">aquadale.com</div><div class="domain-price">$4,988</div></td>
+          <td class="score-cell">
+            <div class="score-val">7.5</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:75%"></div></div>
+            <div class="score-detail">Pron:8 Spell:8 Phon:8<br>Len:8(9ch) Struct:7</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">7.0</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:70%"></div></div>
+            <div class="score-detail">Mem:7 Uniq:7 Emot:7<br>Vis:8 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">5.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:55%"></div></div>
+            <div class="score-detail">Ind:5 Pool:6 Geo:8<br>Trend:5 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text">None — clean, natural-feeling coined word</div></td>
+          <td>
+            <div class="overall-score overall-yellow">5.47</div>
+            <div><span class="roi-badge roi-med">ROI: Medium</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">Coined compound — no direct sales data</div>
+          </td>
+          <td><span class="verdict-badge v-consider">🟡 CONSIDER</span></td>
+          <td class="action-cell">
+            <div class="action-text">Hold at $4,988; target water brands, spa/wellness, or residential real estate developers — evocative, clean aesthetics</div>
+            <span class="price-tag price-fair">Fairly Priced</span>
+          </td>
+        </tr>
+
+        <!-- 9. ripell.com -->
+        <tr class="row-drop">
+          <td><div class="domain-name">ripell.com</div><div class="domain-price">$4,988</div></td>
+          <td class="score-cell">
+            <div class="score-val">6.5</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:65%"></div></div>
+            <div class="score-detail">Pron:6 Spell:7 Phon:6<br>Len:10(6ch) Struct:7</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">5.0</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:50%"></div></div>
+            <div class="score-detail">Mem:5 Uniq:7 Emot:4<br>Vis:5 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">3.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:35%"></div></div>
+            <div class="score-detail">Ind:3 Pool:4 Geo:9<br>Trend:3 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text risk-high">Leading syllable "RIP" = Rest In Peace; ambiguous pronunciation (rip-ELL vs RI-pell); no industry anchor</div></td>
+          <td>
+            <div class="overall-score overall-red">3.72</div>
+            <div><span class="roi-badge roi-low">ROI: Low</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">No keyword match</div>
+          </td>
+          <td><span class="verdict-badge v-drop">🔴 DROP</span></td>
+          <td class="action-cell">
+            <div class="action-text">Drop — RIP connotation is a hard blocker for most commercial use cases; no identifiable buyer segment</div>
+            <span class="price-tag price-over">Overpriced</span>
+          </td>
+        </tr>
+
+        <!-- 10. livevibecoding.com -->
+        <tr class="row-drop">
+          <td><div class="domain-name">livevibecoding.com</div><div class="domain-price">$4,988</div></td>
+          <td class="score-cell">
+            <div class="score-val">5.5</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:55%"></div></div>
+            <div class="score-detail">Pron:6 Spell:7 Phon:6<br>Len:5(15ch) Struct:5</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">5.5</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:55%"></div></div>
+            <div class="score-detail">Mem:5 Uniq:6 Emot:6<br>Vis:5 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">5.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:55%"></div></div>
+            <div class="score-detail">Ind:6 Pool:5 Geo:9<br>Trend:6 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text">15 characters — too long for effective brand use; inferior to codeinvibe.com in this portfolio; three-word phrase structure</div></td>
+          <td>
+            <div class="overall-score overall-red">4.38</div>
+            <div><span class="roi-badge roi-low">ROI: Low</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">vibe: 5 sales, avg $8,671<br>coding: 4 sales, avg $5,225</div>
+          </td>
+          <td><span class="verdict-badge v-drop">🔴 DROP</span></td>
+          <td class="action-cell">
+            <div class="action-text">Drop — redundant with codeinvibe.com; unwieldy 15-char three-word phrase; no brand traction possible</div>
+            <span class="price-tag price-over">Overpriced</span>
+          </td>
+        </tr>
+
+        <!-- 11. onlinevibecoding.com -->
+        <tr class="row-drop">
+          <td><div class="domain-name">onlinevibecoding.com</div><div class="domain-price">$4,988</div></td>
+          <td class="score-cell">
+            <div class="score-val">4.0</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:40%"></div></div>
+            <div class="score-detail">Pron:5 Spell:6 Phon:5<br>Len:2(18ch) Struct:3</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">4.0</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:40%"></div></div>
+            <div class="score-detail">Mem:4 Uniq:4 Emot:4<br>Vis:3 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">4.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:45%"></div></div>
+            <div class="score-detail">Ind:5 Pool:4 Geo:9<br>Trend:5 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text risk-high">18 characters — worst in portfolio for length; 4-word descriptor; completely unbrandable; no buyer will pay for this</div></td>
+          <td>
+            <div class="overall-score overall-red">3.25</div>
+            <div><span class="roi-badge roi-low">ROI: Low</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">online: 12 sales, avg $50,482<br>vibe: 5 sales, avg $8,671<br>coding: 4 sales, avg $5,225</div>
+          </td>
+          <td><span class="verdict-badge v-drop">🔴 DROP</span></td>
+          <td class="action-cell">
+            <div class="action-text">Drop immediately — worst-scored domain in portfolio; 18 chars, 4-word phrase, zero brand utility</div>
+            <span class="price-tag price-over">Severely Overpriced</span>
+          </td>
+        </tr>
+
+        <!-- 12. codeinvibe.com -->
+        <tr class="row-consider">
+          <td><div class="domain-name">codeinvibe.com</div><div class="domain-price">$4,988</div></td>
+          <td class="score-cell">
+            <div class="score-val">7.5</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:75%"></div></div>
+            <div class="score-detail">Pron:8 Spell:8 Phon:8<br>Len:8(11ch) Struct:7</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">7.0</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:70%"></div></div>
+            <div class="score-detail">Mem:7 Uniq:7 Emot:7<br>Vis:7 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">6.0</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:60%"></div></div>
+            <div class="score-detail">Ind:6 Pool:6 Geo:9<br>Trend:7 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text">None — cleanest of the three vibe-coding names; energetic, modern feel</div></td>
+          <td>
+            <div class="overall-score overall-yellow">5.62</div>
+            <div><span class="roi-badge roi-med">ROI: Medium</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">vibe: 5 sales, avg $8,671<br>coding implied: avg $5,225</div>
+          </td>
+          <td><span class="verdict-badge v-consider">🟡 CONSIDER</span></td>
+          <td class="action-cell">
+            <div class="action-text">Best of the vibe-coding trio — target coding bootcamps, developer communities, or streaming platforms; hold at $4,988</div>
+            <span class="price-tag price-fair">Fairly Priced</span>
+          </td>
+        </tr>
+
+        <!-- 13. defensehomes.com -->
+        <tr class="row-drop">
+          <td><div class="domain-name">defensehomes.com</div><div class="domain-price">$4,988</div></td>
+          <td class="score-cell">
+            <div class="score-val">6.5</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:65%"></div></div>
+            <div class="score-detail">Pron:7 Spell:8 Phon:6<br>Len:5(13ch) Struct:7</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">5.5</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:55%"></div></div>
+            <div class="score-detail">Mem:5 Uniq:6 Emot:5<br>Vis:6 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">6.0</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:60%"></div></div>
+            <div class="score-detail">Ind:6 Pool:5 Geo:9<br>Trend:5 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text">Conceptually awkward — "defense" implies military/government, clashing with residential "homes"; defence: 0 exact sales</div></td>
+          <td>
+            <div class="overall-score overall-red">4.77</div>
+            <div><span class="roi-badge roi-low">ROI: Low</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">defense: 0 exact sales (16 start)<br>homes: 9 sales, avg $17,241</div>
+          </td>
+          <td><span class="verdict-badge v-drop">🔴 DROP</span></td>
+          <td class="action-cell">
+            <div class="action-text">Drop or reprice to $1,988 — homes keyword is valuable but "defense" pairing confuses buyer messaging</div>
+            <span class="price-tag price-over">Overpriced</span>
+          </td>
+        </tr>
+
+        <!-- 14. sharedstreet.com -->
+        <tr class="row-consider">
+          <td><div class="domain-name">sharedstreet.com</div><div class="domain-price">$3,488</div></td>
+          <td class="score-cell">
+            <div class="score-val">7.5</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:75%"></div></div>
+            <div class="score-detail">Pron:8 Spell:9 Phon:7<br>Len:8(12ch) Struct:7</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">7.5</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:75%"></div></div>
+            <div class="score-detail">Mem:8 Uniq:7 Emot:8<br>Vis:8 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">6.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:65%"></div></div>
+            <div class="score-detail">Ind:7 Pool:6 Geo:8<br>Trend:7 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text">None — evocative, community-feel compound; aligns with shared economy trend</div></td>
+          <td>
+            <div class="overall-score overall-yellow">5.92</div>
+            <div><span class="roi-badge roi-med">ROI: Medium</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">street: 6 sales, avg $10,786<br>Shared economy trend ↑</div>
+          </td>
+          <td><span class="verdict-badge v-consider">🟡 CONSIDER</span></td>
+          <td class="action-cell">
+            <div class="action-text">Underpriced — increase ask to $5,988; pitch urban mobility, proptech, community platforms, or local business marketplaces</div>
+            <span class="price-tag price-under">Underpriced</span>
+          </td>
+        </tr>
+
+        <!-- 15. profryer.com -->
+        <tr class="row-drop">
+          <td><div class="domain-name">profryer.com</div><div class="domain-price">$3,488</div></td>
+          <td class="score-cell">
+            <div class="score-val">7.0</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:70%"></div></div>
+            <div class="score-detail">Pron:8 Spell:8 Phon:7<br>Len:8(9ch) Struct:7</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">5.5</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:55%"></div></div>
+            <div class="score-detail">Mem:6 Uniq:6 Emot:5<br>Vis:6 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">4.0</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:40%"></div></div>
+            <div class="score-detail">Ind:4 Pool:3 Geo:9<br>Trend:3 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text">Hyper-niche kitchen appliance reference; "fryer" has zero recorded exact or start-match domain sales</div></td>
+          <td>
+            <div class="overall-score overall-red">4.45</div>
+            <div><span class="roi-badge roi-low">ROI: Low</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace"><span style="color:var(--red)">fryer: 0 sales, 0 start-match</span><br>Zero market signal</div>
+          </td>
+          <td><span class="verdict-badge v-drop">🔴 DROP</span></td>
+          <td class="action-cell">
+            <div class="action-text">Drop — zero domain sales data for fryer keyword; market does not value this niche at any appreciable price</div>
+            <span class="price-tag price-over">Overpriced</span>
+          </td>
+        </tr>
+
+        <!-- 16. gondolina.com -->
+        <tr class="row-consider">
+          <td><div class="domain-name">gondolina.com</div><div class="domain-price">$3,488</div></td>
+          <td class="score-cell">
+            <div class="score-val">8.0</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:80%"></div></div>
+            <div class="score-detail">Pron:9 Spell:8 Phon:9<br>Len:8(9ch) Struct:8</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">7.5</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:75%"></div></div>
+            <div class="score-detail">Mem:8 Uniq:8 Emot:8<br>Vis:8 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">5.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:55%"></div></div>
+            <div class="score-detail">Ind:5 Pool:5 Geo:8<br>Trend:5 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text">None — Italian diminutive feel; warm and evocative; no trademark conflicts</div></td>
+          <td>
+            <div class="overall-score overall-yellow">5.75</div>
+            <div><span class="roi-badge roi-med">ROI: Medium</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">Evocative coined word — no direct data<br>Luxury/travel segment</div>
+          </td>
+          <td><span class="verdict-badge v-consider">🟡 CONSIDER</span></td>
+          <td class="action-cell">
+            <div class="action-text">Increase ask to $5,988 — beautiful phonetics command a premium; pitch luxury travel, Italian restaurant groups, or lifestyle brands</div>
+            <span class="price-tag price-under">Underpriced</span>
+          </td>
+        </tr>
+
+        <!-- 17. thinksmartthinkgreen.com -->
+        <tr class="row-drop">
+          <td><div class="domain-name">thinksmartthinkgreen.com</div><div class="domain-price">$3,488</div></td>
+          <td class="score-cell">
+            <div class="score-val">3.0</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:30%"></div></div>
+            <div class="score-detail">Pron:5 Spell:6 Phon:5<br>Len:2(20ch) Struct:2</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">4.0</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:40%"></div></div>
+            <div class="score-detail">Mem:3 Uniq:4 Emot:5<br>Vis:4 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">4.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:45%"></div></div>
+            <div class="score-detail">Ind:5 Pool:4 Geo:9<br>Trend:6 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text risk-high">20 characters — longest in portfolio; repetitive 4-word phrase structure; completely unbrandable; wastes strong underlying keywords</div></td>
+          <td>
+            <div class="overall-score overall-red">3.00</div>
+            <div><span class="roi-badge roi-low">ROI: Low</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">smart: 15 sales, avg $13,054<br>green: 12 sales, avg $12,177<br><span style="color:var(--red)">Trapped in terrible name</span></div>
+          </td>
+          <td><span class="verdict-badge v-drop">🔴 DROP</span></td>
+          <td class="action-cell">
+            <div class="action-text">Drop — lowest-scoring domain in portfolio; valuable keywords (smart, green) completely buried in an unbrandable 20-char phrase</div>
+            <span class="price-tag price-over">Overpriced</span>
+          </td>
+        </tr>
+
+        <!-- 18. artofnothing.com -->
+        <tr class="row-drop">
+          <td><div class="domain-name">artofnothing.com</div><div class="domain-price">$3,488</div></td>
+          <td class="score-cell">
+            <div class="score-val">7.0</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:70%"></div></div>
+            <div class="score-detail">Pron:8 Spell:9 Phon:7<br>Len:5(13ch) Struct:6</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">6.0</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:60%"></div></div>
+            <div class="score-detail">Mem:6 Uniq:6 Emot:6<br>Vis:6 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">3.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:35%"></div></div>
+            <div class="score-detail">Ind:3 Pool:4 Geo:9<br>Trend:3 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text">"Nothing" carries nihilistic commercial signal; keyword avg only $358 — market actively discounts this concept</div></td>
+          <td>
+            <div class="overall-score overall-red">4.30</div>
+            <div><span class="roi-badge roi-low">ROI: Low</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace"><span style="color:var(--red)">nothing: 1 sale, avg $358 ⚠️</span><br>Weakest keyword in dataset</div>
+          </td>
+          <td><span class="verdict-badge v-drop">🔴 DROP</span></td>
+          <td class="action-cell">
+            <div class="action-text">Drop — "nothing" keyword commands near-zero market value ($358 avg); concept too abstract; no commercial buyer exists at $3,488</div>
+            <span class="price-tag price-over">Overpriced</span>
+          </td>
+        </tr>
+
+        <!-- 19. bythegirls.com -->
+        <tr class="row-consider">
+          <td><div class="domain-name">bythegirls.com</div><div class="domain-price">$3,488</div></td>
+          <td class="score-cell">
+            <div class="score-val">7.5</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:75%"></div></div>
+            <div class="score-detail">Pron:8 Spell:9 Phon:7<br>Len:8(11ch) Struct:7</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">7.0</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:70%"></div></div>
+            <div class="score-detail">Mem:7 Uniq:7 Emot:7<br>Vis:7 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">6.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:65%"></div></div>
+            <div class="score-detail">Ind:7 Pool:5 Geo:9<br>Trend:6 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text">Gender-exclusive framing may limit addressable buyer pool; otherwise clean</div></td>
+          <td>
+            <div class="overall-score overall-yellow">5.62</div>
+            <div><span class="roi-badge roi-med">ROI: Medium</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace"><span class="kw-strong">girls: 5 sales, avg $14,057 🔥</span><br>Strong female market signal</div>
+          </td>
+          <td><span class="verdict-badge v-consider">🟡 CONSIDER</span></td>
+          <td class="action-cell">
+            <div class="action-text">Hold at $3,488 — girls keyword commands solid premium ($14K avg); target female-founded fashion, media, or lifestyle brands</div>
+            <span class="price-tag price-fair">Fairly Priced</span>
+          </td>
+        </tr>
+
+        <!-- 20. tsbfinance.com -->
+        <tr class="row-drop">
+          <td><div class="domain-name">tsbfinance.com</div><div class="domain-price">$3,488</div></td>
+          <td class="score-cell">
+            <div class="score-val">6.0</div>
+            <div class="score-bar"><div class="score-fill fill-ling" style="width:60%"></div></div>
+            <div class="score-detail">Pron:6 Spell:7 Phon:5<br>Len:8(11ch) Struct:5</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">4.5</div>
+            <div class="score-bar"><div class="score-fill fill-brand" style="width:45%"></div></div>
+            <div class="score-detail">Mem:5 Uniq:3 Emot:4<br>Vis:4 TLD:10</div>
+          </td>
+          <td class="score-cell">
+            <div class="score-val">5.5</div>
+            <div class="score-bar"><div class="score-fill fill-comm" style="width:55%"></div></div>
+            <div class="score-detail">Ind:6 Pool:5 Geo:8<br>Trend:5 Views:5</div>
+          </td>
+          <td class="risk-cell"><div class="risk-text risk-high">🚨 TSB = active UK bank brand (Banco Sabadell subsidiary) — direct trademark infringement; UDRP action virtually certain if listed publicly</div></td>
+          <td>
+            <div class="overall-score overall-red">3.60</div>
+            <div><span class="roi-badge roi-low">ROI: Low</span></div>
+            <div style="font-size:9px;color:var(--text-dim);margin-top:4px;font-family:'DM Mono',monospace">finance: 15 sales, avg $12,441<br><span style="color:var(--red)">Killed by trademark risk</span></div>
+          </td>
+          <td><span class="verdict-badge v-drop">🔴 DROP</span></td>
+          <td class="action-cell">
+            <div class="action-text">Drop immediately — TSB Bank is an active trademark; this domain is a legal liability, not an asset; strong finance keyword is irrelevant</div>
+            <span class="price-tag price-over">Overpriced</span>
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div><!-- /table-container -->
+
+  <footer>
+    <strong>Methodology Notes</strong><br>
+    Overall Score = (Linguistic × 0.25) + (Brandability × 0.30) + (Commercial × 0.30) − (Risk Penalty × 0.15) &nbsp;|&nbsp;
+    Keyword market data sourced from retailstats_20260427.csv (96,674 domain keyword records) &nbsp;|&nbsp;
+    🟢 RENEW ≥ 7.0 &nbsp;·&nbsp; 🟡 CONSIDER 5.0–6.9 &nbsp;·&nbsp; 🔴 DROP &lt; 5.0<br><br>
+    <strong>Key Findings:</strong> No domain scored high enough for unconditional RENEW. Top 3 assets: realionaire.com (6.65), sharedstreet.com (5.92), gondolina.com (5.75).
+    Immediate legal risk: tsbfinance.com (TSB trademark), gptebook.com (OpenAI GPT proximity).
+    Renew cost savings by dropping 11 domains: ~$120–$180 in annual renewal fees recovered.
+  </footer>
+
+</div><!-- /wrapper -->
+</body>
+</html>
