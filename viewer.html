@@ -364,6 +364,9 @@
   <div id="dateWrap" style="display:none">
     <select id="dateSelect" class="date-select" onchange="onDateChange()"></select>
   </div>
+  <div id="tldWrap" style="display:none">
+    <select id="tldSelect" class="date-select" onchange="onTldChange()"></select>
+  </div>
   <div class="mode-toggle">
     <button class="mode-btn active" id="btnTrending" onclick="setMode('trending')">Recently Registered</button>
     <button class="mode-btn" id="btnDropped" onclick="setMode('dropped')">No Zone Entry</button>
@@ -409,8 +412,16 @@ let rightShown     = 0;          // how many domain rows are visible in right pa
 let pageSize       = 50;         // right-panel page size (user-controlled)
 let availableDates = [];         // from data/index.json, newest first
 let selectedDate   = null;       // currently selected ddmmyyyy string
+let availableTlds  = [];         // from data/tlds.json
+let selectedTld    = 'com';      // currently selected TLD
 
 const LEFT_PAGE    = 50;         // left panel increments
+
+// ── Filename builder (TLD-aware) ───────────────────────────────────────────
+function buildFilename(base) {
+  const suffix = (selectedTld && selectedTld !== 'com') ? selectedTld : '';
+  return base + suffix + '.json';
+}
 
 // ── Mode toggle ────────────────────────────────────────────────────────────
 function setMode(m) {
@@ -418,7 +429,7 @@ function setMode(m) {
   document.getElementById('btnTrending').classList.toggle('active', m === 'trending');
   document.getElementById('btnDropped').classList.toggle('active', m === 'dropped');
   resetAll();
-  autoFetch(m === 'trending' ? 'trending.json' : 'dropped.json');
+  autoFetch(buildFilename(m === 'trending' ? 'trending' : 'dropped'));
 }
 
 function resetAll() {
@@ -467,7 +478,7 @@ function populateDateDropdown() {
 function onDateChange() {
   selectedDate = document.getElementById('dateSelect').value;
   resetAll();
-  autoFetch(mode === 'trending' ? 'trending.json' : 'dropped.json');
+  loadTlds();
 }
 
 // ── Index manifest loader ──────────────────────────────────────────────────
@@ -481,11 +492,43 @@ async function loadIndex() {
     selectedDate = availableDates[0];
     document.getElementById('dateSelect').value = selectedDate;
     document.getElementById('dateWrap').style.display = '';
-    autoFetch('trending.json');
+    await loadTlds();
   } catch (_) {
     // No index.json — date selector stays hidden, file picker is the fallback
     document.getElementById('dateWrap').style.display = 'none';
   }
+}
+
+// ── TLD helpers ───────────────────────────────────────────────────────────
+function populateTldDropdown(tlds) {
+  const sel = document.getElementById('tldSelect');
+  sel.innerHTML = tlds.map(t => `<option value="${t}">${t.toUpperCase()}</option>`).join('');
+}
+
+function onTldChange() {
+  selectedTld = document.getElementById('tldSelect').value;
+  resetAll();
+  autoFetch(buildFilename(mode === 'trending' ? 'trending' : 'dropped'));
+}
+
+async function loadTlds() {
+  try {
+    if (!selectedDate) throw new Error('no date');
+    const res = await fetch(`data/${selectedDate}/tlds.json`);
+    if (!res.ok) throw new Error('no tlds');
+    const tlds = await res.json();
+    if (!Array.isArray(tlds) || !tlds.length) throw new Error('empty');
+    availableTlds = tlds;
+    selectedTld = tlds[0];
+    populateTldDropdown(tlds);
+    document.getElementById('tldSelect').value = selectedTld;
+    document.getElementById('tldWrap').style.display = '';
+  } catch (_) {
+    // No tlds.json for this date — TLD dropdown stays hidden, defaults to 'com'
+    document.getElementById('tldWrap').style.display = 'none';
+    selectedTld = 'com';
+  }
+  autoFetch(buildFilename(mode === 'trending' ? 'trending' : 'dropped'));
 }
 
 // ── Auto-fetch (GitHub Pages / local HTTP) ─────────────────────────────────
