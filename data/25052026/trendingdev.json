@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "code",
+      "count": 10,
+      "domain_names": [
+        "almondcode.dev",
+        "basketcode.dev",
+        "birchcode.dev",
+        "code-doctrine.dev",
+        "codehopper.dev",
+        "duelcode.dev",
+        "fancode.dev",
+        "noocode.dev",
+        "scorpioncode.dev",
+        "sunnycode.dev"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "agent",
+      "count": 8,
+      "domain_names": [
+        "agent-platform-wip.dev",
+        "agent-platform.dev",
+        "agentpersonas.dev",
+        "agentsocket.dev",
+        "agentwitness.dev",
+        "corvusagent.dev",
+        "delagent.dev",
+        "liteagent.dev"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "labs",
+      "count": 8,
+      "domain_names": [
+        "critterlabs.dev",
+        "glancelabs.dev",
+        "lbl-labs.dev",
+        "mattedlabs.dev",
+        "miaolabs.dev",
+        "moalabs.dev",
+        "renolabs.dev",
+        "vogt-labs.dev"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "stack",
+      "count": 6,
+      "domain_names": [
+        "aevumstack.dev",
+        "farstack.dev",
+        "stackapp.dev",
+        "stackrift.dev",
+        "sumstack.dev",
+        "wagerstack.dev"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "forge",
+      "count": 4,
+      "domain_names": [
+        "artforge.dev",
+        "minforge.dev",
+        "outputforge.dev",
+        "radixforge.dev"
+      ]
+    },
+    {
+      "rank": 6,
+      "domain": "bloom",
+      "count": 3,
+      "domain_names": [
+        "apex-bloom.dev",
+        "nexusbloom.dev",
+        "verbloom.dev"
+      ]
+    },
+    {
+      "rank": 7,
+      "domain": "coralogix",
+      "count": 3,
+      "domain_names": [
+        "coralogix-f1-event.dev",
+        "coralogix-pole-position.dev",
+        "coralogix.dev"
+      ]
+    },
+    {
+      "rank": 8,
+      "domain": "home",
+      "count": 3,
+      "domain_names": [
+        "homecontracts.dev",
+        "homelab.dev",
+        "homelog.dev"
+      ]
+    },
+    {
+      "rank": 9,
+      "domain": "mind",
+      "count": 3,
+      "domain_names": [
+        "mindmatters.dev",
+        "scratchmind.dev",
+        "typingmind.dev"
+      ]
+    },
+    {
+      "rank": 10,
+      "domain": "open",
+      "count": 3,
+      "domain_names": [
+        "openexhibit.dev",
+        "opennook.dev",
+        "openrecipe.dev"
+      ]
+    },
+    {
+      "rank": 11,
+      "domain": "solutions",
+      "count": 3,
+      "domain_names": [
+        "entropysolutions.dev",
+        "lateralsolutions.dev",
+        "modular-solutions.dev"
+      ]
+    },
+    {
+      "rank": 12,
+      "domain": "tech",
+      "count": 3,
+      "domain_names": [
+        "jimtech.dev",
+        "josetech.dev",
+        "u-tech.dev"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 12,
+    "total": 12
+  }
+}

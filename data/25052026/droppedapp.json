@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "agent",
+      "count": 4,
+      "domain_names": [
+        "agentvest.app",
+        "cliagent.app",
+        "superagent.app",
+        "uniagent.app"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "data",
+      "count": 4,
+      "domain_names": [
+        "captaindata.app",
+        "datafund.app",
+        "dataweave.app",
+        "streamingdata.app"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "services",
+      "count": 4,
+      "domain_names": [
+        "identity-services.app",
+        "medi-services-au.app",
+        "medi-services.app",
+        "session-services.app"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "medi",
+      "count": 3,
+      "domain_names": [
+        "medi-au.app",
+        "medi-services-au.app",
+        "medi-services.app"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "open",
+      "count": 3,
+      "domain_names": [
+        "openfoundation.app",
+        "openshelf.app",
+        "openstatus.app"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 5,
+    "total": 5
+  }
+}
