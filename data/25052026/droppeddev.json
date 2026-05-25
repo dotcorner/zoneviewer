@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "agent",
+      "count": 4,
+      "domain_names": [
+        "agent-platform.dev",
+        "agentcard.dev",
+        "cliagent.dev",
+        "uniagent.dev"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "labs",
+      "count": 3,
+      "domain_names": [
+        "jefflabs.dev",
+        "victorylabs.dev",
+        "zaclabs.dev"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 2,
+    "total": 2
+  }
+}
