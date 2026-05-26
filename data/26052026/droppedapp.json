@@ -1,0 +1,145 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "shield",
+      "count": 5,
+      "domain_names": [
+        "energyshield.app",
+        "finshield.app",
+        "healthshield.app",
+        "lawshield.app",
+        "techshield.app"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "eval",
+      "count": 4,
+      "domain_names": [
+        "evalagent.app",
+        "evalchat.app",
+        "geteval.app",
+        "runeval.app"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "labs",
+      "count": 4,
+      "domain_names": [
+        "joslabs.app",
+        "labs.app",
+        "pixellabs.app",
+        "zera-labs.app"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "1919",
+      "count": 3,
+      "domain_names": [
+        "1919-zbo.app",
+        "1919.app",
+        "zbo-1919.app"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "agent",
+      "count": 3,
+      "domain_names": [
+        "agentignite.app",
+        "evalagent.app",
+        "gitagent.app"
+      ]
+    },
+    {
+      "rank": 6,
+      "domain": "chat",
+      "count": 3,
+      "domain_names": [
+        "chatorbit.app",
+        "evalchat.app",
+        "washchat.app"
+      ]
+    },
+    {
+      "rank": 7,
+      "domain": "cross",
+      "count": 3,
+      "domain_names": [
+        "crossclave.app",
+        "goldencross.app",
+        "greencross.app"
+      ]
+    },
+    {
+      "rank": 8,
+      "domain": "finance",
+      "count": 3,
+      "domain_names": [
+        "apexfinance.app",
+        "solsticefinance.app",
+        "solsticesfinance.app"
+      ]
+    },
+    {
+      "rank": 9,
+      "domain": "flow",
+      "count": 3,
+      "domain_names": [
+        "flow-state.app",
+        "flowmetric.app",
+        "unitflow.app"
+      ]
+    },
+    {
+      "rank": 10,
+      "domain": "hield",
+      "count": 3,
+      "domain_names": [
+        "finshield.app",
+        "healthshield.app",
+        "lawshield.app"
+      ]
+    },
+    {
+      "rank": 11,
+      "domain": "nutriscan",
+      "count": 3,
+      "domain_names": [
+        "nutriscan-ai.app",
+        "nutriscan-ia.app",
+        "nutriscan.app"
+      ]
+    },
+    {
+      "rank": 12,
+      "domain": "time",
+      "count": 3,
+      "domain_names": [
+        "timefusion.app",
+        "timelet.app",
+        "timemine.app"
+      ]
+    },
+    {
+      "rank": 13,
+      "domain": "unipeg",
+      "count": 3,
+      "domain_names": [
+        "dao-unipeg.app",
+        "snapshot-unipeg.app",
+        "unipeg.app"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 13,
+    "total": 13
+  }
+}

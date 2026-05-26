@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "bluejay",
+      "count": 4,
+      "domain_names": [
+        "bluejayfeedback.dev",
+        "bluejayratings.dev",
+        "bluejayrevues.dev",
+        "bluejayscores.dev"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "eval",
+      "count": 4,
+      "domain_names": [
+        "evalagent.dev",
+        "evalchat.dev",
+        "geteval.dev",
+        "runeval.dev"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "stack",
+      "count": 4,
+      "domain_names": [
+        "every-stack.dev",
+        "stackless.dev",
+        "stackmine.dev",
+        "stackpro.dev"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "code",
+      "count": 3,
+      "domain_names": [
+        "coderight.dev",
+        "romanscode.dev",
+        "thecode.dev"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "space",
+      "count": 3,
+      "domain_names": [
+        "jobspace.dev",
+        "space-schnoodle.dev",
+        "spacetoad.dev"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 5,
+    "total": 5
+  }
+}
