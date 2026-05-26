@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "agent",
+      "count": 8,
+      "domain_names": [
+        "agent-fdr8r.dev",
+        "agent-tunnel.dev",
+        "agentfederator.dev",
+        "agentfolio.dev",
+        "agentmake.dev",
+        "fluxagent.dev",
+        "notagent.dev",
+        "pawagent.dev"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "bank",
+      "count": 4,
+      "domain_names": [
+        "bankowner.dev",
+        "bankrobber.dev",
+        "cashbank.dev",
+        "safebank.dev"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "code",
+      "count": 4,
+      "domain_names": [
+        "codehealing.dev",
+        "codesip.dev",
+        "joancode.dev",
+        "motioncode.dev"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "digital",
+      "count": 4,
+      "domain_names": [
+        "bc-digital-archive.dev",
+        "digitalgeek.dev",
+        "digitalgoods.dev",
+        "harbordigital.dev"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "tech",
+      "count": 4,
+      "domain_names": [
+        "alextech.dev",
+        "alliancetech.dev",
+        "cantech.dev",
+        "novatech.dev"
+      ]
+    },
+    {
+      "rank": 6,
+      "domain": "works",
+      "count": 4,
+      "domain_names": [
+        "codingworks.dev",
+        "cyanworks.dev",
+        "echoworks.dev",
+        "multiworks.dev"
+      ]
+    },
+    {
+      "rank": 7,
+      "domain": "billy",
+      "count": 3,
+      "domain_names": [
+        "billy-arredondo.dev",
+        "billy.dev",
+        "skillbilly.dev"
+      ]
+    },
+    {
+      "rank": 8,
+      "domain": "dream",
+      "count": 3,
+      "domain_names": [
+        "dreamcatcher.dev",
+        "dreamdate.dev",
+        "dreamteams.dev"
+      ]
+    },
+    {
+      "rank": 9,
+      "domain": "labs",
+      "count": 3,
+      "domain_names": [
+        "coo-labs.dev",
+        "gallantlabs.dev",
+        "loopbacklabs.dev"
+      ]
+    },
+    {
+      "rank": 10,
+      "domain": "open",
+      "count": 3,
+      "domain_names": [
+        "openanvil.dev",
+        "openmkt.dev",
+        "opennovel.dev"
+      ]
+    },
+    {
+      "rank": 11,
+      "domain": "prompt",
+      "count": 3,
+      "domain_names": [
+        "heroprompt.dev",
+        "promptrex.dev",
+        "promptweb.dev"
+      ]
+    },
+    {
+      "rank": 12,
+      "domain": "simulator",
+      "count": 3,
+      "domain_names": [
+        "ios-simulator.dev",
+        "iossimulator.dev",
+        "simulator.dev"
+      ]
+    },
+    {
+      "rank": 13,
+      "domain": "yard",
+      "count": 3,
+      "domain_names": [
+        "emberyard.dev",
+        "protoyard.dev",
+        "yardbird.dev"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 13,
+    "total": 13
+  }
+}
