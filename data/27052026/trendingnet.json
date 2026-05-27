@@ -1,0 +1,2313 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "shop",
+      "count": 12,
+      "domain_names": [
+        "animationshop.net",
+        "cortexshop.net",
+        "dreamyshop.net",
+        "proudshop.net",
+        "shopany.net",
+        "shopbrasil.net",
+        "shoplady.net",
+        "shoprabbit.net",
+        "shoprelume.net",
+        "shoptrans.net",
+        "shopvoid.net",
+        "steveshop.net"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "ingredients",
+      "count": 10,
+      "domain_names": [
+        "citrusingredients.net",
+        "cosmeticingredients.net",
+        "fermentedingredients.net",
+        "longevityingredients.net",
+        "moisturizingingredients.net",
+        "peptideingredients.net",
+        "preservativeingredients.net",
+        "sleepingredients.net",
+        "soapingredients.net",
+        "soyingredients.net"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "agent",
+      "count": 9,
+      "domain_names": [
+        "agentelect.net",
+        "agentfarm.net",
+        "agentguards.net",
+        "coolingagent.net",
+        "fineagent.net",
+        "novaagent.net",
+        "promptagent.net",
+        "shadowsagent.net",
+        "soulagent.net"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "fabric",
+      "count": 9,
+      "domain_names": [
+        "artifactfabric.net",
+        "certificationfabric.net",
+        "deliveryfabric.net",
+        "issuancefabric.net",
+        "observationfabric.net",
+        "quarantinefabric.net",
+        "retentionfabric.net",
+        "suspensionfabric.net",
+        "terminationfabric.net"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "supplier",
+      "count": 9,
+      "domain_names": [
+        "berberinesupplier.net",
+        "collagensupplier.net",
+        "ergothioneinesupplier.net",
+        "glutathionesupplier.net",
+        "inulinsupplier.net",
+        "luteinsupplier.net",
+        "rutinsupplier.net",
+        "surfactantsupplier.net",
+        "taurinesupplier.net"
+      ]
+    },
+    {
+      "rank": 6,
+      "domain": "digital",
+      "count": 7,
+      "domain_names": [
+        "digitalrecovery.net",
+        "limestonedigital.net",
+        "moonlightdigital.net",
+        "outsetdigital.net",
+        "peerlessdigital.net",
+        "prometheusdigital.net",
+        "revivedigital.net"
+      ]
+    },
+    {
+      "rank": 7,
+      "domain": "factory",
+      "count": 7,
+      "domain_names": [
+        "creatinefactory.net",
+        "eternityfactory.net",
+        "fragrancefactory.net",
+        "infofactory.net",
+        "omegafactory.net",
+        "supportfactory.net",
+        "vanillafactory.net"
+      ]
+    },
+    {
+      "rank": 8,
+      "domain": "labs",
+      "count": 7,
+      "domain_names": [
+        "batterylabs.net",
+        "checkmatelabs.net",
+        "julianlabs.net",
+        "noblelabs.net",
+        "pharaohlabs.net",
+        "potentialitylabs.net",
+        "prunelabs.net"
+      ]
+    },
+    {
+      "rank": 9,
+      "domain": "mail",
+      "count": 7,
+      "domain_names": [
+        "mailmyself.net",
+        "mailviewer.net",
+        "mailwave.net",
+        "mailyoke.net",
+        "potentialmail.net",
+        "revemail.net",
+        "secretmail.net"
+      ]
+    },
+    {
+      "rank": 10,
+      "domain": "tech",
+      "count": 7,
+      "domain_names": [
+        "exontech.net",
+        "juliustech.net",
+        "sharetech.net",
+        "taputech.net",
+        "techcats.net",
+        "trefoiltech.net",
+        "zodiactech.net"
+      ]
+    },
+    {
+      "rank": 11,
+      "domain": "tools",
+      "count": 7,
+      "domain_names": [
+        "banktools.net",
+        "eventtools.net",
+        "hashtools.net",
+        "makotools.net",
+        "mattertools.net",
+        "mealtools.net",
+        "radtools.net"
+      ]
+    },
+    {
+      "rank": 12,
+      "domain": "vibe",
+      "count": 7,
+      "domain_names": [
+        "corevibe.net",
+        "stridevibe.net",
+        "tapvibe.net",
+        "vibeexperience.net",
+        "vibemine.net",
+        "vibepod.net",
+        "vibestride.net"
+      ]
+    },
+    {
+      "rank": 13,
+      "domain": "well",
+      "count": 7,
+      "domain_names": [
+        "expandswell.net",
+        "leavingwell.net",
+        "ourwell.net",
+        "sendwell.net",
+        "wellaback.net",
+        "wellera.net",
+        "welluseful.net"
+      ]
+    },
+    {
+      "rank": 14,
+      "domain": "agency",
+      "count": 6,
+      "domain_names": [
+        "apolloagency.net",
+        "cadenceagency.net",
+        "centralagency.net",
+        "contractoragency.net",
+        "relayagency.net",
+        "simpleragency.net"
+      ]
+    },
+    {
+      "rank": 15,
+      "domain": "brand",
+      "count": 6,
+      "domain_names": [
+        "brandalign.net",
+        "brandcompany.net",
+        "brandgym.net",
+        "minimabrand.net",
+        "missbrand.net",
+        "streetbrand.net"
+      ]
+    },
+    {
+      "rank": 16,
+      "domain": "chat",
+      "count": 6,
+      "domain_names": [
+        "chateditor.net",
+        "chatkal.net",
+        "chatmanager.net",
+        "moonchat.net",
+        "velchat.net",
+        "whatschat.net"
+      ]
+    },
+    {
+      "rank": 17,
+      "domain": "craft",
+      "count": 6,
+      "domain_names": [
+        "archcraft.net",
+        "clapcraft.net",
+        "corescraft.net",
+        "cosycraft.net",
+        "craftchain.net",
+        "tarcraft.net"
+      ]
+    },
+    {
+      "rank": 18,
+      "domain": "extract",
+      "count": 6,
+      "domain_names": [
+        "cinnamonextract.net",
+        "extractliquid.net",
+        "frankincenseextract.net",
+        "ginkgoextract.net",
+        "rosemaryextract.net",
+        "steviaextract.net"
+      ]
+    },
+    {
+      "rank": 19,
+      "domain": "flow",
+      "count": 6,
+      "domain_names": [
+        "blocflow.net",
+        "editflow.net",
+        "flowtogether.net",
+        "humanflow.net",
+        "noreflow.net",
+        "tuitionflow.net"
+      ]
+    },
+    {
+      "rank": 20,
+      "domain": "grid",
+      "count": 6,
+      "domain_names": [
+        "artisangrid.net",
+        "gridblast.net",
+        "gridburst.net",
+        "gridperformance.net",
+        "gridskin.net",
+        "pagegrid.net"
+      ]
+    },
+    {
+      "rank": 21,
+      "domain": "group",
+      "count": 6,
+      "domain_names": [
+        "ambasgroup.net",
+        "deadeyegroup.net",
+        "groupride.net",
+        "parusgroup.net",
+        "slaintegroup.net",
+        "symbolgroup.net"
+      ]
+    },
+    {
+      "rank": 22,
+      "domain": "home",
+      "count": 6,
+      "domain_names": [
+        "gadgethome.net",
+        "homesignal.net",
+        "loxhome.net",
+        "speedhome.net",
+        "swinneyhome.net",
+        "texhome.net"
+      ]
+    },
+    {
+      "rank": 23,
+      "domain": "portal",
+      "count": 6,
+      "domain_names": [
+        "certportal.net",
+        "examportal.net",
+        "portaldesk.net",
+        "portaldesks.net",
+        "portaltoto.net",
+        "rasaportal.net"
+      ]
+    },
+    {
+      "rank": 24,
+      "domain": "store",
+      "count": 6,
+      "domain_names": [
+        "conversestore.net",
+        "formestore.net",
+        "inspirestore.net",
+        "kuwaitstore.net",
+        "mogstore.net",
+        "robstore.net"
+      ]
+    },
+    {
+      "rank": 25,
+      "domain": "wave",
+      "count": 6,
+      "domain_names": [
+        "clickswave.net",
+        "lingowave.net",
+        "mailwave.net",
+        "polywave.net",
+        "wavecrowd.net",
+        "wavepane.net"
+      ]
+    },
+    {
+      "rank": 26,
+      "domain": "world",
+      "count": 6,
+      "domain_names": [
+        "chucksworld.net",
+        "pesworld.net",
+        "twayworld.net",
+        "worldabroad.net",
+        "worldpages.net",
+        "worldvote.net"
+      ]
+    },
+    {
+      "rank": 27,
+      "domain": "apex",
+      "count": 5,
+      "domain_names": [
+        "agelessapex.net",
+        "apexcamp.net",
+        "apexoverworld.net",
+        "apexsalon.net",
+        "apexverse.net"
+      ]
+    },
+    {
+      "rank": 28,
+      "domain": "book",
+      "count": 5,
+      "domain_names": [
+        "bookaclinic.net",
+        "infinitebook.net",
+        "investingbook.net",
+        "mosaicbook.net",
+        "whybook.net"
+      ]
+    },
+    {
+      "rank": 29,
+      "domain": "cloud",
+      "count": 5,
+      "domain_names": [
+        "barracudacloud.net",
+        "bucklercloud.net",
+        "carpentercloud.net",
+        "cloudcouch.net",
+        "matthewcloud.net"
+      ]
+    },
+    {
+      "rank": 30,
+      "domain": "fine",
+      "count": 5,
+      "domain_names": [
+        "fineagent.net",
+        "finedora.net",
+        "finemoss.net",
+        "finesubtle.net",
+        "pleasantfine.net"
+      ]
+    },
+    {
+      "rank": 31,
+      "domain": "games",
+      "count": 5,
+      "domain_names": [
+        "eiregames.net",
+        "pandagames.net",
+        "roadrunnergames.net",
+        "transgames.net",
+        "vectorgames.net"
+      ]
+    },
+    {
+      "rank": 32,
+      "domain": "homes",
+      "count": 5,
+      "domain_names": [
+        "closerhomes.net",
+        "homeshak.net",
+        "homesmaintenance.net",
+        "watsonhomes.net",
+        "wrighthomes.net"
+      ]
+    },
+    {
+      "rank": 33,
+      "domain": "link",
+      "count": 5,
+      "domain_names": [
+        "hazardlink.net",
+        "iconlink.net",
+        "linkmask.net",
+        "linkonce.net",
+        "linkoos.net"
+      ]
+    },
+    {
+      "rank": 34,
+      "domain": "moon",
+      "count": 5,
+      "domain_names": [
+        "highlandmoon.net",
+        "ladymoon.net",
+        "moonchat.net",
+        "moonpeople.net",
+        "moonpet.net"
+      ]
+    },
+    {
+      "rank": 35,
+      "domain": "note",
+      "count": 5,
+      "domain_names": [
+        "animalnote.net",
+        "firstnote.net",
+        "noteassist.net",
+        "notehost.net",
+        "softnote.net"
+      ]
+    },
+    {
+      "rank": 36,
+      "domain": "online",
+      "count": 5,
+      "domain_names": [
+        "bhutanonline.net",
+        "counsellingonline.net",
+        "novelonline.net",
+        "onlinedebates.net",
+        "staronline.net"
+      ]
+    },
+    {
+      "rank": 37,
+      "domain": "open",
+      "count": 5,
+      "domain_names": [
+        "openforums.net",
+        "openjugger.net",
+        "openlode.net",
+        "openmaze.net",
+        "openorder.net"
+      ]
+    },
+    {
+      "rank": 38,
+      "domain": "save",
+      "count": 5,
+      "domain_names": [
+        "overloadsave.net",
+        "savebest.net",
+        "savehajj.net",
+        "savemotion.net",
+        "savepreserve.net"
+      ]
+    },
+    {
+      "rank": 39,
+      "domain": "slot",
+      "count": 5,
+      "domain_names": [
+        "duoslot.net",
+        "limaslot.net",
+        "selslot.net",
+        "slotnix.net",
+        "tripslot.net"
+      ]
+    },
+    {
+      "rank": 40,
+      "domain": "soft",
+      "count": 5,
+      "domain_names": [
+        "cubasoft.net",
+        "softmask.net",
+        "softnote.net",
+        "softstrength.net",
+        "vehiclesoft.net"
+      ]
+    },
+    {
+      "rank": 41,
+      "domain": "tore",
+      "count": 5,
+      "domain_names": [
+        "conversestore.net",
+        "formestore.net",
+        "inspirestore.net",
+        "mogstore.net",
+        "robstore.net"
+      ]
+    },
+    {
+      "rank": 42,
+      "domain": "toto",
+      "count": 5,
+      "domain_names": [
+        "cumtoto.net",
+        "galatoto.net",
+        "garytoto.net",
+        "jaktoto.net",
+        "portaltoto.net"
+      ]
+    },
+    {
+      "rank": 43,
+      "domain": "trip",
+      "count": 5,
+      "domain_names": [
+        "deepstrip.net",
+        "sailingtrip.net",
+        "surpasstrip.net",
+        "tripapply.net",
+        "tripslot.net"
+      ]
+    },
+    {
+      "rank": 44,
+      "domain": "advisors",
+      "count": 4,
+      "domain_names": [
+        "gritadvisors.net",
+        "newgroundadvisors.net",
+        "ouradvisors.net",
+        "wingmanadvisors.net"
+      ]
+    },
+    {
+      "rank": 45,
+      "domain": "apparel",
+      "count": 4,
+      "domain_names": [
+        "outpostapparel.net",
+        "rippedapparel.net",
+        "shorelineapparel.net",
+        "vertexapparel.net"
+      ]
+    },
+    {
+      "rank": 46,
+      "domain": "base",
+      "count": 4,
+      "domain_names": [
+        "cyberbase.net",
+        "patrickbase.net",
+        "processbase.net",
+        "recallbase.net"
+      ]
+    },
+    {
+      "rank": 47,
+      "domain": "black",
+      "count": 4,
+      "domain_names": [
+        "blackbetty.net",
+        "blackcaucus.net",
+        "blackcess.net",
+        "blackfoundry.net"
+      ]
+    },
+    {
+      "rank": 48,
+      "domain": "camp",
+      "count": 4,
+      "domain_names": [
+        "apexcamp.net",
+        "campbrainstorm.net",
+        "doorcamp.net",
+        "sunnycamp.net"
+      ]
+    },
+    {
+      "rank": 49,
+      "domain": "casa",
+      "count": 4,
+      "domain_names": [
+        "casafuster.net",
+        "casamonopoly.net",
+        "casaops.net",
+        "casasensus.net"
+      ]
+    },
+    {
+      "rank": 50,
+      "domain": "central",
+      "count": 4,
+      "domain_names": [
+        "centralagency.net",
+        "centralprinting.net",
+        "gamingcentral.net",
+        "rinkcentral.net"
+      ]
+    },
+    {
+      "rank": 51,
+      "domain": "civic",
+      "count": 4,
+      "domain_names": [
+        "civicbrief.net",
+        "civicbuild.net",
+        "civicentrepreneur.net",
+        "civictax.net"
+      ]
+    },
+    {
+      "rank": 52,
+      "domain": "club",
+      "count": 4,
+      "domain_names": [
+        "clubconsul.net",
+        "clubstanding.net",
+        "slumberclub.net",
+        "toolclub.net"
+      ]
+    },
+    {
+      "rank": 53,
+      "domain": "connect",
+      "count": 4,
+      "domain_names": [
+        "connectput.net",
+        "connectxyz.net",
+        "flatconnect.net",
+        "putconnect.net"
+      ]
+    },
+    {
+      "rank": 54,
+      "domain": "consulting",
+      "count": 4,
+      "domain_names": [
+        "allegianceconsulting.net",
+        "consultinggraphics.net",
+        "fiskconsulting.net",
+        "lariconsulting.net"
+      ]
+    },
+    {
+      "rank": 55,
+      "domain": "core",
+      "count": 4,
+      "domain_names": [
+        "altscore.net",
+        "corevibe.net",
+        "malicecore.net",
+        "stericore.net"
+      ]
+    },
+    {
+      "rank": 56,
+      "domain": "desk",
+      "count": 4,
+      "domain_names": [
+        "callbackdesk.net",
+        "heliodesk.net",
+        "portaldesk.net",
+        "rosterdesk.net"
+      ]
+    },
+    {
+      "rank": 57,
+      "domain": "easy",
+      "count": 4,
+      "domain_names": [
+        "easyfounding.net",
+        "easyhunts.net",
+        "easymoderate.net",
+        "easynest.net"
+      ]
+    },
+    {
+      "rank": 58,
+      "domain": "email",
+      "count": 4,
+      "domain_names": [
+        "emailview.net",
+        "emailwork.net",
+        "revemail.net",
+        "universityemail.net"
+      ]
+    },
+    {
+      "rank": 59,
+      "domain": "events",
+      "count": 4,
+      "domain_names": [
+        "directevents.net",
+        "everlastingevents.net",
+        "findevents.net",
+        "imageevents.net"
+      ]
+    },
+    {
+      "rank": 60,
+      "domain": "family",
+      "count": 4,
+      "domain_names": [
+        "cafefamily.net",
+        "empoweredfamily.net",
+        "familypilot.net",
+        "hubfamily.net"
+      ]
+    },
+    {
+      "rank": 61,
+      "domain": "first",
+      "count": 4,
+      "domain_names": [
+        "diagfirst.net",
+        "firstame.net",
+        "firstearly.net",
+        "firstnote.net"
+      ]
+    },
+    {
+      "rank": 62,
+      "domain": "food",
+      "count": 4,
+      "domain_names": [
+        "foodacids.net",
+        "foodcompliance.net",
+        "foodsale.net",
+        "foodshowcase.net"
+      ]
+    },
+    {
+      "rank": 63,
+      "domain": "frame",
+      "count": 4,
+      "domain_names": [
+        "framewire.net",
+        "maverickframe.net",
+        "pixelframe.net",
+        "routeframe.net"
+      ]
+    },
+    {
+      "rank": 64,
+      "domain": "free",
+      "count": 4,
+      "domain_names": [
+        "doofree.net",
+        "exercisefree.net",
+        "freepaws.net",
+        "freevod.net"
+      ]
+    },
+    {
+      "rank": 65,
+      "domain": "galaxy",
+      "count": 4,
+      "domain_names": [
+        "galaxyace.net",
+        "galaxygangs.net",
+        "galaxyride.net",
+        "galaxystays.net"
+      ]
+    },
+    {
+      "rank": 66,
+      "domain": "gaming",
+      "count": 4,
+      "domain_names": [
+        "ethergaming.net",
+        "evolvedgaming.net",
+        "gamingcentral.net",
+        "hattergaming.net"
+      ]
+    },
+    {
+      "rank": 67,
+      "domain": "heart",
+      "count": 4,
+      "domain_names": [
+        "animalheart.net",
+        "crossheart.net",
+        "heartscreening.net",
+        "heartwall.net"
+      ]
+    },
+    {
+      "rank": 68,
+      "domain": "holdings",
+      "count": 4,
+      "domain_names": [
+        "adjustholdings.net",
+        "kasholdings.net",
+        "koraholdings.net",
+        "mayaholdings.net"
+      ]
+    },
+    {
+      "rank": 69,
+      "domain": "image",
+      "count": 4,
+      "domain_names": [
+        "imageevents.net",
+        "imagesupply.net",
+        "makeimage.net",
+        "secretimage.net"
+      ]
+    },
+    {
+      "rank": 70,
+      "domain": "lead",
+      "count": 4,
+      "domain_names": [
+        "centurionlead.net",
+        "leadmafia.net",
+        "leadplayer.net",
+        "leadswa.net"
+      ]
+    },
+    {
+      "rank": 71,
+      "domain": "life",
+      "count": 4,
+      "domain_names": [
+        "glamourlife.net",
+        "lifebruin.net",
+        "sudlife.net",
+        "twinslife.net"
+      ]
+    },
+    {
+      "rank": 72,
+      "domain": "love",
+      "count": 4,
+      "domain_names": [
+        "loveghost.net",
+        "lovegummy.net",
+        "loveleto.net",
+        "willlove.net"
+      ]
+    },
+    {
+      "rank": 73,
+      "domain": "magic",
+      "count": 4,
+      "domain_names": [
+        "magiclikes.net",
+        "magicmartin.net",
+        "tokenmagic.net",
+        "weddingmagic.net"
+      ]
+    },
+    {
+      "rank": 74,
+      "domain": "matrix",
+      "count": 4,
+      "domain_names": [
+        "derivmatrix.net",
+        "emiratesmatrix.net",
+        "matrixlite.net",
+        "matrixoptics.net"
+      ]
+    },
+    {
+      "rank": 75,
+      "domain": "media",
+      "count": 4,
+      "domain_names": [
+        "corvusmedia.net",
+        "lapwingmedia.net",
+        "mediamister.net",
+        "straightupmedia.net"
+      ]
+    },
+    {
+      "rank": 76,
+      "domain": "mind",
+      "count": 4,
+      "domain_names": [
+        "mindreal.net",
+        "mindrift.net",
+        "mindtree.net",
+        "rigmind.net"
+      ]
+    },
+    {
+      "rank": 77,
+      "domain": "mine",
+      "count": 4,
+      "domain_names": [
+        "minefruit.net",
+        "minelegend.net",
+        "minenova.net",
+        "vibemine.net"
+      ]
+    },
+    {
+      "rank": 78,
+      "domain": "music",
+      "count": 4,
+      "domain_names": [
+        "amitmusic.net",
+        "gigamusic.net",
+        "musicmixing.net",
+        "washhousemusic.net"
+      ]
+    },
+    {
+      "rank": 79,
+      "domain": "news",
+      "count": 4,
+      "domain_names": [
+        "celebritiesnews.net",
+        "newsporno.net",
+        "newsrex.net",
+        "pesnews.net"
+      ]
+    },
+    {
+      "rank": 80,
+      "domain": "nexus",
+      "count": 4,
+      "domain_names": [
+        "luciusnexus.net",
+        "nexuscrawl.net",
+        "nexuslotus.net",
+        "sterinexus.net"
+      ]
+    },
+    {
+      "rank": 81,
+      "domain": "night",
+      "count": 4,
+      "domain_names": [
+        "nightblues.net",
+        "nightpearl.net",
+        "nightwins.net",
+        "twelfthnight.net"
+      ]
+    },
+    {
+      "rank": 82,
+      "domain": "node",
+      "count": 4,
+      "domain_names": [
+        "aimnode.net",
+        "nodegod.net",
+        "nodewrangler.net",
+        "outernode.net"
+      ]
+    },
+    {
+      "rank": 83,
+      "domain": "nova",
+      "count": 4,
+      "domain_names": [
+        "minenova.net",
+        "novaagent.net",
+        "novabinaries.net",
+        "novafin.net"
+      ]
+    },
+    {
+      "rank": 84,
+      "domain": "ocean",
+      "count": 4,
+      "domain_names": [
+        "oceanbuddies.net",
+        "oceanedges.net",
+        "oceanfans.net",
+        "oceanportraits.net"
+      ]
+    },
+    {
+      "rank": 85,
+      "domain": "onyx",
+      "count": 4,
+      "domain_names": [
+        "ferronyx.net",
+        "onyxcharters.net",
+        "onyxcollective.net",
+        "onyxstory.net"
+      ]
+    },
+    {
+      "rank": 86,
+      "domain": "peak",
+      "count": 4,
+      "domain_names": [
+        "peakhighly.net",
+        "peakmomentum.net",
+        "propspeak.net",
+        "readspeak.net"
+      ]
+    },
+    {
+      "rank": 87,
+      "domain": "project",
+      "count": 4,
+      "domain_names": [
+        "generosityproject.net",
+        "joshproject.net",
+        "projectfaith.net",
+        "projectpets.net"
+      ]
+    },
+    {
+      "rank": 88,
+      "domain": "pulse",
+      "count": 4,
+      "domain_names": [
+        "claritypulse.net",
+        "footpulse.net",
+        "pulsenix.net",
+        "tigerpulse.net"
+      ]
+    },
+    {
+      "rank": 89,
+      "domain": "sales",
+      "count": 4,
+      "domain_names": [
+        "circlessales.net",
+        "saleslearner.net",
+        "salesradar.net",
+        "sidesales.net"
+      ]
+    },
+    {
+      "rank": 90,
+      "domain": "score",
+      "count": 4,
+      "domain_names": [
+        "altscore.net",
+        "scoregoal.net",
+        "scoregol.net",
+        "scorerise.net"
+      ]
+    },
+    {
+      "rank": 91,
+      "domain": "secret",
+      "count": 4,
+      "domain_names": [
+        "secretconf.net",
+        "secretimage.net",
+        "secretmail.net",
+        "secretmall.net"
+      ]
+    },
+    {
+      "rank": 92,
+      "domain": "sign",
+      "count": 4,
+      "domain_names": [
+        "signdeed.net",
+        "signlady.net",
+        "signpassword.net",
+        "yachtsign.net"
+      ]
+    },
+    {
+      "rank": 93,
+      "domain": "smart",
+      "count": 4,
+      "domain_names": [
+        "smartauctioning.net",
+        "smartfilix.net",
+        "smarttextiles.net",
+        "smartturn.net"
+      ]
+    },
+    {
+      "rank": 94,
+      "domain": "social",
+      "count": 4,
+      "domain_names": [
+        "massivesocial.net",
+        "sentsocial.net",
+        "socialsingles.net",
+        "socialstylist.net"
+      ]
+    },
+    {
+      "rank": 95,
+      "domain": "soul",
+      "count": 4,
+      "domain_names": [
+        "roninsoul.net",
+        "sapphiresoul.net",
+        "soulagent.net",
+        "soulguide.net"
+      ]
+    },
+    {
+      "rank": 96,
+      "domain": "speak",
+      "count": 4,
+      "domain_names": [
+        "propspeak.net",
+        "readspeak.net",
+        "speakedge.net",
+        "speakjesus.net"
+      ]
+    },
+    {
+      "rank": 97,
+      "domain": "sports",
+      "count": 4,
+      "domain_names": [
+        "babasports.net",
+        "luckysports.net",
+        "moosesports.net",
+        "sportsprogrammes.net"
+      ]
+    },
+    {
+      "rank": 98,
+      "domain": "star",
+      "count": 4,
+      "domain_names": [
+        "dumpstar.net",
+        "starcad.net",
+        "staronline.net",
+        "starswarm.net"
+      ]
+    },
+    {
+      "rank": 99,
+      "domain": "stock",
+      "count": 4,
+      "domain_names": [
+        "bonstock.net",
+        "igniterstock.net",
+        "stockhub.net",
+        "stockninja.net"
+      ]
+    },
+    {
+      "rank": 100,
+      "domain": "studio",
+      "count": 4,
+      "domain_names": [
+        "adsstudio.net",
+        "avalonstudio.net",
+        "decemberstudio.net",
+        "studiovoltaire.net"
+      ]
+    },
+    {
+      "rank": 101,
+      "domain": "subtle",
+      "count": 4,
+      "domain_names": [
+        "finesubtle.net",
+        "subtleaddition.net",
+        "subtleentertainment.net",
+        "teamsubtle.net"
+      ]
+    },
+    {
+      "rank": 102,
+      "domain": "supply",
+      "count": 4,
+      "domain_names": [
+        "aaasupply.net",
+        "exportsupply.net",
+        "imagesupply.net",
+        "supplyhold.net"
+      ]
+    },
+    {
+      "rank": 103,
+      "domain": "trader",
+      "count": 4,
+      "domain_names": [
+        "spoketrader.net",
+        "traderradio.net",
+        "traderwin.net",
+        "traderwire.net"
+      ]
+    },
+    {
+      "rank": 104,
+      "domain": "travel",
+      "count": 4,
+      "domain_names": [
+        "forecaddietravel.net",
+        "sedtravel.net",
+        "traveltranquility.net",
+        "travelvisit.net"
+      ]
+    },
+    {
+      "rank": 105,
+      "domain": "true",
+      "count": 4,
+      "domain_names": [
+        "accuratetrue.net",
+        "cordialtrue.net",
+        "definitetrue.net",
+        "truemax.net"
+      ]
+    },
+    {
+      "rank": 106,
+      "domain": "wire",
+      "count": 4,
+      "domain_names": [
+        "celebwire.net",
+        "crowdwire.net",
+        "framewire.net",
+        "traderwire.net"
+      ]
+    },
+    {
+      "rank": 107,
+      "domain": "academy",
+      "count": 3,
+      "domain_names": [
+        "cadenceacademy.net",
+        "planetacademy.net",
+        "strikeacademy.net"
+      ]
+    },
+    {
+      "rank": 108,
+      "domain": "auto",
+      "count": 3,
+      "domain_names": [
+        "amtauto.net",
+        "autocosta.net",
+        "volcanoauto.net"
+      ]
+    },
+    {
+      "rank": 109,
+      "domain": "baby",
+      "count": 3,
+      "domain_names": [
+        "babyangel.net",
+        "babydoux.net",
+        "babylettuce.net"
+      ]
+    },
+    {
+      "rank": 110,
+      "domain": "bank",
+      "count": 3,
+      "domain_names": [
+        "banktools.net",
+        "goldenbank.net",
+        "wisbank.net"
+      ]
+    },
+    {
+      "rank": 111,
+      "domain": "beyond",
+      "count": 3,
+      "domain_names": [
+        "beyondsponsorship.net",
+        "beyondtitle.net",
+        "latitudebeyond.net"
+      ]
+    },
+    {
+      "rank": 112,
+      "domain": "brief",
+      "count": 3,
+      "domain_names": [
+        "civbrief.net",
+        "civicbrief.net",
+        "simpledbrief.net"
+      ]
+    },
+    {
+      "rank": 113,
+      "domain": "bubble",
+      "count": 3,
+      "domain_names": [
+        "bubbleboutique.net",
+        "bubblesoftware.net",
+        "bubbletickets.net"
+      ]
+    },
+    {
+      "rank": 114,
+      "domain": "build",
+      "count": 3,
+      "domain_names": [
+        "builddrive.net",
+        "civicbuild.net",
+        "controlbuild.net"
+      ]
+    },
+    {
+      "rank": 115,
+      "domain": "cash",
+      "count": 3,
+      "domain_names": [
+        "cashfeet.net",
+        "cashpartner.net",
+        "talacash.net"
+      ]
+    },
+    {
+      "rank": 116,
+      "domain": "char",
+      "count": 3,
+      "domain_names": [
+        "charcarmel.net",
+        "charpulls.net",
+        "charverse.net"
+      ]
+    },
+    {
+      "rank": 117,
+      "domain": "clean",
+      "count": 3,
+      "domain_names": [
+        "cleankit.net",
+        "cleanyard.net",
+        "violinoclean.net"
+      ]
+    },
+    {
+      "rank": 118,
+      "domain": "clinic",
+      "count": 3,
+      "domain_names": [
+        "heavenclinic.net",
+        "honchoclinic.net",
+        "neoclinic.net"
+      ]
+    },
+    {
+      "rank": 119,
+      "domain": "collective",
+      "count": 3,
+      "domain_names": [
+        "addacollective.net",
+        "onyxcollective.net",
+        "sanderscollective.net"
+      ]
+    },
+    {
+      "rank": 120,
+      "domain": "color",
+      "count": 3,
+      "domain_names": [
+        "aiscolor.net",
+        "colorbridge.net",
+        "colordesign.net"
+      ]
+    },
+    {
+      "rank": 121,
+      "domain": "control",
+      "count": 3,
+      "domain_names": [
+        "controlair.net",
+        "controlbuild.net",
+        "membershipcontrol.net"
+      ]
+    },
+    {
+      "rank": 122,
+      "domain": "crowd",
+      "count": 3,
+      "domain_names": [
+        "awincrowd.net",
+        "crowdwire.net",
+        "wavecrowd.net"
+      ]
+    },
+    {
+      "rank": 123,
+      "domain": "cyber",
+      "count": 3,
+      "domain_names": [
+        "cyberbase.net",
+        "cyberbooth.net",
+        "cybertrick.net"
+      ]
+    },
+    {
+      "rank": 124,
+      "domain": "dark",
+      "count": 3,
+      "domain_names": [
+        "darkmont.net",
+        "darksayings.net",
+        "darktides.net"
+      ]
+    },
+    {
+      "rank": 125,
+      "domain": "data",
+      "count": 3,
+      "domain_names": [
+        "basquedata.net",
+        "classicdata.net",
+        "dataroyalty.net"
+      ]
+    },
+    {
+      "rank": 126,
+      "domain": "deep",
+      "count": 3,
+      "domain_names": [
+        "deepbox.net",
+        "deepgravity.net",
+        "deepstrip.net"
+      ]
+    },
+    {
+      "rank": 127,
+      "domain": "dent",
+      "count": 3,
+      "domain_names": [
+        "alfadent.net",
+        "dentura.net",
+        "markadent.net"
+      ]
+    },
+    {
+      "rank": 128,
+      "domain": "depot",
+      "count": 3,
+      "domain_names": [
+        "betdepot.net",
+        "damagedepot.net",
+        "horndepot.net"
+      ]
+    },
+    {
+      "rank": 129,
+      "domain": "dine",
+      "count": 3,
+      "domain_names": [
+        "boldine.net",
+        "dinetreat.net",
+        "quardine.net"
+      ]
+    },
+    {
+      "rank": 130,
+      "domain": "edit",
+      "count": 3,
+      "domain_names": [
+        "editflow.net",
+        "elledit.net",
+        "juiceedit.net"
+      ]
+    },
+    {
+      "rank": 131,
+      "domain": "emotion",
+      "count": 3,
+      "domain_names": [
+        "emotionallayer.net",
+        "emotionlayer.net",
+        "savemotion.net"
+      ]
+    },
+    {
+      "rank": 132,
+      "domain": "estate",
+      "count": 3,
+      "domain_names": [
+        "asiaestate.net",
+        "estatefinance.net",
+        "listingestate.net"
+      ]
+    },
+    {
+      "rank": 133,
+      "domain": "ether",
+      "count": 3,
+      "domain_names": [
+        "ethergaming.net",
+        "etherosophy.net",
+        "etherzen.net"
+      ]
+    },
+    {
+      "rank": 134,
+      "domain": "faith",
+      "count": 3,
+      "domain_names": [
+        "faithbelieve.net",
+        "projectfaith.net",
+        "suretyfaith.net"
+      ]
+    },
+    {
+      "rank": 135,
+      "domain": "farm",
+      "count": 3,
+      "domain_names": [
+        "agentfarm.net",
+        "collinsfarm.net",
+        "pleiadesfarm.net"
+      ]
+    },
+    {
+      "rank": 136,
+      "domain": "football",
+      "count": 3,
+      "domain_names": [
+        "footballstat.net",
+        "justfootball.net",
+        "shorefootball.net"
+      ]
+    },
+    {
+      "rank": 137,
+      "domain": "fore",
+      "count": 3,
+      "domain_names": [
+        "eternalfore.net",
+        "foresage.net",
+        "onwardfore.net"
+      ]
+    },
+    {
+      "rank": 138,
+      "domain": "fortune",
+      "count": 3,
+      "domain_names": [
+        "fortunefavors.net",
+        "fortuneplay.net",
+        "horfortune.net"
+      ]
+    },
+    {
+      "rank": 139,
+      "domain": "forum",
+      "count": 3,
+      "domain_names": [
+        "fibraforum.net",
+        "forumcuria.net",
+        "forumfibra.net"
+      ]
+    },
+    {
+      "rank": 140,
+      "domain": "full",
+      "count": 3,
+      "domain_names": [
+        "adequatefull.net",
+        "completefull.net",
+        "triggerfull.net"
+      ]
+    },
+    {
+      "rank": 141,
+      "domain": "game",
+      "count": 3,
+      "domain_names": [
+        "chaoticgame.net",
+        "doodlegame.net",
+        "sustainablegame.net"
+      ]
+    },
+    {
+      "rank": 142,
+      "domain": "global",
+      "count": 3,
+      "domain_names": [
+        "campbellglobal.net",
+        "globalflames.net",
+        "globalhustle.net"
+      ]
+    },
+    {
+      "rank": 143,
+      "domain": "gold",
+      "count": 3,
+      "domain_names": [
+        "applegold.net",
+        "chicksgold.net",
+        "goldfederation.net"
+      ]
+    },
+    {
+      "rank": 144,
+      "domain": "grow",
+      "count": 3,
+      "domain_names": [
+        "growgrass.net",
+        "practicegrow.net",
+        "slowgrow.net"
+      ]
+    },
+    {
+      "rank": 145,
+      "domain": "guitar",
+      "count": 3,
+      "domain_names": [
+        "guitarestimate.net",
+        "guitarestimation.net",
+        "lostguitar.net"
+      ]
+    },
+    {
+      "rank": 146,
+      "domain": "hack",
+      "count": 3,
+      "domain_names": [
+        "analoghack.net",
+        "chargeshack.net",
+        "firewallhack.net"
+      ]
+    },
+    {
+      "rank": 147,
+      "domain": "health",
+      "count": 3,
+      "domain_names": [
+        "customizedhealth.net",
+        "healthdepots.net",
+        "healthrevealed.net"
+      ]
+    },
+    {
+      "rank": 148,
+      "domain": "hello",
+      "count": 3,
+      "domain_names": [
+        "hellorouter.net",
+        "hellostart.net",
+        "helloturkish.net"
+      ]
+    },
+    {
+      "rank": 149,
+      "domain": "help",
+      "count": 3,
+      "domain_names": [
+        "alphahelp.net",
+        "helpblueprint.net",
+        "psychichelp.net"
+      ]
+    },
+    {
+      "rank": 150,
+      "domain": "hire",
+      "count": 3,
+      "domain_names": [
+        "aixhire.net",
+        "hirelynx.net",
+        "sterlinghire.net"
+      ]
+    },
+    {
+      "rank": 151,
+      "domain": "house",
+      "count": 3,
+      "domain_names": [
+        "arahouse.net",
+        "claphouse.net",
+        "quenchhouse.net"
+      ]
+    },
+    {
+      "rank": 152,
+      "domain": "housing",
+      "count": 3,
+      "domain_names": [
+        "hurricanehousing.net",
+        "illinoishousing.net",
+        "linerhousing.net"
+      ]
+    },
+    {
+      "rank": 153,
+      "domain": "hypnosis",
+      "count": 3,
+      "domain_names": [
+        "hypnosismeditation.net",
+        "inspiredhypnosis.net",
+        "meditationhypnosis.net"
+      ]
+    },
+    {
+      "rank": 154,
+      "domain": "index",
+      "count": 3,
+      "domain_names": [
+        "indexspeed.net",
+        "oneindex.net",
+        "ruralindex.net"
+      ]
+    },
+    {
+      "rank": 155,
+      "domain": "jelly",
+      "count": 3,
+      "domain_names": [
+        "jellychris.net",
+        "jellyhawk.net",
+        "jellywizard.net"
+      ]
+    },
+    {
+      "rank": 156,
+      "domain": "just",
+      "count": 3,
+      "domain_names": [
+        "justfootball.net",
+        "justmoms.net",
+        "straightjust.net"
+      ]
+    },
+    {
+      "rank": 157,
+      "domain": "lady",
+      "count": 3,
+      "domain_names": [
+        "ladymoon.net",
+        "shoplady.net",
+        "signlady.net"
+      ]
+    },
+    {
+      "rank": 158,
+      "domain": "last",
+      "count": 3,
+      "domain_names": [
+        "lastcontinue.net",
+        "lastera.net",
+        "lastlands.net"
+      ]
+    },
+    {
+      "rank": 159,
+      "domain": "level",
+      "count": 3,
+      "domain_names": [
+        "implevel.net",
+        "levelcar.net",
+        "leveltraining.net"
+      ]
+    },
+    {
+      "rank": 160,
+      "domain": "library",
+      "count": 3,
+      "domain_names": [
+        "believerslibrary.net",
+        "fontlibrary.net",
+        "luxelibrary.net"
+      ]
+    },
+    {
+      "rank": 161,
+      "domain": "logic",
+      "count": 3,
+      "domain_names": [
+        "graylogic.net",
+        "helixlogic.net",
+        "logicfolding.net"
+      ]
+    },
+    {
+      "rank": 162,
+      "domain": "luxe",
+      "count": 3,
+      "domain_names": [
+        "luxeedge.net",
+        "luxelibrary.net",
+        "luxeries.net"
+      ]
+    },
+    {
+      "rank": 163,
+      "domain": "main",
+      "count": 3,
+      "domain_names": [
+        "mainprimary.net",
+        "mainprop.net",
+        "mainsummary.net"
+      ]
+    },
+    {
+      "rank": 164,
+      "domain": "mall",
+      "count": 3,
+      "domain_names": [
+        "offmall.net",
+        "secretmall.net",
+        "seesmall.net"
+      ]
+    },
+    {
+      "rank": 165,
+      "domain": "manager",
+      "count": 3,
+      "domain_names": [
+        "boxingmanager.net",
+        "chatmanager.net",
+        "secmanager.net"
+      ]
+    },
+    {
+      "rank": 166,
+      "domain": "market",
+      "count": 3,
+      "domain_names": [
+        "bazarmarket.net",
+        "istanbulmarket.net",
+        "pepmarket.net"
+      ]
+    },
+    {
+      "rank": 167,
+      "domain": "meet",
+      "count": 3,
+      "domain_names": [
+        "meetfulfill.net",
+        "meetvalence.net",
+        "midgetmeet.net"
+      ]
+    },
+    {
+      "rank": 168,
+      "domain": "morgan",
+      "count": 3,
+      "domain_names": [
+        "donaldmorgan.net",
+        "fidelismorgan.net",
+        "morganpsychotherapy.net"
+      ]
+    },
+    {
+      "rank": 169,
+      "domain": "name",
+      "count": 3,
+      "domain_names": [
+        "appname.net",
+        "nickyname.net",
+        "pagename.net"
+      ]
+    },
+    {
+      "rank": 170,
+      "domain": "nest",
+      "count": 3,
+      "domain_names": [
+        "easynest.net",
+        "rentnest.net",
+        "summernest.net"
+      ]
+    },
+    {
+      "rank": 171,
+      "domain": "partner",
+      "count": 3,
+      "domain_names": [
+        "apepartner.net",
+        "cashpartner.net",
+        "partnerladder.net"
+      ]
+    },
+    {
+      "rank": 172,
+      "domain": "partners",
+      "count": 3,
+      "domain_names": [
+        "criterionpartners.net",
+        "egoistpartners.net",
+        "vectorpartners.net"
+      ]
+    },
+    {
+      "rank": 173,
+      "domain": "pearl",
+      "count": 3,
+      "domain_names": [
+        "nightpearl.net",
+        "pearltag.net",
+        "pearlvanilla.net"
+      ]
+    },
+    {
+      "rank": 174,
+      "domain": "pilot",
+      "count": 3,
+      "domain_names": [
+        "familypilot.net",
+        "letterpilot.net",
+        "plumbpilot.net"
+      ]
+    },
+    {
+      "rank": 175,
+      "domain": "press",
+      "count": 3,
+      "domain_names": [
+        "analogypress.net",
+        "fasterpress.net",
+        "pressuresis.net"
+      ]
+    },
+    {
+      "rank": 176,
+      "domain": "prestige",
+      "count": 3,
+      "domain_names": [
+        "prestigeaccessories.net",
+        "prestigedistribution.net",
+        "prestigelegacy.net"
+      ]
+    },
+    {
+      "rank": 177,
+      "domain": "prime",
+      "count": 3,
+      "domain_names": [
+        "kairosprime.net",
+        "metalprime.net",
+        "primeduct.net"
+      ]
+    },
+    {
+      "rank": 178,
+      "domain": "prod",
+      "count": 3,
+      "domain_names": [
+        "motionprod.net",
+        "protoprod.net",
+        "tinyprod.net"
+      ]
+    },
+    {
+      "rank": 179,
+      "domain": "prompt",
+      "count": 3,
+      "domain_names": [
+        "promptagent.net",
+        "promptnerd.net",
+        "promptreply.net"
+      ]
+    },
+    {
+      "rank": 180,
+      "domain": "radar",
+      "count": 3,
+      "domain_names": [
+        "offerradar.net",
+        "renewalradar.net",
+        "salesradar.net"
+      ]
+    },
+    {
+      "rank": 181,
+      "domain": "records",
+      "count": 3,
+      "domain_names": [
+        "amitrecords.net",
+        "sowrecords.net",
+        "trimurtirecords.net"
+      ]
+    },
+    {
+      "rank": 182,
+      "domain": "relume",
+      "count": 3,
+      "domain_names": [
+        "relumejewellery.net",
+        "relumejewelry.net",
+        "shoprelume.net"
+      ]
+    },
+    {
+      "rank": 183,
+      "domain": "rent",
+      "count": 3,
+      "domain_names": [
+        "avisrent.net",
+        "bobcatrent.net",
+        "rentnest.net"
+      ]
+    },
+    {
+      "rank": 184,
+      "domain": "rich",
+      "count": 3,
+      "domain_names": [
+        "homrich.net",
+        "richcelebrities.net",
+        "richgee.net"
+      ]
+    },
+    {
+      "rank": 185,
+      "domain": "router",
+      "count": 3,
+      "domain_names": [
+        "borderrouter.net",
+        "hellorouter.net",
+        "stablerouter.net"
+      ]
+    },
+    {
+      "rank": 186,
+      "domain": "sage",
+      "count": 3,
+      "domain_names": [
+        "enjoymentsage.net",
+        "foresage.net",
+        "mysticsage.net"
+      ]
+    },
+    {
+      "rank": 187,
+      "domain": "seat",
+      "count": 3,
+      "domain_names": [
+        "gliderseat.net",
+        "positionseat.net",
+        "seatsmarter.net"
+      ]
+    },
+    {
+      "rank": 188,
+      "domain": "services",
+      "count": 3,
+      "domain_names": [
+        "chariotservices.net",
+        "elaservices.net",
+        "ethernetservices.net"
+      ]
+    },
+    {
+      "rank": 189,
+      "domain": "shine",
+      "count": 3,
+      "domain_names": [
+        "letshine.net",
+        "shinediamond.net",
+        "shineglitter.net"
+      ]
+    },
+    {
+      "rank": 190,
+      "domain": "shot",
+      "count": 3,
+      "domain_names": [
+        "bosshot.net",
+        "joltshot.net",
+        "shotcome.net"
+      ]
+    },
+    {
+      "rank": 191,
+      "domain": "signal",
+      "count": 3,
+      "domain_names": [
+        "futuresignal.net",
+        "homesignal.net",
+        "signalable.net"
+      ]
+    },
+    {
+      "rank": 192,
+      "domain": "site",
+      "count": 3,
+      "domain_names": [
+        "roofsite.net",
+        "showsite.net",
+        "sitefellows.net"
+      ]
+    },
+    {
+      "rank": 193,
+      "domain": "solutions",
+      "count": 3,
+      "domain_names": [
+        "cravensolutions.net",
+        "solutionsgamer.net",
+        "triglotsolutions.net"
+      ]
+    },
+    {
+      "rank": 194,
+      "domain": "spot",
+      "count": 3,
+      "domain_names": [
+        "spokespot.net",
+        "spotlatino.net",
+        "spotprolia.net"
+      ]
+    },
+    {
+      "rank": 195,
+      "domain": "stake",
+      "count": 3,
+      "domain_names": [
+        "stakebolivia.net",
+        "stakeecuador.net",
+        "stakepoland.net"
+      ]
+    },
+    {
+      "rank": 196,
+      "domain": "street",
+      "count": 3,
+      "domain_names": [
+        "streetbrand.net",
+        "streetcrush.net",
+        "tinystreet.net"
+      ]
+    },
+    {
+      "rank": 197,
+      "domain": "sunshine",
+      "count": 3,
+      "domain_names": [
+        "sunshinecaroline.net",
+        "sunshinesnowball.net",
+        "sunshinesnowballs.net"
+      ]
+    },
+    {
+      "rank": 198,
+      "domain": "support",
+      "count": 3,
+      "domain_names": [
+        "authorsupport.net",
+        "radiantsupport.net",
+        "supportfactory.net"
+      ]
+    },
+    {
+      "rank": 199,
+      "domain": "sync",
+      "count": 3,
+      "domain_names": [
+        "synclari.net",
+        "syncsee.net",
+        "synctrade.net"
+      ]
+    },
+    {
+      "rank": 200,
+      "domain": "tiny",
+      "count": 3,
+      "domain_names": [
+        "tinyfall.net",
+        "tinyprod.net",
+        "tinystreet.net"
+      ]
+    },
+    {
+      "rank": 201,
+      "domain": "trade",
+      "count": 3,
+      "domain_names": [
+        "synctrade.net",
+        "tradeexchange.net",
+        "universetrade.net"
+      ]
+    },
+    {
+      "rank": 202,
+      "domain": "trans",
+      "count": 3,
+      "domain_names": [
+        "shoptrans.net",
+        "transaudio.net",
+        "transgames.net"
+      ]
+    },
+    {
+      "rank": 203,
+      "domain": "unity",
+      "count": 3,
+      "domain_names": [
+        "accordunity.net",
+        "unityconcord.net",
+        "unitylegal.net"
+      ]
+    },
+    {
+      "rank": 204,
+      "domain": "unleashed",
+      "count": 3,
+      "domain_names": [
+        "stagingunleashed.net",
+        "stylingunleashed.net",
+        "unleashedstaging.net"
+      ]
+    },
+    {
+      "rank": 205,
+      "domain": "vault",
+      "count": 3,
+      "domain_names": [
+        "examvault.net",
+        "implantvault.net",
+        "revenuevault.net"
+      ]
+    },
+    {
+      "rank": 206,
+      "domain": "velocity",
+      "count": 3,
+      "domain_names": [
+        "reelvelocity.net",
+        "velocityfit.net",
+        "velocityvibes.net"
+      ]
+    },
+    {
+      "rank": 207,
+      "domain": "vista",
+      "count": 3,
+      "domain_names": [
+        "bolavista.net",
+        "polarvista.net",
+        "vistalen.net"
+      ]
+    },
+    {
+      "rank": 208,
+      "domain": "wellness",
+      "count": 3,
+      "domain_names": [
+        "insurewellness.net",
+        "liftedwellness.net",
+        "milliewellness.net"
+      ]
+    },
+    {
+      "rank": 209,
+      "domain": "with",
+      "count": 3,
+      "domain_names": [
+        "withcheese.net",
+        "withliterary.net",
+        "withvalence.net"
+      ]
+    },
+    {
+      "rank": 210,
+      "domain": "zero",
+      "count": 3,
+      "domain_names": [
+        "crimezero.net",
+        "zeroassembly.net",
+        "zerostark.net"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 210,
+    "total": 210
+  }
+}

@@ -1,0 +1,1697 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "pick",
+      "count": 22,
+      "domain_names": [
+        "draftpick.org",
+        "fantasypick.org",
+        "flexpick.org",
+        "pickbattles.org",
+        "pickblitz.org",
+        "pickclimbers.org",
+        "pickclutch.org",
+        "pickdeck.org",
+        "pickdraft.org",
+        "pickempire.org",
+        "pickhouse.org",
+        "pickkingdom.org",
+        "picklegends.org",
+        "picklineup.org",
+        "pickmasters.org",
+        "pickpicnic.org",
+        "pickplayer.org",
+        "pickproleague.org",
+        "pickroar.org",
+        "pickroster.org",
+        "pickstadium.org",
+        "pickteam.org"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "draft",
+      "count": 20,
+      "domain_names": [
+        "clutchdraft.org",
+        "draftalpha.org",
+        "draftbuddies.org",
+        "draftchampions.org",
+        "draftcloud.org",
+        "draftcrush.org",
+        "draftfiesta.org",
+        "draftheroes.org",
+        "drafthuddle.org",
+        "draftlineup.org",
+        "draftmasters.org",
+        "draftpick.org",
+        "draftramp.org",
+        "draftroll.org",
+        "draftsquad.org",
+        "draftteam.org",
+        "drafttitans.org",
+        "pickdraft.org",
+        "powerdraft.org",
+        "skilldraft.org"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "sprout",
+      "count": 18,
+      "domain_names": [
+        "beaconsprout.org",
+        "brightsprout.org",
+        "caresprout.org",
+        "changesprout.org",
+        "civicsprout.org",
+        "dreamsprout.org",
+        "futuresprout.org",
+        "globalsprout.org",
+        "harmonysprout.org",
+        "impactsprout.org",
+        "inspiresprout.org",
+        "kindlesprout.org",
+        "opensprout.org",
+        "peacesprout.org",
+        "thrivesprout.org",
+        "unitysprout.org",
+        "visionsprout.org",
+        "wisesprout.org"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "fantasy",
+      "count": 15,
+      "domain_names": [
+        "fantasybackfield.org",
+        "fantasyflex.org",
+        "fantasyfund.org",
+        "fantasygrind.org",
+        "fantasylineup.org",
+        "fantasylords.org",
+        "fantasypick.org",
+        "fantasyscorers.org",
+        "fantasyshootout.org",
+        "fantasystacked.org",
+        "fantasystadium.org",
+        "fantasystrike.org",
+        "fantasytouchdown.org",
+        "fantasywall.org",
+        "fantasywinners.org"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "global",
+      "count": 13,
+      "domain_names": [
+        "footprintglobal.org",
+        "globalharbor.org",
+        "globalips.org",
+        "globaljourneyers.org",
+        "globalroam.org",
+        "globalsprout.org",
+        "globaltrail.org",
+        "globaltrailblazers.org",
+        "globaltrekking.org",
+        "globalwayfarers.org",
+        "pathglobal.org",
+        "seedsglobal.org",
+        "stockglobal.org"
+      ]
+    },
+    {
+      "rank": 6,
+      "domain": "lift",
+      "count": 13,
+      "domain_names": [
+        "beaconlift.org",
+        "brightlift.org",
+        "changelift.org",
+        "civiclift.org",
+        "dreamlift.org",
+        "harmonylift.org",
+        "inspirelift.org",
+        "kindlelift.org",
+        "peacelift.org",
+        "thrivelift.org",
+        "unitylift.org",
+        "visionlift.org",
+        "wiselift.org"
+      ]
+    },
+    {
+      "rank": 7,
+      "domain": "harbor",
+      "count": 12,
+      "domain_names": [
+        "beaconharbor.org",
+        "changeharbor.org",
+        "ecoharbor.org",
+        "futureharbor.org",
+        "globalharbor.org",
+        "heartharbor.org",
+        "impactharbor.org",
+        "inspireharbor.org",
+        "kindleharbor.org",
+        "thriveharbor.org",
+        "visionharbor.org",
+        "wiseharbor.org"
+      ]
+    },
+    {
+      "rank": 8,
+      "domain": "wander",
+      "count": 11,
+      "domain_names": [
+        "wandergivers.org",
+        "wanderhive.org",
+        "wanderloop.org",
+        "wandermission.org",
+        "wandernetwork.org",
+        "wanderpioneers.org",
+        "wanderscape.org",
+        "wanderscope.org",
+        "wanderspark.org",
+        "wandertraces.org",
+        "wanderunited.org"
+      ]
+    },
+    {
+      "rank": 9,
+      "domain": "wise",
+      "count": 11,
+      "domain_names": [
+        "wipewise.org",
+        "wisebridge.org",
+        "wisefield.org",
+        "wisegarden.org",
+        "wiseharbor.org",
+        "wiselift.org",
+        "wiseloom.org",
+        "wisemac.org",
+        "wiseriddles.org",
+        "wiseroots.org",
+        "wisesprout.org"
+      ]
+    },
+    {
+      "rank": 10,
+      "domain": "crew",
+      "count": 10,
+      "domain_names": [
+        "bubblecrew.org",
+        "foamcrew.org",
+        "glosscrew.org",
+        "mistcrew.org",
+        "purecrew.org",
+        "purgecrew.org",
+        "scourcrew.org",
+        "shinecrew.org",
+        "spraycrew.org",
+        "wipecrew.org"
+      ]
+    },
+    {
+      "rank": 11,
+      "domain": "field",
+      "count": 10,
+      "domain_names": [
+        "beaconfield.org",
+        "changefield.org",
+        "civicfield.org",
+        "futurefield.org",
+        "harmonyfield.org",
+        "impactfield.org",
+        "inspirefield.org",
+        "kindlefield.org",
+        "thrivefield.org",
+        "wisefield.org"
+      ]
+    },
+    {
+      "rank": 12,
+      "domain": "nest",
+      "count": 9,
+      "domain_names": [
+        "beaconnest.org",
+        "glidenest.org",
+        "heartnest.org",
+        "kindlenest.org",
+        "kindnest.org",
+        "peacenest.org",
+        "performancenest.org",
+        "trailnest.org",
+        "unitynest.org"
+      ]
+    },
+    {
+      "rank": 13,
+      "domain": "team",
+      "count": 9,
+      "domain_names": [
+        "dollarteam.org",
+        "draftteam.org",
+        "matteam.org",
+        "pickteam.org",
+        "teamart.org",
+        "teamclash.org",
+        "teamentire.org",
+        "teampinas.org",
+        "teamsar.org"
+      ]
+    },
+    {
+      "rank": 14,
+      "domain": "beacon",
+      "count": 8,
+      "domain_names": [
+        "beaconcircle.org",
+        "beaconfield.org",
+        "beacongarden.org",
+        "beaconharbor.org",
+        "beaconlift.org",
+        "beaconnest.org",
+        "beaconquest.org",
+        "beaconsprout.org"
+      ]
+    },
+    {
+      "rank": 15,
+      "domain": "future",
+      "count": 8,
+      "domain_names": [
+        "floatingfuture.org",
+        "fundedfuture.org",
+        "futuredot.org",
+        "futurefield.org",
+        "futuregarden.org",
+        "futureharbor.org",
+        "futurenavigator.org",
+        "futuresprout.org"
+      ]
+    },
+    {
+      "rank": 16,
+      "domain": "garden",
+      "count": 8,
+      "domain_names": [
+        "beacongarden.org",
+        "changegarden.org",
+        "civicgarden.org",
+        "futuregarden.org",
+        "inspiregarden.org",
+        "kindlegarden.org",
+        "thrivegarden.org",
+        "wisegarden.org"
+      ]
+    },
+    {
+      "rank": 17,
+      "domain": "group",
+      "count": 8,
+      "domain_names": [
+        "cleavergroup.org",
+        "globalistgroup.org",
+        "groupchaplet.org",
+        "objectgroup.org",
+        "transactgroup.org",
+        "vaigroup.org",
+        "vaultergroup.org",
+        "worldwidegroup.org"
+      ]
+    },
+    {
+      "rank": 18,
+      "domain": "kindle",
+      "count": 8,
+      "domain_names": [
+        "kindlebridge.org",
+        "kindlecircle.org",
+        "kindlefield.org",
+        "kindlegarden.org",
+        "kindleharbor.org",
+        "kindlelift.org",
+        "kindlenest.org",
+        "kindlesprout.org"
+      ]
+    },
+    {
+      "rank": 19,
+      "domain": "change",
+      "count": 7,
+      "domain_names": [
+        "akeychange.org",
+        "changefield.org",
+        "changegarden.org",
+        "changeharbor.org",
+        "changelift.org",
+        "changequest.org",
+        "changesprout.org"
+      ]
+    },
+    {
+      "rank": 20,
+      "domain": "civic",
+      "count": 7,
+      "domain_names": [
+        "civicfield.org",
+        "civicgarden.org",
+        "civiclift.org",
+        "civicpillars.org",
+        "civicsprout.org",
+        "civictrail.org",
+        "civiczen.org"
+      ]
+    },
+    {
+      "rank": 21,
+      "domain": "craft",
+      "count": 7,
+      "domain_names": [
+        "astralcraft.org",
+        "buffcraft.org",
+        "cleancraft.org",
+        "jackcraft.org",
+        "mistcraft.org",
+        "spraycraft.org",
+        "washcraft.org"
+      ]
+    },
+    {
+      "rank": 22,
+      "domain": "crypto",
+      "count": 7,
+      "domain_names": [
+        "choosecrypto.org",
+        "cryptoadvance.org",
+        "cryptooutlet.org",
+        "cryptoplatforms.org",
+        "orbitcrypto.org",
+        "primecrypto.org",
+        "rabotcrypto.org"
+      ]
+    },
+    {
+      "rank": 23,
+      "domain": "design",
+      "count": 7,
+      "domain_names": [
+        "elderdesign.org",
+        "lightfootdesign.org",
+        "mktdesign.org",
+        "rateldesign.org",
+        "seasidedesign.org",
+        "stacksdesign.org",
+        "therapeuticdesign.org"
+      ]
+    },
+    {
+      "rank": 24,
+      "domain": "explore",
+      "count": 7,
+      "domain_names": [
+        "exploreclimbers.org",
+        "explorecollab.org",
+        "exploreconnect.org",
+        "exploredrift.org",
+        "explorepulse.org",
+        "exploretribe.org",
+        "explorevoices.org"
+      ]
+    },
+    {
+      "rank": 25,
+      "domain": "foundation",
+      "count": 7,
+      "domain_names": [
+        "caymanfoundation.org",
+        "constructfoundation.org",
+        "cotfoundation.org",
+        "flandersfoundation.org",
+        "headwaterfoundation.org",
+        "phalanxfoundation.org",
+        "propagandafoundation.org"
+      ]
+    },
+    {
+      "rank": 26,
+      "domain": "inspire",
+      "count": 7,
+      "domain_names": [
+        "inspirecircle.org",
+        "inspirefield.org",
+        "inspiregarden.org",
+        "inspireharbor.org",
+        "inspirelift.org",
+        "inspirequest.org",
+        "inspiresprout.org"
+      ]
+    },
+    {
+      "rank": 27,
+      "domain": "media",
+      "count": 7,
+      "domain_names": [
+        "bilemedia.org",
+        "datemedia.org",
+        "inspectormedia.org",
+        "katanamedia.org",
+        "mediafans.org",
+        "medialets.org",
+        "mediauser.org"
+      ]
+    },
+    {
+      "rank": 28,
+      "domain": "roam",
+      "count": 7,
+      "domain_names": [
+        "globalroam.org",
+        "roamacross.org",
+        "roamimpact.org",
+        "roaminsight.org",
+        "roamopen.org",
+        "roamplanet.org",
+        "roamsociety.org"
+      ]
+    },
+    {
+      "rank": 29,
+      "domain": "thrive",
+      "count": 7,
+      "domain_names": [
+        "infothrive.org",
+        "jointhrive.org",
+        "thrivefield.org",
+        "thrivegarden.org",
+        "thriveharbor.org",
+        "thrivelift.org",
+        "thrivesprout.org"
+      ]
+    },
+    {
+      "rank": 30,
+      "domain": "trek",
+      "count": 7,
+      "domain_names": [
+        "trekaccess.org",
+        "trekcommons.org",
+        "trekplanet.org",
+        "trekshare.org",
+        "treksociety.org",
+        "trekties.org",
+        "trekvision.org"
+      ]
+    },
+    {
+      "rank": 31,
+      "domain": "force",
+      "count": 6,
+      "domain_names": [
+        "foamforce.org",
+        "linkedforce.org",
+        "mistforce.org",
+        "mopforce.org",
+        "scourforce.org",
+        "wipeforce.org"
+      ]
+    },
+    {
+      "rank": 32,
+      "domain": "heart",
+      "count": 6,
+      "domain_names": [
+        "childrenheart.org",
+        "encodedheart.org",
+        "fillaheart.org",
+        "heartcurrency.org",
+        "heartharbor.org",
+        "heartnest.org"
+      ]
+    },
+    {
+      "rank": 33,
+      "domain": "institute",
+      "count": 6,
+      "domain_names": [
+        "amicinstitute.org",
+        "areinstitute.org",
+        "juniperinstitute.org",
+        "typeinstitute.org",
+        "typologyinstitute.org",
+        "welldoinginstitute.org"
+      ]
+    },
+    {
+      "rank": 34,
+      "domain": "journey",
+      "count": 6,
+      "domain_names": [
+        "journeyalliance.org",
+        "journeyconscious.org",
+        "journeynomads.org",
+        "journeyseeker.org",
+        "journeywalkers.org",
+        "luckjourney.org"
+      ]
+    },
+    {
+      "rank": 35,
+      "domain": "shop",
+      "count": 6,
+      "domain_names": [
+        "lazyshop.org",
+        "orientshop.org",
+        "satshop.org",
+        "shopkingdom.org",
+        "shopmuses.org",
+        "shopsess.org"
+      ]
+    },
+    {
+      "rank": 36,
+      "domain": "soft",
+      "count": 6,
+      "domain_names": [
+        "groovesoft.org",
+        "ibosoft.org",
+        "softchecker.org",
+        "softpacker.org",
+        "softupdater.org",
+        "thinksoft.org"
+      ]
+    },
+    {
+      "rank": 37,
+      "domain": "vision",
+      "count": 6,
+      "domain_names": [
+        "invitingvision.org",
+        "trekvision.org",
+        "visionharbor.org",
+        "visionlift.org",
+        "visionpadres.org",
+        "visionsprout.org"
+      ]
+    },
+    {
+      "rank": 38,
+      "domain": "backpack",
+      "count": 5,
+      "domain_names": [
+        "backpackcircle.org",
+        "backpackconnect.org",
+        "backpackjournalism.org",
+        "backpacktribe.org",
+        "backpackwaves.org"
+      ]
+    },
+    {
+      "rank": 39,
+      "domain": "clash",
+      "count": 5,
+      "domain_names": [
+        "championclash.org",
+        "clashpicks.org",
+        "statclash.org",
+        "teamclash.org",
+        "virtualclash.org"
+      ]
+    },
+    {
+      "rank": 40,
+      "domain": "dream",
+      "count": 5,
+      "domain_names": [
+        "dreamapart.org",
+        "dreamlift.org",
+        "dreamportfolio.org",
+        "dreamrewards.org",
+        "dreamsprout.org"
+      ]
+    },
+    {
+      "rank": 41,
+      "domain": "first",
+      "count": 5,
+      "domain_names": [
+        "firstrealestate.org",
+        "firstsac.org",
+        "journalfirst.org",
+        "planktonfirst.org",
+        "referralfirst.org"
+      ]
+    },
+    {
+      "rank": 42,
+      "domain": "masters",
+      "count": 5,
+      "domain_names": [
+        "bimmasters.org",
+        "draftmasters.org",
+        "pickmasters.org",
+        "purgemasters.org",
+        "scrubmasters.org"
+      ]
+    },
+    {
+      "rank": 43,
+      "domain": "project",
+      "count": 5,
+      "domain_names": [
+        "hydraproject.org",
+        "philanthropyproject.org",
+        "privilegeproject.org",
+        "projectcasper.org",
+        "projectearthquake.org"
+      ]
+    },
+    {
+      "rank": 44,
+      "domain": "trail",
+      "count": 5,
+      "domain_names": [
+        "civictrail.org",
+        "globaltrail.org",
+        "traildiscover.org",
+        "trailhorizons.org",
+        "trailnest.org"
+      ]
+    },
+    {
+      "rank": 45,
+      "domain": "travel",
+      "count": 5,
+      "domain_names": [
+        "borderlesstravel.org",
+        "memoriatravel.org",
+        "travelshapers.org",
+        "traveluplift.org",
+        "travelwanderers.org"
+      ]
+    },
+    {
+      "rank": 46,
+      "domain": "vibe",
+      "count": 5,
+      "domain_names": [
+        "minivibe.org",
+        "roamervibe.org",
+        "vibelite.org",
+        "vibevoyages.org",
+        "wellvibe.org"
+      ]
+    },
+    {
+      "rank": 47,
+      "domain": "voyage",
+      "count": 5,
+      "domain_names": [
+        "borderlessvoyage.org",
+        "voyageecho.org",
+        "voyageforward.org",
+        "voyagemates.org",
+        "voyagevillage.org"
+      ]
+    },
+    {
+      "rank": 48,
+      "domain": "asia",
+      "count": 4,
+      "domain_names": [
+        "asiacinema.org",
+        "fundamentalasia.org",
+        "rmsasia.org",
+        "statsasia.org"
+      ]
+    },
+    {
+      "rank": 49,
+      "domain": "beauty",
+      "count": 4,
+      "domain_names": [
+        "abubeauty.org",
+        "beautywellness.org",
+        "dotbeauty.org",
+        "essentialbeauty.org"
+      ]
+    },
+    {
+      "rank": 50,
+      "domain": "black",
+      "count": 4,
+      "domain_names": [
+        "blackban.org",
+        "blackindian.org",
+        "blackreads.org",
+        "timblack.org"
+      ]
+    },
+    {
+      "rank": 51,
+      "domain": "bowl",
+      "count": 4,
+      "domain_names": [
+        "bowlclean.org",
+        "cleanbowl.org",
+        "internationalbowl.org",
+        "willowsbowl.org"
+      ]
+    },
+    {
+      "rank": 52,
+      "domain": "care",
+      "count": 4,
+      "domain_names": [
+        "baacare.org",
+        "carepong.org",
+        "caresprout.org",
+        "dominioncare.org"
+      ]
+    },
+    {
+      "rank": 53,
+      "domain": "center",
+      "count": 4,
+      "domain_names": [
+        "benefitscenter.org",
+        "platinumcenter.org",
+        "vouchercenter.org",
+        "yurtcenter.org"
+      ]
+    },
+    {
+      "rank": 54,
+      "domain": "circle",
+      "count": 4,
+      "domain_names": [
+        "backpackcircle.org",
+        "beaconcircle.org",
+        "inspirecircle.org",
+        "kindlecircle.org"
+      ]
+    },
+    {
+      "rank": 55,
+      "domain": "clean",
+      "count": 4,
+      "domain_names": [
+        "bowlclean.org",
+        "cleanbowl.org",
+        "cleancraft.org",
+        "sealclean.org"
+      ]
+    },
+    {
+      "rank": 56,
+      "domain": "club",
+      "count": 4,
+      "domain_names": [
+        "celeryclub.org",
+        "culinaryclub.org",
+        "horseshoeclub.org",
+        "techieclub.org"
+      ]
+    },
+    {
+      "rank": 57,
+      "domain": "discover",
+      "count": 4,
+      "domain_names": [
+        "discoveristanbul.org",
+        "discoversteps.org",
+        "discovervista.org",
+        "traildiscover.org"
+      ]
+    },
+    {
+      "rank": 58,
+      "domain": "fitness",
+      "count": 4,
+      "domain_names": [
+        "cardinalfitness.org",
+        "fitnessdictionary.org",
+        "infinitefitness.org",
+        "omegafitness.org"
+      ]
+    },
+    {
+      "rank": 59,
+      "domain": "health",
+      "count": 4,
+      "domain_names": [
+        "belovehealth.org",
+        "healthlegal.org",
+        "montanahealth.org",
+        "onboardhealth.org"
+      ]
+    },
+    {
+      "rank": 60,
+      "domain": "heroes",
+      "count": 4,
+      "domain_names": [
+        "broomheroes.org",
+        "draftheroes.org",
+        "mopheroes.org",
+        "scrubheroes.org"
+      ]
+    },
+    {
+      "rank": 61,
+      "domain": "house",
+      "count": 4,
+      "domain_names": [
+        "hairhouse.org",
+        "manassehhouse.org",
+        "pickhouse.org",
+        "sculpturehouse.org"
+      ]
+    },
+    {
+      "rank": 62,
+      "domain": "impact",
+      "count": 4,
+      "domain_names": [
+        "impactfield.org",
+        "impactharbor.org",
+        "impactsprout.org",
+        "roamimpact.org"
+      ]
+    },
+    {
+      "rank": 63,
+      "domain": "join",
+      "count": 4,
+      "domain_names": [
+        "joinalce.org",
+        "joinfurther.org",
+        "joinrenew.org",
+        "jointhrive.org"
+      ]
+    },
+    {
+      "rank": 64,
+      "domain": "model",
+      "count": 4,
+      "domain_names": [
+        "modelspec.org",
+        "modelspecs.org",
+        "modeltram.org",
+        "samemodel.org"
+      ]
+    },
+    {
+      "rank": 65,
+      "domain": "open",
+      "count": 4,
+      "domain_names": [
+        "openregister.org",
+        "openroaders.org",
+        "opensprout.org",
+        "roamopen.org"
+      ]
+    },
+    {
+      "rank": 66,
+      "domain": "planet",
+      "count": 4,
+      "domain_names": [
+        "planetvip.org",
+        "roamplanet.org",
+        "scientologyplanet.org",
+        "trekplanet.org"
+      ]
+    },
+    {
+      "rank": 67,
+      "domain": "quest",
+      "count": 4,
+      "domain_names": [
+        "ashlarquest.org",
+        "beaconquest.org",
+        "changequest.org",
+        "inspirequest.org"
+      ]
+    },
+    {
+      "rank": 68,
+      "domain": "same",
+      "count": 4,
+      "domain_names": [
+        "sameacademies.org",
+        "sameacademy.org",
+        "samecurriculum.org",
+        "samemodel.org"
+      ]
+    },
+    {
+      "rank": 69,
+      "domain": "scrub",
+      "count": 4,
+      "domain_names": [
+        "scrubheroes.org",
+        "scrubmasters.org",
+        "scrubsmith.org",
+        "scrubworks.org"
+      ]
+    },
+    {
+      "rank": 70,
+      "domain": "society",
+      "count": 4,
+      "domain_names": [
+        "roamsociety.org",
+        "tearoomsociety.org",
+        "treksociety.org",
+        "yoursociety.org"
+      ]
+    },
+    {
+      "rank": 71,
+      "domain": "tech",
+      "count": 4,
+      "domain_names": [
+        "novtech.org",
+        "rangtech.org",
+        "shahintech.org",
+        "techmac.org"
+      ]
+    },
+    {
+      "rank": 72,
+      "domain": "virtual",
+      "count": 4,
+      "domain_names": [
+        "runvirtual.org",
+        "virtualclash.org",
+        "virtualtefillin.org",
+        "virtualtree.org"
+      ]
+    },
+    {
+      "rank": 73,
+      "domain": "well",
+      "count": 4,
+      "domain_names": [
+        "wellinks.org",
+        "wellsphere.org",
+        "wellvibe.org",
+        "workplacewell.org"
+      ]
+    },
+    {
+      "rank": 74,
+      "domain": "wipe",
+      "count": 4,
+      "domain_names": [
+        "freshwipe.org",
+        "wipecrew.org",
+        "wipeforce.org",
+        "wipewise.org"
+      ]
+    },
+    {
+      "rank": 75,
+      "domain": "world",
+      "count": 4,
+      "domain_names": [
+        "schoolsworld.org",
+        "wayfarerworld.org",
+        "worldevolution.org",
+        "worldlens.org"
+      ]
+    },
+    {
+      "rank": 76,
+      "domain": "access",
+      "count": 3,
+      "domain_names": [
+        "accessbenin.org",
+        "nomadaccess.org",
+        "trekaccess.org"
+      ]
+    },
+    {
+      "rank": 77,
+      "domain": "adventure",
+      "count": 3,
+      "domain_names": [
+        "adventurebridge.org",
+        "adventurecommune.org",
+        "adventureseers.org"
+      ]
+    },
+    {
+      "rank": 78,
+      "domain": "arbiter",
+      "count": 3,
+      "domain_names": [
+        "arbiterneutral.org",
+        "arbiterneutrals.org",
+        "neutralarbiter.org"
+      ]
+    },
+    {
+      "rank": 79,
+      "domain": "aztec",
+      "count": 3,
+      "domain_names": [
+        "aztecarms.org",
+        "aztecgames.org",
+        "aztecschool.org"
+      ]
+    },
+    {
+      "rank": 80,
+      "domain": "books",
+      "count": 3,
+      "domain_names": [
+        "bookstoher.org",
+        "daysbooks.org",
+        "torahbooks.org"
+      ]
+    },
+    {
+      "rank": 81,
+      "domain": "bridge",
+      "count": 3,
+      "domain_names": [
+        "adventurebridge.org",
+        "kindlebridge.org",
+        "wisebridge.org"
+      ]
+    },
+    {
+      "rank": 82,
+      "domain": "capital",
+      "count": 3,
+      "domain_names": [
+        "analogcapital.org",
+        "capitalchamber.org",
+        "environmentalcapital.org"
+      ]
+    },
+    {
+      "rank": 83,
+      "domain": "cloud",
+      "count": 3,
+      "domain_names": [
+        "cloudentire.org",
+        "draftcloud.org",
+        "tyecloud.org"
+      ]
+    },
+    {
+      "rank": 84,
+      "domain": "date",
+      "count": 3,
+      "domain_names": [
+        "datemedia.org",
+        "datesim.org",
+        "scupdate.org"
+      ]
+    },
+    {
+      "rank": 85,
+      "domain": "digital",
+      "count": 3,
+      "domain_names": [
+        "digitalgrids.org",
+        "digitalsaudi.org",
+        "incredibledigital.org"
+      ]
+    },
+    {
+      "rank": 86,
+      "domain": "disc",
+      "count": 3,
+      "domain_names": [
+        "discfibrin.org",
+        "discoversteps.org",
+        "fibrindisc.org"
+      ]
+    },
+    {
+      "rank": 87,
+      "domain": "drift",
+      "count": 3,
+      "domain_names": [
+        "casinodrift.org",
+        "casinosdrift.org",
+        "exploredrift.org"
+      ]
+    },
+    {
+      "rank": 88,
+      "domain": "entire",
+      "count": 3,
+      "domain_names": [
+        "cloudentire.org",
+        "getentire.org",
+        "teamentire.org"
+      ]
+    },
+    {
+      "rank": 89,
+      "domain": "eternal",
+      "count": 3,
+      "domain_names": [
+        "eternalangler.org",
+        "eternaltrend.org",
+        "eternalvisions.org"
+      ]
+    },
+    {
+      "rank": 90,
+      "domain": "events",
+      "count": 3,
+      "domain_names": [
+        "eagleevents.org",
+        "lyssaevents.org",
+        "spellboundevents.org"
+      ]
+    },
+    {
+      "rank": 91,
+      "domain": "floret",
+      "count": 3,
+      "domain_names": [
+        "florethub.org",
+        "getfloret.org",
+        "tryfloret.org"
+      ]
+    },
+    {
+      "rank": 92,
+      "domain": "fund",
+      "count": 3,
+      "domain_names": [
+        "fantasyfund.org",
+        "iplfund.org",
+        "kulturfund.org"
+      ]
+    },
+    {
+      "rank": 93,
+      "domain": "game",
+      "count": 3,
+      "domain_names": [
+        "evergame.org",
+        "gamedrafted.org",
+        "gamemody.org"
+      ]
+    },
+    {
+      "rank": 94,
+      "domain": "green",
+      "count": 3,
+      "domain_names": [
+        "greenmornings.org",
+        "preachinggreen.org",
+        "speakinggreen.org"
+      ]
+    },
+    {
+      "rank": 95,
+      "domain": "harmony",
+      "count": 3,
+      "domain_names": [
+        "harmonyfield.org",
+        "harmonylift.org",
+        "harmonysprout.org"
+      ]
+    },
+    {
+      "rank": 96,
+      "domain": "holy",
+      "count": 3,
+      "domain_names": [
+        "holystitches.org",
+        "holytree.org",
+        "holyvatican.org"
+      ]
+    },
+    {
+      "rank": 97,
+      "domain": "info",
+      "count": 3,
+      "domain_names": [
+        "infosnap.org",
+        "infothrive.org",
+        "thinkinfo.org"
+      ]
+    },
+    {
+      "rank": 98,
+      "domain": "interiors",
+      "count": 3,
+      "domain_names": [
+        "angelinteriors.org",
+        "evergreeninteriors.org",
+        "wellsinteriors.org"
+      ]
+    },
+    {
+      "rank": 99,
+      "domain": "istanbul",
+      "count": 3,
+      "domain_names": [
+        "discoveristanbul.org",
+        "gezistanbul.org",
+        "istanbulwalks.org"
+      ]
+    },
+    {
+      "rank": 100,
+      "domain": "land",
+      "count": 3,
+      "domain_names": [
+        "chunkland.org",
+        "someland.org",
+        "vitaland.org"
+      ]
+    },
+    {
+      "rank": 101,
+      "domain": "learning",
+      "count": 3,
+      "domain_names": [
+        "acclearning.org",
+        "learningorganisation.org",
+        "learningsos.org"
+      ]
+    },
+    {
+      "rank": 102,
+      "domain": "lineup",
+      "count": 3,
+      "domain_names": [
+        "draftlineup.org",
+        "fantasylineup.org",
+        "picklineup.org"
+      ]
+    },
+    {
+      "rank": 103,
+      "domain": "live",
+      "count": 3,
+      "domain_names": [
+        "liveconsumers.org",
+        "liveunlocked.org",
+        "meelive.org"
+      ]
+    },
+    {
+      "rank": 104,
+      "domain": "mart",
+      "count": 3,
+      "domain_names": [
+        "gigasmart.org",
+        "promptmart.org",
+        "teamart.org"
+      ]
+    },
+    {
+      "rank": 105,
+      "domain": "mist",
+      "count": 3,
+      "domain_names": [
+        "mistcraft.org",
+        "mistcrew.org",
+        "mistforce.org"
+      ]
+    },
+    {
+      "rank": 106,
+      "domain": "montana",
+      "count": 3,
+      "domain_names": [
+        "aidmontana.org",
+        "montanahealth.org",
+        "oblastmontana.org"
+      ]
+    },
+    {
+      "rank": 107,
+      "domain": "national",
+      "count": 3,
+      "domain_names": [
+        "alphanational.org",
+        "nationalparade.org",
+        "nationalparades.org"
+      ]
+    },
+    {
+      "rank": 108,
+      "domain": "network",
+      "count": 3,
+      "domain_names": [
+        "autismnetwork.org",
+        "networkshell.org",
+        "wandernetwork.org"
+      ]
+    },
+    {
+      "rank": 109,
+      "domain": "next",
+      "count": 3,
+      "domain_names": [
+        "deepnext.org",
+        "nextrendezvous.org",
+        "nexttechie.org"
+      ]
+    },
+    {
+      "rank": 110,
+      "domain": "nomad",
+      "count": 3,
+      "domain_names": [
+        "nomadaccess.org",
+        "nomadexchange.org",
+        "nomadvoices.org"
+      ]
+    },
+    {
+      "rank": 111,
+      "domain": "online",
+      "count": 3,
+      "domain_names": [
+        "amaonline.org",
+        "identonline.org",
+        "onlinechannel.org"
+      ]
+    },
+    {
+      "rank": 112,
+      "domain": "park",
+      "count": 3,
+      "domain_names": [
+        "arlingtonpark.org",
+        "tolstoypark.org",
+        "wanderspark.org"
+      ]
+    },
+    {
+      "rank": 113,
+      "domain": "path",
+      "count": 3,
+      "domain_names": [
+        "pathglobal.org",
+        "pathtrailblazers.org",
+        "shinepath.org"
+      ]
+    },
+    {
+      "rank": 114,
+      "domain": "pathways",
+      "count": 3,
+      "domain_names": [
+        "goldenpathways.org",
+        "grandpathways.org",
+        "psychicpathways.org"
+      ]
+    },
+    {
+      "rank": 115,
+      "domain": "patriot",
+      "count": 3,
+      "domain_names": [
+        "patriotproperty.org",
+        "patriotsponsor.org",
+        "patriotsponsorship.org"
+      ]
+    },
+    {
+      "rank": 116,
+      "domain": "peace",
+      "count": 3,
+      "domain_names": [
+        "peacelift.org",
+        "peacenest.org",
+        "peacesprout.org"
+      ]
+    },
+    {
+      "rank": 117,
+      "domain": "quad",
+      "count": 3,
+      "domain_names": [
+        "draftsquad.org",
+        "scoresquad.org",
+        "votesquad.org"
+      ]
+    },
+    {
+      "rank": 118,
+      "domain": "residential",
+      "count": 3,
+      "domain_names": [
+        "naturalresidential.org",
+        "relianceresidential.org",
+        "residentialrights.org"
+      ]
+    },
+    {
+      "rank": 119,
+      "domain": "room",
+      "count": 3,
+      "domain_names": [
+        "greenerroom.org",
+        "greenyroom.org",
+        "roomcrafted.org"
+      ]
+    },
+    {
+      "rank": 120,
+      "domain": "roster",
+      "count": 3,
+      "domain_names": [
+        "eliteroster.org",
+        "pickroster.org",
+        "rosterchamp.org"
+      ]
+    },
+    {
+      "rank": 121,
+      "domain": "schools",
+      "count": 3,
+      "domain_names": [
+        "fillerschools.org",
+        "inclineschools.org",
+        "schoolsworld.org"
+      ]
+    },
+    {
+      "rank": 122,
+      "domain": "service",
+      "count": 3,
+      "domain_names": [
+        "happyservice.org",
+        "ipmservice.org",
+        "serviceidea.org"
+      ]
+    },
+    {
+      "rank": 123,
+      "domain": "shine",
+      "count": 3,
+      "domain_names": [
+        "northernshine.org",
+        "shinecrew.org",
+        "shinepath.org"
+      ]
+    },
+    {
+      "rank": 124,
+      "domain": "solutions",
+      "count": 3,
+      "domain_names": [
+        "knightsolutions.org",
+        "phagesolutions.org",
+        "solutionscentrum.org"
+      ]
+    },
+    {
+      "rank": 125,
+      "domain": "sports",
+      "count": 3,
+      "domain_names": [
+        "bangladeshsports.org",
+        "sportsdictionary.org",
+        "sportsgossip.org"
+      ]
+    },
+    {
+      "rank": 126,
+      "domain": "squad",
+      "count": 3,
+      "domain_names": [
+        "draftsquad.org",
+        "scoresquad.org",
+        "votesquad.org"
+      ]
+    },
+    {
+      "rank": 127,
+      "domain": "stat",
+      "count": 3,
+      "domain_names": [
+        "metrostat.org",
+        "statclash.org",
+        "statkings.org"
+      ]
+    },
+    {
+      "rank": 128,
+      "domain": "steps",
+      "count": 3,
+      "domain_names": [
+        "discoversteps.org",
+        "ecosteps.org",
+        "metasteps.org"
+      ]
+    },
+    {
+      "rank": 129,
+      "domain": "systems",
+      "count": 3,
+      "domain_names": [
+        "bitsystems.org",
+        "gnusystems.org",
+        "trucksystems.org"
+      ]
+    },
+    {
+      "rank": 130,
+      "domain": "ties",
+      "count": 3,
+      "domain_names": [
+        "porties.org",
+        "roamingties.org",
+        "trekties.org"
+      ]
+    },
+    {
+      "rank": 131,
+      "domain": "tone",
+      "count": 3,
+      "domain_names": [
+        "fleshtone.org",
+        "pamstone.org",
+        "slendertone.org"
+      ]
+    },
+    {
+      "rank": 132,
+      "domain": "tweak",
+      "count": 3,
+      "domain_names": [
+        "celltweak.org",
+        "tweakload.org",
+        "tweakzen.org"
+      ]
+    },
+    {
+      "rank": 133,
+      "domain": "union",
+      "count": 3,
+      "domain_names": [
+        "seaunion.org",
+        "unionlocals.org",
+        "wayfarerunion.org"
+      ]
+    },
+    {
+      "rank": 134,
+      "domain": "unity",
+      "count": 3,
+      "domain_names": [
+        "unitylift.org",
+        "unitynest.org",
+        "unitysprout.org"
+      ]
+    },
+    {
+      "rank": 135,
+      "domain": "village",
+      "count": 3,
+      "domain_names": [
+        "governancevillage.org",
+        "villagebotanics.org",
+        "voyagevillage.org"
+      ]
+    },
+    {
+      "rank": 136,
+      "domain": "vista",
+      "count": 3,
+      "domain_names": [
+        "discovervista.org",
+        "giftvista.org",
+        "vistavascular.org"
+      ]
+    },
+    {
+      "rank": 137,
+      "domain": "wanders",
+      "count": 3,
+      "domain_names": [
+        "wanderscape.org",
+        "wanderscope.org",
+        "wanderspark.org"
+      ]
+    },
+    {
+      "rank": 138,
+      "domain": "watch",
+      "count": 3,
+      "domain_names": [
+        "buckthornwatch.org",
+        "watchevent.org",
+        "watchsao.org"
+      ]
+    },
+    {
+      "rank": 139,
+      "domain": "wayfarer",
+      "count": 3,
+      "domain_names": [
+        "wayfarerroutes.org",
+        "wayfarerunion.org",
+        "wayfarerworld.org"
+      ]
+    },
+    {
+      "rank": 140,
+      "domain": "wellness",
+      "count": 3,
+      "domain_names": [
+        "andwellness.org",
+        "beautywellness.org",
+        "wellnessrevived.org"
+      ]
+    },
+    {
+      "rank": 141,
+      "domain": "works",
+      "count": 3,
+      "domain_names": [
+        "mopworks.org",
+        "scrubworks.org",
+        "testsworks.org"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 141,
+    "total": 141
+  }
+}
