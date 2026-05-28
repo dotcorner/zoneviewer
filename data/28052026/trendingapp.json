@@ -1,0 +1,4765 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "flow",
+      "count": 22,
+      "domain_names": [
+        "beyondflow.app",
+        "brassflow.app",
+        "conjureflow.app",
+        "dividendflow.app",
+        "flowcareer.app",
+        "flowfront.app",
+        "flowness.app",
+        "flowqueue.app",
+        "flowsearch.app",
+        "flowtones.app",
+        "flowups.app",
+        "heatflow.app",
+        "junkflow.app",
+        "localeflow.app",
+        "loomflow.app",
+        "lyricsflow.app",
+        "padflow.app",
+        "presenceflow.app",
+        "previewflow.app",
+        "rhinoflow.app",
+        "tankerflow.app",
+        "wakeflow.app"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "desk",
+      "count": 15,
+      "domain_names": [
+        "ambardesk.app",
+        "analyticsdesk.app",
+        "cargodesk.app",
+        "centraldesk.app",
+        "deskmint.app",
+        "glassdesk.app",
+        "janesdesk.app",
+        "litedesk.app",
+        "lottodesk.app",
+        "meritdesk.app",
+        "mileagedesk.app",
+        "operatordesk.app",
+        "optionsdesk.app",
+        "shutterdesk.app",
+        "threaddesk.app"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "check",
+      "count": 14,
+      "domain_names": [
+        "blinkcheck.app",
+        "campcheck.app",
+        "check-hero.app",
+        "checkfluid.app",
+        "checkray.app",
+        "cratecheck.app",
+        "jamcheck.app",
+        "lotocheck.app",
+        "profitcheck.app",
+        "repcheck.app",
+        "roofcheck.app",
+        "scrollcheck.app",
+        "spincheck.app",
+        "stallcheck.app"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "health",
+      "count": 14,
+      "domain_names": [
+        "alignhealth.app",
+        "almondhealth.app",
+        "aperturehealth.app",
+        "click-health.app",
+        "cocohealth.app",
+        "courierhealth.app",
+        "healthcrumbs.app",
+        "healthdiary.app",
+        "levia-health.app",
+        "lullhealth.app",
+        "monsterhealth.app",
+        "settlehealth.app",
+        "sixtyhealth.app",
+        "tesserahealth.app"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "social",
+      "count": 13,
+      "domain_names": [
+        "athletesocial.app",
+        "barsocial.app",
+        "dynamicsocial.app",
+        "nexussocial.app",
+        "safe-social.app",
+        "social-fuse.app",
+        "socialautomation.app",
+        "socialbloom.app",
+        "socialfunnel.app",
+        "socialrouter.app",
+        "socialsignal.app",
+        "trailsocial.app",
+        "wispsocial.app"
+      ]
+    },
+    {
+      "rank": 6,
+      "domain": "agent",
+      "count": 12,
+      "domain_names": [
+        "agentguards.app",
+        "agentpicks.app",
+        "agentpreview.app",
+        "agentwharf.app",
+        "basedagent.app",
+        "cliagent.app",
+        "evalagent.app",
+        "gitagent.app",
+        "meta-agent.app",
+        "pawagent.app",
+        "research-agent.app",
+        "stackagent.app"
+      ]
+    },
+    {
+      "rank": 7,
+      "domain": "book",
+      "count": 12,
+      "domain_names": [
+        "bookgames.app",
+        "booksentry.app",
+        "bookspan.app",
+        "bookura.app",
+        "bookward.app",
+        "cleatbook.app",
+        "edgebook.app",
+        "hearthbook.app",
+        "kanbook.app",
+        "pinebook.app",
+        "theredbook.app",
+        "wearbook.app"
+      ]
+    },
+    {
+      "rank": 8,
+      "domain": "free",
+      "count": 12,
+      "domain_names": [
+        "bloomfree.app",
+        "doofree.app",
+        "freeline.app",
+        "freeliving.app",
+        "freeroyalty.app",
+        "freesafe.app",
+        "freesites.app",
+        "freetime.app",
+        "freetips.app",
+        "freevin.app",
+        "hansfree.app",
+        "webfree.app"
+      ]
+    },
+    {
+      "rank": 9,
+      "domain": "labs",
+      "count": 12,
+      "domain_names": [
+        "astrallabs.app",
+        "bowlabs.app",
+        "bual-labs.app",
+        "cognitionlabs.app",
+        "handlerlabs.app",
+        "inno-labs.app",
+        "integratelabs.app",
+        "melodialabs.app",
+        "polymathlabs.app",
+        "potentialitylabs.app",
+        "rhealabs.app",
+        "routinelabs.app"
+      ]
+    },
+    {
+      "rank": 10,
+      "domain": "play",
+      "count": 12,
+      "domain_names": [
+        "cityplay.app",
+        "coolplay.app",
+        "funnyplay.app",
+        "lemonplay.app",
+        "playcounter.app",
+        "playcourtside.app",
+        "playelevate.app",
+        "playmint.app",
+        "playscramble.app",
+        "playval.app",
+        "playworth.app",
+        "zoneplay.app"
+      ]
+    },
+    {
+      "rank": 11,
+      "domain": "studio",
+      "count": 12,
+      "domain_names": [
+        "applystudio.app",
+        "bktstudio.app",
+        "callbackstudio.app",
+        "halostudio.app",
+        "joinerystudio.app",
+        "mambostudio.app",
+        "meinstudio.app",
+        "pptstudio.app",
+        "saas-studio.app",
+        "studio-198.app",
+        "studiopartner.app",
+        "vocestudio.app"
+      ]
+    },
+    {
+      "rank": 12,
+      "domain": "chat",
+      "count": 11,
+      "domain_names": [
+        "chatcasa.app",
+        "chatglow.app",
+        "chatgps.app",
+        "chathome.app",
+        "chatlatino.app",
+        "cheatchat.app",
+        "evalchat.app",
+        "fatchat.app",
+        "venuechat.app",
+        "vertchat.app",
+        "washchat.app"
+      ]
+    },
+    {
+      "rank": 13,
+      "domain": "deck",
+      "count": 11,
+      "domain_names": [
+        "continuumdeck.app",
+        "deckduel.app",
+        "deckmed.app",
+        "deckreps.app",
+        "decksnap.app",
+        "greendeck.app",
+        "lightdeck.app",
+        "loaddeck.app",
+        "magpiedeck.app",
+        "tribedeck.app",
+        "venuedeck.app"
+      ]
+    },
+    {
+      "rank": 14,
+      "domain": "wise",
+      "count": 11,
+      "domain_names": [
+        "answerwise.app",
+        "breathwise.app",
+        "circlewise.app",
+        "fiberwise.app",
+        "hearthwise.app",
+        "idlewise.app",
+        "peptidewise.app",
+        "termwise.app",
+        "versewise.app",
+        "wisedrive.app",
+        "wisesurvey.app"
+      ]
+    },
+    {
+      "rank": 15,
+      "domain": "base",
+      "count": 10,
+      "domain_names": [
+        "baseflare.app",
+        "basefut.app",
+        "basepanel.app",
+        "bitebase.app",
+        "bridge-base.app",
+        "budbase.app",
+        "fillbase.app",
+        "lobbase.app",
+        "seenbase.app",
+        "winebase.app"
+      ]
+    },
+    {
+      "rank": 16,
+      "domain": "cloud",
+      "count": 10,
+      "domain_names": [
+        "agenticcloud.app",
+        "cloudara.app",
+        "cloudarmor.app",
+        "cloudcroft.app",
+        "cloudjumper.app",
+        "cloudlinks.app",
+        "cloudradial.app",
+        "eracloud.app",
+        "railscloud.app",
+        "seacloud.app"
+      ]
+    },
+    {
+      "rank": 17,
+      "domain": "core",
+      "count": 10,
+      "domain_names": [
+        "axioncore.app",
+        "balkanscore.app",
+        "castercore.app",
+        "coreasset.app",
+        "corewords.app",
+        "gorillacore.app",
+        "marketscore.app",
+        "shorescore.app",
+        "spoonscore.app",
+        "stationcore.app"
+      ]
+    },
+    {
+      "rank": 18,
+      "domain": "food",
+      "count": 10,
+      "domain_names": [
+        "food-allergy.app",
+        "food-finder.app",
+        "foodcommit.app",
+        "foodferry.app",
+        "foodguru.app",
+        "foodmet.app",
+        "foodproject.app",
+        "foodvote.app",
+        "sexyfood.app",
+        "smarterfood.app"
+      ]
+    },
+    {
+      "rank": 19,
+      "domain": "scan",
+      "count": 10,
+      "domain_names": [
+        "ascendscan.app",
+        "deltascan.app",
+        "fiberscan.app",
+        "fibrescan.app",
+        "maxscan.app",
+        "patternscan.app",
+        "scanhair.app",
+        "scanspanner.app",
+        "scantopia.app",
+        "sparkscan.app"
+      ]
+    },
+    {
+      "rank": 20,
+      "domain": "score",
+      "count": 10,
+      "domain_names": [
+        "appscore.app",
+        "balkanscore.app",
+        "marketscore.app",
+        "mitscore.app",
+        "sacredscore.app",
+        "scorecoins.app",
+        "shorescore.app",
+        "slablinescore.app",
+        "spoonscore.app",
+        "valscore.app"
+      ]
+    },
+    {
+      "rank": 21,
+      "domain": "auto",
+      "count": 9,
+      "domain_names": [
+        "apexauto.app",
+        "autoaxis.app",
+        "autobud.app",
+        "autoclinic.app",
+        "autoinsight.app",
+        "autopoietic.app",
+        "axelauto.app",
+        "honestauto.app",
+        "pig-auto.app"
+      ]
+    },
+    {
+      "rank": 22,
+      "domain": "cast",
+      "count": 9,
+      "domain_names": [
+        "castcards.app",
+        "castria.app",
+        "colorcast.app",
+        "glasscast.app",
+        "housecast.app",
+        "knowcast.app",
+        "placecast.app",
+        "sharkcast.app",
+        "sunsetcast.app"
+      ]
+    },
+    {
+      "rank": 23,
+      "domain": "forge",
+      "count": 9,
+      "domain_names": [
+        "clarity-forge.app",
+        "dungeonforge.app",
+        "forgefront.app",
+        "forgenumbers.app",
+        "forgepro.app",
+        "iron-forge.app",
+        "shiftforge.app",
+        "tonforge.app",
+        "zenforge.app"
+      ]
+    },
+    {
+      "rank": 24,
+      "domain": "mate",
+      "count": 9,
+      "domain_names": [
+        "blindsmate.app",
+        "centremate.app",
+        "corpusmate.app",
+        "fairway-mate.app",
+        "fairwaymate.app",
+        "fluxmate.app",
+        "loungemate.app",
+        "palmate.app",
+        "valimate.app"
+      ]
+    },
+    {
+      "rank": 25,
+      "domain": "pilot",
+      "count": 9,
+      "domain_names": [
+        "colorpilot.app",
+        "creator-pilot.app",
+        "oceanpilot.app",
+        "patrolpilot.app",
+        "pilot-light.app",
+        "pilotmac.app",
+        "pilotmap.app",
+        "pilotwatt.app",
+        "sleeppilot.app"
+      ]
+    },
+    {
+      "rank": 26,
+      "domain": "plan",
+      "count": 9,
+      "domain_names": [
+        "email-business-plan.app",
+        "factoryplan.app",
+        "onlyplan.app",
+        "planbeehive.app",
+        "planear.app",
+        "planflip.app",
+        "purposeplan.app",
+        "travplan.app",
+        "visionplan.app"
+      ]
+    },
+    {
+      "rank": 27,
+      "domain": "aura",
+      "count": 8,
+      "domain_names": [
+        "auraaudit.app",
+        "auracraft.app",
+        "auraglobal.app",
+        "auraword.app",
+        "finaura.app",
+        "focusaura.app",
+        "graphaura.app",
+        "heyaura.app"
+      ]
+    },
+    {
+      "rank": 28,
+      "domain": "board",
+      "count": 8,
+      "domain_names": [
+        "boardtap.app",
+        "branchboard.app",
+        "creatorboard.app",
+        "listingboard.app",
+        "pantryboard.app",
+        "protoboard.app",
+        "scoutboard.app",
+        "triboard.app"
+      ]
+    },
+    {
+      "rank": 29,
+      "domain": "connect",
+      "count": 8,
+      "domain_names": [
+        "cabconnect.app",
+        "coolconnect.app",
+        "creator-connect.app",
+        "flatconnect.app",
+        "school-connect.app",
+        "u-x-connect.app",
+        "un-x-connect.app",
+        "wellnessconnect.app"
+      ]
+    },
+    {
+      "rank": 30,
+      "domain": "helper",
+      "count": 8,
+      "domain_names": [
+        "archivehelper.app",
+        "cataloghelper.app",
+        "claimhelper.app",
+        "dnd-helper.app",
+        "haul-helper.app",
+        "inspectionhelper.app",
+        "listinghelper.app",
+        "menuhelper.app"
+      ]
+    },
+    {
+      "rank": 31,
+      "domain": "list",
+      "count": 8,
+      "domain_names": [
+        "banalist.app",
+        "jackieslist.app",
+        "listbit.app",
+        "neatlist.app",
+        "normalist.app",
+        "pharmlist.app",
+        "sparklist.app",
+        "waitlist.app"
+      ]
+    },
+    {
+      "rank": 32,
+      "domain": "love",
+      "count": 8,
+      "domain_names": [
+        "anotherlove.app",
+        "gamelove.app",
+        "loveboo.app",
+        "lovedone.app",
+        "lovegen.app",
+        "lovenook.app",
+        "loveward.app",
+        "speciallove.app"
+      ]
+    },
+    {
+      "rank": 33,
+      "domain": "money",
+      "count": 8,
+      "domain_names": [
+        "creditmoney.app",
+        "emeraldmoney.app",
+        "ghostmoney.app",
+        "junglemoney.app",
+        "moneylight.app",
+        "moneyspark.app",
+        "nookmoney.app",
+        "thresholdmoney.app"
+      ]
+    },
+    {
+      "rank": 34,
+      "domain": "note",
+      "count": 8,
+      "domain_names": [
+        "ambernote.app",
+        "donkeynote.app",
+        "hiddennote.app",
+        "noteblitz.app",
+        "notebro.app",
+        "notefactory.app",
+        "notegod.app",
+        "stillnote.app"
+      ]
+    },
+    {
+      "rank": 35,
+      "domain": "pass",
+      "count": 8,
+      "domain_names": [
+        "allergy-pass.app",
+        "arenapass.app",
+        "connpass.app",
+        "flakypass.app",
+        "fundpass.app",
+        "passfirst.app",
+        "passmax.app",
+        "rewardpass.app"
+      ]
+    },
+    {
+      "rank": 36,
+      "domain": "snap",
+      "count": 8,
+      "domain_names": [
+        "decksnap.app",
+        "modsnap.app",
+        "parentsnap.app",
+        "snap-ks.app",
+        "snapfarm.app",
+        "snapledge.app",
+        "snapresume.app",
+        "snapshot.app"
+      ]
+    },
+    {
+      "rank": 37,
+      "domain": "task",
+      "count": 8,
+      "domain_names": [
+        "brokertask.app",
+        "drayagetask.app",
+        "familytask.app",
+        "shippertask.app",
+        "taskagentic.app",
+        "taskbinder.app",
+        "taskcraft.app",
+        "taskloop.app"
+      ]
+    },
+    {
+      "rank": 38,
+      "domain": "track",
+      "count": 8,
+      "domain_names": [
+        "armortrack.app",
+        "bagtrack.app",
+        "opttrack.app",
+        "proudlytrack.app",
+        "readytrack.app",
+        "tracktool.app",
+        "trackwizard.app",
+        "vertrack.app"
+      ]
+    },
+    {
+      "rank": 39,
+      "domain": "bridge",
+      "count": 7,
+      "domain_names": [
+        "bridge-base.app",
+        "bridgeship.app",
+        "hollowbridge.app",
+        "kaybridge.app",
+        "pocketbridge.app",
+        "rolebridge.app",
+        "starbridge.app"
+      ]
+    },
+    {
+      "rank": 40,
+      "domain": "club",
+      "count": 7,
+      "domain_names": [
+        "burnoutclub.app",
+        "clubhistory.app",
+        "ruckclub.app",
+        "sageclub.app",
+        "scaleclub.app",
+        "slotclub.app",
+        "somaclub.app"
+      ]
+    },
+    {
+      "rank": 41,
+      "domain": "data",
+      "count": 7,
+      "domain_names": [
+        "data-vault.app",
+        "databite.app",
+        "datarecall.app",
+        "dataroyalty.app",
+        "econdata.app",
+        "goldendata.app",
+        "slatedata.app"
+      ]
+    },
+    {
+      "rank": 42,
+      "domain": "frame",
+      "count": 7,
+      "domain_names": [
+        "frameform.app",
+        "framepost.app",
+        "lookframe.app",
+        "makerframe.app",
+        "showframe.app",
+        "smartframe.app",
+        "teamframe.app"
+      ]
+    },
+    {
+      "rank": 43,
+      "domain": "home",
+      "count": 7,
+      "domain_names": [
+        "chathome.app",
+        "curioushome.app",
+        "groovehome.app",
+        "home-workout.app",
+        "homedrop.app",
+        "homehustle.app",
+        "milohome.app"
+      ]
+    },
+    {
+      "rank": 44,
+      "domain": "intel",
+      "count": 7,
+      "domain_names": [
+        "agenticintel.app",
+        "argusintel.app",
+        "cw-intel.app",
+        "dashintel.app",
+        "globalintel.app",
+        "resellintel.app",
+        "scoutintel.app"
+      ]
+    },
+    {
+      "rank": 45,
+      "domain": "join",
+      "count": 7,
+      "domain_names": [
+        "joinadytum.app",
+        "joinbash.app",
+        "joincommons.app",
+        "joinconcrete.app",
+        "joinmerlin.app",
+        "joinora.app",
+        "joinswap.app"
+      ]
+    },
+    {
+      "rank": 46,
+      "domain": "light",
+      "count": 7,
+      "domain_names": [
+        "hushlight.app",
+        "lightdeck.app",
+        "lightinn.app",
+        "moneylight.app",
+        "pilot-light.app",
+        "seralight.app",
+        "tetherlight.app"
+      ]
+    },
+    {
+      "rank": 47,
+      "domain": "mind",
+      "count": 7,
+      "domain_names": [
+        "companymind.app",
+        "junomind.app",
+        "mind-quest.app",
+        "mindgrind.app",
+        "mindmonk.app",
+        "shardmind.app",
+        "si-mind.app"
+      ]
+    },
+    {
+      "rank": 48,
+      "domain": "radar",
+      "count": 7,
+      "domain_names": [
+        "career-radar.app",
+        "contextradar.app",
+        "lemonradar.app",
+        "otoradar.app",
+        "ripoffradar.app",
+        "stickerradar.app",
+        "use-radar.app"
+      ]
+    },
+    {
+      "rank": 49,
+      "domain": "road",
+      "count": 7,
+      "domain_names": [
+        "bodhiroad.app",
+        "chicken-road-cristiano-ronaldo.app",
+        "chicken-road-ronaldo.app",
+        "chicken-road.app",
+        "englishroad.app",
+        "roadbet.app",
+        "roadcanvas.app"
+      ]
+    },
+    {
+      "rank": 50,
+      "domain": "shift",
+      "count": 7,
+      "domain_names": [
+        "element-shift.app",
+        "lucidshift.app",
+        "shiftforge.app",
+        "shiftsafe.app",
+        "shiftshape.app",
+        "useshift.app",
+        "zapshift.app"
+      ]
+    },
+    {
+      "rank": 51,
+      "domain": "stack",
+      "count": 7,
+      "domain_names": [
+        "altstack.app",
+        "athleticstack.app",
+        "nightstack.app",
+        "pilestack.app",
+        "post-stack.app",
+        "stackagent.app",
+        "vantagestack.app"
+      ]
+    },
+    {
+      "rank": 52,
+      "domain": "swap",
+      "count": 7,
+      "domain_names": [
+        "gemswap.app",
+        "jamswap.app",
+        "joinswap.app",
+        "knotswap.app",
+        "proswap.app",
+        "song-swap.app",
+        "surveyswap.app"
+      ]
+    },
+    {
+      "rank": 53,
+      "domain": "tech",
+      "count": 7,
+      "domain_names": [
+        "hastech.app",
+        "liontech.app",
+        "redtech.app",
+        "studytech.app",
+        "techshed.app",
+        "voxtech.app",
+        "wombtech.app"
+      ]
+    },
+    {
+      "rank": 54,
+      "domain": "time",
+      "count": 7,
+      "domain_names": [
+        "bootytime.app",
+        "crimetime.app",
+        "freetime.app",
+        "time-line.app",
+        "timelaps.app",
+        "timelet.app",
+        "tumbletime.app"
+      ]
+    },
+    {
+      "rank": 55,
+      "domain": "trade",
+      "count": 7,
+      "domain_names": [
+        "aethertrade.app",
+        "one-trade.app",
+        "streamtrade.app",
+        "tradeask.app",
+        "tradegate.app",
+        "tradeglow.app",
+        "tradeslinks.app"
+      ]
+    },
+    {
+      "rank": 56,
+      "domain": "travel",
+      "count": 7,
+      "domain_names": [
+        "freedomtravel.app",
+        "semantictravel.app",
+        "travel-sos.app",
+        "travellinks.app",
+        "travelplug.app",
+        "travelsos.app",
+        "vivatravel.app"
+      ]
+    },
+    {
+      "rank": 57,
+      "domain": "vault",
+      "count": 7,
+      "domain_names": [
+        "celestialvault.app",
+        "data-vault.app",
+        "famvault.app",
+        "supervault.app",
+        "sweepvault.app",
+        "vault-chain.app",
+        "weavevault.app"
+      ]
+    },
+    {
+      "rank": 58,
+      "domain": "work",
+      "count": 7,
+      "domain_names": [
+        "arcwork.app",
+        "safelywork.app",
+        "trusswork.app",
+        "workably.app",
+        "workersh.app",
+        "worklay.app",
+        "workleaf.app"
+      ]
+    },
+    {
+      "rank": 59,
+      "domain": "your",
+      "count": 7,
+      "domain_names": [
+        "yourayah.app",
+        "youressence.app",
+        "yourlegal.app",
+        "yourmanna.app",
+        "yourpantry.app",
+        "yourverdict.app",
+        "yourwebs.app"
+      ]
+    },
+    {
+      "rank": 60,
+      "domain": "bloom",
+      "count": 6,
+      "domain_names": [
+        "bloomfree.app",
+        "bloomnow.app",
+        "bloomperiod.app",
+        "bloomsee.app",
+        "lyricbloom.app",
+        "socialbloom.app"
+      ]
+    },
+    {
+      "rank": 61,
+      "domain": "brain",
+      "count": 6,
+      "domain_names": [
+        "braincontrol.app",
+        "brainstash.app",
+        "brainventure.app",
+        "pepperbrain.app",
+        "unifybrain.app",
+        "wonderbrain.app"
+      ]
+    },
+    {
+      "rank": 62,
+      "domain": "clip",
+      "count": 6,
+      "domain_names": [
+        "clipers.app",
+        "clipsurge.app",
+        "docclip.app",
+        "pubclip.app",
+        "rayclip.app",
+        "revclip.app"
+      ]
+    },
+    {
+      "rank": 63,
+      "domain": "code",
+      "count": 6,
+      "domain_names": [
+        "codeindigo.app",
+        "codenova.app",
+        "codesoup.app",
+        "coscode.app",
+        "falconcode.app",
+        "tigcode.app"
+      ]
+    },
+    {
+      "rank": 64,
+      "domain": "crypto",
+      "count": 6,
+      "domain_names": [
+        "crypto-nova.app",
+        "cryptopara.app",
+        "cryptopolis.app",
+        "cryptorise.app",
+        "cryptoscans.app",
+        "suncrypto.app"
+      ]
+    },
+    {
+      "rank": 65,
+      "domain": "demo",
+      "count": 6,
+      "domain_names": [
+        "akun-demo.app",
+        "ansiplus-demo.app",
+        "devicedemo.app",
+        "omnidemo.app",
+        "promodemo.app",
+        "tacid-demo.app"
+      ]
+    },
+    {
+      "rank": 66,
+      "domain": "drop",
+      "count": 6,
+      "domain_names": [
+        "dropfan.app",
+        "droporbit.app",
+        "foliodrop.app",
+        "homedrop.app",
+        "pendrop.app",
+        "puck-drop.app"
+      ]
+    },
+    {
+      "rank": 67,
+      "domain": "echo",
+      "count": 6,
+      "domain_names": [
+        "echofield.app",
+        "echolocations.app",
+        "echomarks.app",
+        "echonetwork.app",
+        "echowander.app",
+        "tabecho.app"
+      ]
+    },
+    {
+      "rank": 68,
+      "domain": "event",
+      "count": 6,
+      "domain_names": [
+        "eventark.app",
+        "eventinvite.app",
+        "eventoverlay.app",
+        "eventroi.app",
+        "q-event.app",
+        "runevent.app"
+      ]
+    },
+    {
+      "rank": 69,
+      "domain": "lens",
+      "count": 6,
+      "domain_names": [
+        "agencylens.app",
+        "kailens.app",
+        "lorelens.app",
+        "promolens.app",
+        "routelens.app",
+        "thetalens.app"
+      ]
+    },
+    {
+      "rank": 70,
+      "domain": "line",
+      "count": 6,
+      "domain_names": [
+        "freeline.app",
+        "graftline.app",
+        "pinline.app",
+        "queueline.app",
+        "stat-line.app",
+        "time-line.app"
+      ]
+    },
+    {
+      "rank": 71,
+      "domain": "link",
+      "count": 6,
+      "domain_names": [
+        "hello-link.app",
+        "linkescape.app",
+        "linkledger.app",
+        "lunalink.app",
+        "rallylink.app",
+        "studylink.app"
+      ]
+    },
+    {
+      "rank": 72,
+      "domain": "links",
+      "count": 6,
+      "domain_names": [
+        "cloudlinks.app",
+        "corporatelinks.app",
+        "deltalinks.app",
+        "onelinks.app",
+        "tradeslinks.app",
+        "travellinks.app"
+      ]
+    },
+    {
+      "rank": 73,
+      "domain": "lore",
+      "count": 6,
+      "domain_names": [
+        "loreengine.app",
+        "lorelens.app",
+        "lorepin.app",
+        "lorevel.app",
+        "lorever.app",
+        "welllore.app"
+      ]
+    },
+    {
+      "rank": 74,
+      "domain": "match",
+      "count": 6,
+      "domain_names": [
+        "habibi-match.app",
+        "matchaline.app",
+        "matchbid.app",
+        "puppymatch.app",
+        "riffmatch.app",
+        "riflematch.app"
+      ]
+    },
+    {
+      "rank": 75,
+      "domain": "open",
+      "count": 6,
+      "domain_names": [
+        "openbench.app",
+        "openfoundation.app",
+        "openlistings.app",
+        "openlode.app",
+        "opensleep.app",
+        "openwidget.app"
+      ]
+    },
+    {
+      "rank": 76,
+      "domain": "pocket",
+      "count": 6,
+      "domain_names": [
+        "pocketbridge.app",
+        "pocketnow.app",
+        "pocketpair.app",
+        "pocketrewards.app",
+        "pocketsave.app",
+        "pocketswami.app"
+      ]
+    },
+    {
+      "rank": 77,
+      "domain": "proof",
+      "count": 6,
+      "domain_names": [
+        "fanproof.app",
+        "hashproof.app",
+        "proofapp.app",
+        "proofcake.app",
+        "proofmade.app",
+        "tinyproof.app"
+      ]
+    },
+    {
+      "rank": 78,
+      "domain": "real",
+      "count": 6,
+      "domain_names": [
+        "realdish.app",
+        "realfantasy.app",
+        "realfollower.app",
+        "realnear.app",
+        "realready.app",
+        "realredact.app"
+      ]
+    },
+    {
+      "rank": 79,
+      "domain": "safe",
+      "count": 6,
+      "domain_names": [
+        "freesafe.app",
+        "safe-pay.app",
+        "safe-social.app",
+        "safekept.app",
+        "safeloca.app",
+        "shiftsafe.app"
+      ]
+    },
+    {
+      "rank": 80,
+      "domain": "sound",
+      "count": 6,
+      "domain_names": [
+        "giftsound.app",
+        "paysound.app",
+        "reversesound.app",
+        "soundcollective.app",
+        "soundemote.app",
+        "soundlayer.app"
+      ]
+    },
+    {
+      "rank": 81,
+      "domain": "space",
+      "count": 6,
+      "domain_names": [
+        "chartedspace.app",
+        "flipspace.app",
+        "image-space.app",
+        "journeyspace.app",
+        "spaceballs.app",
+        "spacetube.app"
+      ]
+    },
+    {
+      "rank": 82,
+      "domain": "spark",
+      "count": 6,
+      "domain_names": [
+        "culturespark.app",
+        "moneyspark.app",
+        "sparkdating.app",
+        "sparklist.app",
+        "sparkpoll.app",
+        "sparkscan.app"
+      ]
+    },
+    {
+      "rank": 83,
+      "domain": "star",
+      "count": 6,
+      "domain_names": [
+        "dogstar.app",
+        "refstar.app",
+        "starbridge.app",
+        "starmiles.app",
+        "starscene.app",
+        "starseen.app"
+      ]
+    },
+    {
+      "rank": 84,
+      "domain": "super",
+      "count": 6,
+      "domain_names": [
+        "speedwaysuper.app",
+        "super-crm.app",
+        "superbee.app",
+        "superpersonal.app",
+        "supervault.app",
+        "trainsuper.app"
+      ]
+    },
+    {
+      "rank": 85,
+      "domain": "tracker",
+      "count": 6,
+      "domain_names": [
+        "exptracker.app",
+        "nursetracker.app",
+        "pandastracker.app",
+        "strength-tracker.app",
+        "tigertracker.app",
+        "tsptracker.app"
+      ]
+    },
+    {
+      "rank": 86,
+      "domain": "train",
+      "count": 6,
+      "domain_names": [
+        "expresstrain.app",
+        "optimumtrain.app",
+        "trainark.app",
+        "trainaro.app",
+        "trainblackjack.app",
+        "trainsuper.app"
+      ]
+    },
+    {
+      "rank": 87,
+      "domain": "voice",
+      "count": 6,
+      "domain_names": [
+        "bitvoice.app",
+        "mi-voice.app",
+        "restfulvoice.app",
+        "voicelead.app",
+        "voicemail.app",
+        "voicevoyager.app"
+      ]
+    },
+    {
+      "rank": 88,
+      "domain": "wave",
+      "count": 6,
+      "domain_names": [
+        "betawave.app",
+        "expertwave.app",
+        "linguawave.app",
+        "pipewave.app",
+        "switchwave.app",
+        "tagwave.app"
+      ]
+    },
+    {
+      "rank": 89,
+      "domain": "atlas",
+      "count": 5,
+      "domain_names": [
+        "atlascommerce.app",
+        "atlaspicks.app",
+        "it-atlas.app",
+        "sacredatlas.app",
+        "vocabatlas.app"
+      ]
+    },
+    {
+      "rank": 90,
+      "domain": "audit",
+      "count": 5,
+      "domain_names": [
+        "auditavengers.app",
+        "auditmanager.app",
+        "auraaudit.app",
+        "ergoaudit.app",
+        "inertiaaudit.app"
+      ]
+    },
+    {
+      "rank": 91,
+      "domain": "books",
+      "count": 5,
+      "domain_names": [
+        "bambooks.app",
+        "booksentry.app",
+        "bookspan.app",
+        "jobbooks.app",
+        "quietbooks.app"
+      ]
+    },
+    {
+      "rank": 92,
+      "domain": "call",
+      "count": 5,
+      "domain_names": [
+        "callgrow.app",
+        "callsally.app",
+        "guardiancall.app",
+        "right-call.app",
+        "valkyriecall.app"
+      ]
+    },
+    {
+      "rank": 93,
+      "domain": "city",
+      "count": 5,
+      "domain_names": [
+        "cityadventure.app",
+        "citygenerator.app",
+        "cityplay.app",
+        "hypecity.app",
+        "indigocity.app"
+      ]
+    },
+    {
+      "rank": 94,
+      "domain": "control",
+      "count": 5,
+      "domain_names": [
+        "braincontrol.app",
+        "controlgrid.app",
+        "factorcontrol.app",
+        "personalcontrol.app",
+        "sourcecontrol.app"
+      ]
+    },
+    {
+      "rank": 95,
+      "domain": "daily",
+      "count": 5,
+      "domain_names": [
+        "brieflydaily.app",
+        "dailydeficit.app",
+        "dailysprout.app",
+        "lifteddaily.app",
+        "pomodaily.app"
+      ]
+    },
+    {
+      "rank": 96,
+      "domain": "eval",
+      "count": 5,
+      "domain_names": [
+        "evalagent.app",
+        "evalchat.app",
+        "evallog.app",
+        "geteval.app",
+        "runeval.app"
+      ]
+    },
+    {
+      "rank": 97,
+      "domain": "fast",
+      "count": 5,
+      "domain_names": [
+        "agendafast.app",
+        "fastretail.app",
+        "fasttab.app",
+        "fasttap.app",
+        "writefast.app"
+      ]
+    },
+    {
+      "rank": 98,
+      "domain": "find",
+      "count": 5,
+      "domain_names": [
+        "findanyone.app",
+        "finddrill.app",
+        "gigfind.app",
+        "nearbyfind.app",
+        "payfind.app"
+      ]
+    },
+    {
+      "rank": 99,
+      "domain": "fish",
+      "count": 5,
+      "domain_names": [
+        "fishanet.app",
+        "fishpro.app",
+        "futefish.app",
+        "gibberfish.app",
+        "tropicalfish.app"
+      ]
+    },
+    {
+      "rank": 100,
+      "domain": "folio",
+      "count": 5,
+      "domain_names": [
+        "foliodrop.app",
+        "foliostay.app",
+        "fortfolio.app",
+        "goatfolio.app",
+        "logfolio.app"
+      ]
+    },
+    {
+      "rank": 101,
+      "domain": "form",
+      "count": 5,
+      "domain_names": [
+        "frameform.app",
+        "ghostform.app",
+        "layform.app",
+        "madform.app",
+        "riseform.app"
+      ]
+    },
+    {
+      "rank": 102,
+      "domain": "game",
+      "count": 5,
+      "domain_names": [
+        "gamecup.app",
+        "gameinsights.app",
+        "gamelove.app",
+        "jumper-game.app",
+        "typinggame.app"
+      ]
+    },
+    {
+      "rank": 103,
+      "domain": "grid",
+      "count": 5,
+      "domain_names": [
+        "continuitygrid.app",
+        "controlgrid.app",
+        "nourishgrid.app",
+        "rungrid.app",
+        "searchgrid.app"
+      ]
+    },
+    {
+      "rank": 104,
+      "domain": "guide",
+      "count": 5,
+      "domain_names": [
+        "brandguide.app",
+        "carguide.app",
+        "kitchen-guide.app",
+        "kitchenguide.app",
+        "mathguide.app"
+      ]
+    },
+    {
+      "rank": 105,
+      "domain": "haven",
+      "count": 5,
+      "domain_names": [
+        "furhaven.app",
+        "havenmedia.app",
+        "havenstudios.app",
+        "hosthaven.app",
+        "windyhaven.app"
+      ]
+    },
+    {
+      "rank": 106,
+      "domain": "hello",
+      "count": 5,
+      "domain_names": [
+        "hello-link.app",
+        "helloaurora.app",
+        "hellodoctor.app",
+        "hellokorea.app",
+        "hellomagpie.app"
+      ]
+    },
+    {
+      "rank": 107,
+      "domain": "just",
+      "count": 5,
+      "domain_names": [
+        "justdrops.app",
+        "justfidgeting.app",
+        "justflat.app",
+        "justhang.app",
+        "justink.app"
+      ]
+    },
+    {
+      "rank": 108,
+      "domain": "keeper",
+      "count": 5,
+      "domain_names": [
+        "brickkeeper.app",
+        "coopkeeper.app",
+        "helmkeeper.app",
+        "legacy-keeper.app",
+        "tavernkeeper.app"
+      ]
+    },
+    {
+      "rank": 109,
+      "domain": "life",
+      "count": 5,
+      "domain_names": [
+        "domuslife.app",
+        "editlife.app",
+        "lifespot.app",
+        "skiplife.app",
+        "vitallife.app"
+      ]
+    },
+    {
+      "rank": 110,
+      "domain": "lift",
+      "count": 5,
+      "domain_names": [
+        "cyclelift.app",
+        "heatlift.app",
+        "liftera.app",
+        "peoplelift.app",
+        "tierlift.app"
+      ]
+    },
+    {
+      "rank": 111,
+      "domain": "local",
+      "count": 5,
+      "domain_names": [
+        "edinburghlocal.app",
+        "glasgowlocal.app",
+        "localworld.app",
+        "saylocal.app",
+        "whisperlocal.app"
+      ]
+    },
+    {
+      "rank": 112,
+      "domain": "loop",
+      "count": 5,
+      "domain_names": [
+        "dareloop.app",
+        "taskloop.app",
+        "vatloop.app",
+        "vowloop.app",
+        "warmloop.app"
+      ]
+    },
+    {
+      "rank": 113,
+      "domain": "mail",
+      "count": 5,
+      "domain_names": [
+        "bootmail.app",
+        "notify-mail.app",
+        "signin-mail.app",
+        "urbanmail.app",
+        "voicemail.app"
+      ]
+    },
+    {
+      "rank": 114,
+      "domain": "maker",
+      "count": 5,
+      "domain_names": [
+        "candymaker.app",
+        "makerframe.app",
+        "makernames.app",
+        "makervox.app",
+        "moldmaker.app"
+      ]
+    },
+    {
+      "rank": 115,
+      "domain": "master",
+      "count": 5,
+      "domain_names": [
+        "cablemaster.app",
+        "floormaster.app",
+        "master-tv.app",
+        "master.app",
+        "wealth-master.app"
+      ]
+    },
+    {
+      "rank": 116,
+      "domain": "mobile",
+      "count": 5,
+      "domain_names": [
+        "compassmobile.app",
+        "mobilecoder.app",
+        "mobilecreator.app",
+        "mobilepulse.app",
+        "mobiletorch.app"
+      ]
+    },
+    {
+      "rank": 117,
+      "domain": "next",
+      "count": 5,
+      "domain_names": [
+        "nexters.app",
+        "nextteam.app",
+        "nextvend.app",
+        "repnext.app",
+        "routenext.app"
+      ]
+    },
+    {
+      "rank": 118,
+      "domain": "node",
+      "count": 5,
+      "domain_names": [
+        "aimnode.app",
+        "hypernode.app",
+        "nodebooth.app",
+        "nodewrangler.app",
+        "thenode.app"
+      ]
+    },
+    {
+      "rank": 119,
+      "domain": "notes",
+      "count": 5,
+      "domain_names": [
+        "brutalnotes.app",
+        "flipnotes.app",
+        "nurturenotes.app",
+        "quiznotes.app",
+        "yaynotes.app"
+      ]
+    },
+    {
+      "rank": 120,
+      "domain": "omni",
+      "count": 5,
+      "domain_names": [
+        "omnidemo.app",
+        "omniplot.app",
+        "omnisift.app",
+        "omniteca.app",
+        "omniversed.app"
+      ]
+    },
+    {
+      "rank": 121,
+      "domain": "orbit",
+      "count": 5,
+      "domain_names": [
+        "droporbit.app",
+        "orbit-works.app",
+        "orbitdev.app",
+        "our-orbit.app",
+        "ourorbit.app"
+      ]
+    },
+    {
+      "rank": 122,
+      "domain": "plus",
+      "count": 5,
+      "domain_names": [
+        "doctorplus.app",
+        "leopardsplus.app",
+        "marginplus.app",
+        "sendplus.app",
+        "sizzleplus.app"
+      ]
+    },
+    {
+      "rank": 123,
+      "domain": "point",
+      "count": 5,
+      "domain_names": [
+        "b-point.app",
+        "gradepoint.app",
+        "pointnavi.app",
+        "ravenspoint.app",
+        "reefpoint.app"
+      ]
+    },
+    {
+      "rank": 124,
+      "domain": "prompt",
+      "count": 5,
+      "domain_names": [
+        "genprompt.app",
+        "promptjournal.app",
+        "promptquery.app",
+        "promptquote.app",
+        "promptreply.app"
+      ]
+    },
+    {
+      "rank": 125,
+      "domain": "pulse",
+      "count": 5,
+      "domain_names": [
+        "grocerypulse.app",
+        "mobilepulse.app",
+        "pulse-id.app",
+        "pulsejump.app",
+        "pulsestudios.app"
+      ]
+    },
+    {
+      "rank": 126,
+      "domain": "rate",
+      "count": 5,
+      "domain_names": [
+        "getcue-rate.app",
+        "illiterate.app",
+        "kinrate.app",
+        "ratenow.app",
+        "stayrate.app"
+      ]
+    },
+    {
+      "rank": 127,
+      "domain": "room",
+      "count": 5,
+      "domain_names": [
+        "loomroom.app",
+        "rehearsalroom.app",
+        "roombay.app",
+        "roomember.app",
+        "roomwaves.app"
+      ]
+    },
+    {
+      "rank": 128,
+      "domain": "route",
+      "count": 5,
+      "domain_names": [
+        "cozyroute.app",
+        "routelens.app",
+        "routemetrics.app",
+        "routenext.app",
+        "routeopposition.app"
+      ]
+    },
+    {
+      "rank": 129,
+      "domain": "sage",
+      "count": 5,
+      "domain_names": [
+        "sageclub.app",
+        "sagediet.app",
+        "sageoutdoors.app",
+        "scalpsage.app",
+        "strikesage.app"
+      ]
+    },
+    {
+      "rank": 130,
+      "domain": "scope",
+      "count": 5,
+      "domain_names": [
+        "audioscope.app",
+        "linguascope.app",
+        "nestscope.app",
+        "personascope.app",
+        "scopelayer.app"
+      ]
+    },
+    {
+      "rank": 131,
+      "domain": "scout",
+      "count": 5,
+      "domain_names": [
+        "forestscout.app",
+        "movescout.app",
+        "scoutboard.app",
+        "scoutintel.app",
+        "zooscout.app"
+      ]
+    },
+    {
+      "rank": 132,
+      "domain": "shot",
+      "count": 5,
+      "domain_names": [
+        "jobshot.app",
+        "shotdial.app",
+        "snapshot.app",
+        "supashot.app",
+        "whatashot.app"
+      ]
+    },
+    {
+      "rank": 133,
+      "domain": "side",
+      "count": 5,
+      "domain_names": [
+        "lampside.app",
+        "out-side.app",
+        "side-shore.app",
+        "side.app",
+        "sideshore.app"
+      ]
+    },
+    {
+      "rank": 134,
+      "domain": "signal",
+      "count": 5,
+      "domain_names": [
+        "greatsignal.app",
+        "rostersignal.app",
+        "signalaware.app",
+        "signalrider.app",
+        "socialsignal.app"
+      ]
+    },
+    {
+      "rank": 135,
+      "domain": "smart",
+      "count": 5,
+      "domain_names": [
+        "smart-edu.app",
+        "smart-learn.app",
+        "smartfinds.app",
+        "smartframe.app",
+        "smartoption.app"
+      ]
+    },
+    {
+      "rank": 136,
+      "domain": "solsticefinance",
+      "count": 5,
+      "domain_names": [
+        "distribution-solsticefinance.app",
+        "multiplier-solsticefinance.app",
+        "quests-solsticefinance.app",
+        "reallocations-solsticefinance.app",
+        "tge-solsticefinance.app"
+      ]
+    },
+    {
+      "rank": 137,
+      "domain": "station",
+      "count": 5,
+      "domain_names": [
+        "dutystation.app",
+        "sonicstation.app",
+        "station-ai.app",
+        "stationcore.app",
+        "stationsoft.app"
+      ]
+    },
+    {
+      "rank": 138,
+      "domain": "step",
+      "count": 5,
+      "domain_names": [
+        "billionstep.app",
+        "cuestep.app",
+        "steptale.app",
+        "steptower.app",
+        "velostep.app"
+      ]
+    },
+    {
+      "rank": 139,
+      "domain": "study",
+      "count": 5,
+      "domain_names": [
+        "capsulestudy.app",
+        "somastudy.app",
+        "studylink.app",
+        "studyroto.app",
+        "studytech.app"
+      ]
+    },
+    {
+      "rank": 140,
+      "domain": "suite",
+      "count": 5,
+      "domain_names": [
+        "productionsuite.app",
+        "repsuite.app",
+        "solitairesuite.app",
+        "suite-os.app",
+        "suite.app"
+      ]
+    },
+    {
+      "rank": 141,
+      "domain": "tack",
+      "count": 5,
+      "domain_names": [
+        "altstack.app",
+        "athleticstack.app",
+        "nightstack.app",
+        "pilestack.app",
+        "vantagestack.app"
+      ]
+    },
+    {
+      "rank": 142,
+      "domain": "tally",
+      "count": 5,
+      "domain_names": [
+        "tally-ho.app",
+        "tallynoma.app",
+        "tallytoday.app",
+        "tallytransfer.app",
+        "tooltally.app"
+      ]
+    },
+    {
+      "rank": 143,
+      "domain": "text",
+      "count": 5,
+      "domain_names": [
+        "skintext.app",
+        "skytext.app",
+        "sub-text.app",
+        "textfunnel.app",
+        "textray.app"
+      ]
+    },
+    {
+      "rank": 144,
+      "domain": "tool",
+      "count": 5,
+      "domain_names": [
+        "patroltool.app",
+        "temptool.app",
+        "toolova.app",
+        "tooltally.app",
+        "tracktool.app"
+      ]
+    },
+    {
+      "rank": 145,
+      "domain": "trip",
+      "count": 5,
+      "domain_names": [
+        "mitratrip.app",
+        "scubatrip.app",
+        "tripalign.app",
+        "tripreview.app",
+        "tripworthy.app"
+      ]
+    },
+    {
+      "rank": 146,
+      "domain": "vote",
+      "count": 5,
+      "domain_names": [
+        "foodvote.app",
+        "groupvote.app",
+        "knowvote.app",
+        "vote-basedone.app",
+        "vote-ethyai.app"
+      ]
+    },
+    {
+      "rank": 147,
+      "domain": "votes",
+      "count": 5,
+      "domain_names": [
+        "votes-asterdex.app",
+        "votes-based.app",
+        "votes-flarenetwork.app",
+        "votes-megaeth.app",
+        "votes-onyx.app"
+      ]
+    },
+    {
+      "rank": 148,
+      "domain": "wallet",
+      "count": 5,
+      "domain_names": [
+        "beewallet.app",
+        "finchwallet.app",
+        "jtx-wallet.app",
+        "mealwallet.app",
+        "meatwallet.app"
+      ]
+    },
+    {
+      "rank": 149,
+      "domain": "well",
+      "count": 5,
+      "domain_names": [
+        "clinicwell.app",
+        "scoopwell.app",
+        "wellcourse.app",
+        "welllore.app",
+        "wellspoke.app"
+      ]
+    },
+    {
+      "rank": 150,
+      "domain": "wire",
+      "count": 5,
+      "domain_names": [
+        "dancewire.app",
+        "hopwire.app",
+        "justicewire.app",
+        "wiremagic.app",
+        "wirewealth.app"
+      ]
+    },
+    {
+      "rank": 151,
+      "domain": "word",
+      "count": 5,
+      "domain_names": [
+        "auraword.app",
+        "pepperword.app",
+        "wordcounters.app",
+        "wordkeen.app",
+        "wordpack.app"
+      ]
+    },
+    {
+      "rank": 152,
+      "domain": "agentic",
+      "count": 4,
+      "domain_names": [
+        "agenticcloud.app",
+        "agenticdisco.app",
+        "agenticintel.app",
+        "taskagentic.app"
+      ]
+    },
+    {
+      "rank": 153,
+      "domain": "apex",
+      "count": 4,
+      "domain_names": [
+        "apexadvisory.app",
+        "apexauto.app",
+        "apexcivil.app",
+        "apexlead.app"
+      ]
+    },
+    {
+      "rank": 154,
+      "domain": "asset",
+      "count": 4,
+      "domain_names": [
+        "assetana.app",
+        "assetora.app",
+        "assettra.app",
+        "coreasset.app"
+      ]
+    },
+    {
+      "rank": 155,
+      "domain": "audio",
+      "count": 4,
+      "domain_names": [
+        "audiofile.app",
+        "audioscope.app",
+        "netaudio.app",
+        "traderaudio.app"
+      ]
+    },
+    {
+      "rank": 156,
+      "domain": "bill",
+      "count": 4,
+      "domain_names": [
+        "billbasket.app",
+        "billtez.app",
+        "billwright.app",
+        "cutbill.app"
+      ]
+    },
+    {
+      "rank": 157,
+      "domain": "buddy",
+      "count": 4,
+      "domain_names": [
+        "badgebuddy.app",
+        "bouncebuddy.app",
+        "bulkbuddy.app",
+        "queuebuddy.app"
+      ]
+    },
+    {
+      "rank": 158,
+      "domain": "budget",
+      "count": 4,
+      "domain_names": [
+        "budgetbooze.app",
+        "budgetdot.app",
+        "ledgr-budget.app",
+        "orionbudget.app"
+      ]
+    },
+    {
+      "rank": 159,
+      "domain": "care",
+      "count": 4,
+      "domain_names": [
+        "carehelm.app",
+        "careknock.app",
+        "lucycare.app",
+        "shelfcare.app"
+      ]
+    },
+    {
+      "rank": 160,
+      "domain": "cash",
+      "count": 4,
+      "domain_names": [
+        "clipscash.app",
+        "fakecash.app",
+        "me-cash.app",
+        "req-cash.app"
+      ]
+    },
+    {
+      "rank": 161,
+      "domain": "checker",
+      "count": 4,
+      "domain_names": [
+        "bigchecker.app",
+        "checkerflag.app",
+        "headingchecker.app",
+        "vin-checker.app"
+      ]
+    },
+    {
+      "rank": 162,
+      "domain": "circle",
+      "count": 4,
+      "domain_names": [
+        "circledash.app",
+        "circlewise.app",
+        "commoncircle.app",
+        "crowncircle.app"
+      ]
+    },
+    {
+      "rank": 163,
+      "domain": "coin",
+      "count": 4,
+      "domain_names": [
+        "bincoin.app",
+        "coinbeast.app",
+        "coinplain.app",
+        "fartcoin.app"
+      ]
+    },
+    {
+      "rank": 164,
+      "domain": "color",
+      "count": 4,
+      "domain_names": [
+        "colorcast.app",
+        "colordrama.app",
+        "colorpilot.app",
+        "hexcolor.app"
+      ]
+    },
+    {
+      "rank": 165,
+      "domain": "compass",
+      "count": 4,
+      "domain_names": [
+        "compassmobile.app",
+        "revcompass.app",
+        "stock-compass.app",
+        "vitalitycompass.app"
+      ]
+    },
+    {
+      "rank": 166,
+      "domain": "cope",
+      "count": 4,
+      "domain_names": [
+        "audioscope.app",
+        "indiescope.app",
+        "nestscope.app",
+        "personascope.app"
+      ]
+    },
+    {
+      "rank": 167,
+      "domain": "course",
+      "count": 4,
+      "domain_names": [
+        "coursecat.app",
+        "coursestatus.app",
+        "truecourse.app",
+        "wellcourse.app"
+      ]
+    },
+    {
+      "rank": 168,
+      "domain": "craft",
+      "count": 4,
+      "domain_names": [
+        "auracraft.app",
+        "curiouscraft.app",
+        "sundaycraft.app",
+        "taskcraft.app"
+      ]
+    },
+    {
+      "rank": 169,
+      "domain": "creator",
+      "count": 4,
+      "domain_names": [
+        "creator-connect.app",
+        "creator-pilot.app",
+        "creatorboard.app",
+        "mobilecreator.app"
+      ]
+    },
+    {
+      "rank": 170,
+      "domain": "crew",
+      "count": 4,
+      "domain_names": [
+        "carpoolcrew.app",
+        "crewada.app",
+        "crewworks.app",
+        "risecrew.app"
+      ]
+    },
+    {
+      "rank": 171,
+      "domain": "dance",
+      "count": 4,
+      "domain_names": [
+        "dancedock.app",
+        "danceplans.app",
+        "dancesight.app",
+        "dancewire.app"
+      ]
+    },
+    {
+      "rank": 172,
+      "domain": "dash",
+      "count": 4,
+      "domain_names": [
+        "circledash.app",
+        "dashintel.app",
+        "dashmonkey.app",
+        "workspacedash.app"
+      ]
+    },
+    {
+      "rank": 173,
+      "domain": "doctor",
+      "count": 4,
+      "domain_names": [
+        "doctorplus.app",
+        "hellodoctor.app",
+        "seedoctor.app",
+        "themedoctor.app"
+      ]
+    },
+    {
+      "rank": 174,
+      "domain": "drive",
+      "count": 4,
+      "domain_names": [
+        "bizdrive.app",
+        "commdrive.app",
+        "dopadrive.app",
+        "wisedrive.app"
+      ]
+    },
+    {
+      "rank": 175,
+      "domain": "edge",
+      "count": 4,
+      "domain_names": [
+        "edgebook.app",
+        "edgevalue.app",
+        "sellersedge.app",
+        "triedge.app"
+      ]
+    },
+    {
+      "rank": 176,
+      "domain": "factory",
+      "count": 4,
+      "domain_names": [
+        "factoryplan.app",
+        "habitfactory.app",
+        "m-factory.app",
+        "notefactory.app"
+      ]
+    },
+    {
+      "rank": 177,
+      "domain": "field",
+      "count": 4,
+      "domain_names": [
+        "chifield.app",
+        "echofield.app",
+        "fieldstay.app",
+        "zoomfield.app"
+      ]
+    },
+    {
+      "rank": 178,
+      "domain": "file",
+      "count": 4,
+      "domain_names": [
+        "audiofile.app",
+        "filekick.app",
+        "filesling.app",
+        "matterfile.app"
+      ]
+    },
+    {
+      "rank": 179,
+      "domain": "flip",
+      "count": 4,
+      "domain_names": [
+        "flipnotes.app",
+        "flipphonic.app",
+        "flipspace.app",
+        "planflip.app"
+      ]
+    },
+    {
+      "rank": 180,
+      "domain": "flux",
+      "count": 4,
+      "domain_names": [
+        "cutflux.app",
+        "fluxbit.app",
+        "fluxmate.app",
+        "pickleflux.app"
+      ]
+    },
+    {
+      "rank": 181,
+      "domain": "golden",
+      "count": 4,
+      "domain_names": [
+        "goldencedar.app",
+        "goldencrown.app",
+        "goldendata.app",
+        "goldenpanda.app"
+      ]
+    },
+    {
+      "rank": 182,
+      "domain": "green",
+      "count": 4,
+      "domain_names": [
+        "greenblock.app",
+        "greendeck.app",
+        "greenroots.app",
+        "oceangreen.app"
+      ]
+    },
+    {
+      "rank": 183,
+      "domain": "grow",
+      "count": 4,
+      "domain_names": [
+        "callgrow.app",
+        "fleetgrow.app",
+        "grow-closer.app",
+        "grownest.app"
+      ]
+    },
+    {
+      "rank": 184,
+      "domain": "host",
+      "count": 4,
+      "domain_names": [
+        "bandwagonhost.app",
+        "hosthaven.app",
+        "hostpark.app",
+        "hoststamp.app"
+      ]
+    },
+    {
+      "rank": 185,
+      "domain": "house",
+      "count": 4,
+      "domain_names": [
+        "frathouse.app",
+        "housecast.app",
+        "houseland.app",
+        "manorhouse.app"
+      ]
+    },
+    {
+      "rank": 186,
+      "domain": "jobs",
+      "count": 4,
+      "domain_names": [
+        "jobsense.app",
+        "jobsentry.app",
+        "jobshot.app",
+        "maplejobs.app"
+      ]
+    },
+    {
+      "rank": 187,
+      "domain": "layer",
+      "count": 4,
+      "domain_names": [
+        "accountlayer.app",
+        "scopelayer.app",
+        "soundlayer.app",
+        "sourcelayer.app"
+      ]
+    },
+    {
+      "rank": 188,
+      "domain": "leaf",
+      "count": 4,
+      "domain_names": [
+        "leafage.app",
+        "leafpeople.app",
+        "redleaf.app",
+        "workleaf.app"
+      ]
+    },
+    {
+      "rank": 189,
+      "domain": "ling",
+      "count": 4,
+      "domain_names": [
+        "biteling.app",
+        "filesling.app",
+        "lingember.app",
+        "meadowling.app"
+      ]
+    },
+    {
+      "rank": 190,
+      "domain": "lingo",
+      "count": 4,
+      "domain_names": [
+        "aimlingo.app",
+        "evelingo.app",
+        "lingoting.app",
+        "tinglingo.app"
+      ]
+    },
+    {
+      "rank": 191,
+      "domain": "little",
+      "count": 4,
+      "domain_names": [
+        "littleclues.app",
+        "littlehardware.app",
+        "littleprints.app",
+        "littleseasons.app"
+      ]
+    },
+    {
+      "rank": 192,
+      "domain": "live",
+      "count": 4,
+      "domain_names": [
+        "boundarylive.app",
+        "liveaquaria.app",
+        "liveinvest.app",
+        "onsetlive.app"
+      ]
+    },
+    {
+      "rank": 193,
+      "domain": "living",
+      "count": 4,
+      "domain_names": [
+        "alignliving.app",
+        "comfyliving.app",
+        "freeliving.app",
+        "livinglogos.app"
+      ]
+    },
+    {
+      "rank": 194,
+      "domain": "loom",
+      "count": 4,
+      "domain_names": [
+        "froloom.app",
+        "loomflow.app",
+        "loomroom.app",
+        "readloom.app"
+      ]
+    },
+    {
+      "rank": 195,
+      "domain": "maison",
+      "count": 4,
+      "domain_names": [
+        "envymaison.app",
+        "maisoncarte.app",
+        "maisonsolea.app",
+        "maisonsoma.app"
+      ]
+    },
+    {
+      "rank": 196,
+      "domain": "market",
+      "count": 4,
+      "domain_names": [
+        "jetmarket.app",
+        "marketscore.app",
+        "sharpmarket.app",
+        "sundaymarket.app"
+      ]
+    },
+    {
+      "rank": 197,
+      "domain": "math",
+      "count": 4,
+      "domain_names": [
+        "math-tutor.app",
+        "mathguide.app",
+        "mathtimer.app",
+        "swatmath.app"
+      ]
+    },
+    {
+      "rank": 198,
+      "domain": "media",
+      "count": 4,
+      "domain_names": [
+        "ascendmedia.app",
+        "havenmedia.app",
+        "upscalemedia.app",
+        "velamedia.app"
+      ]
+    },
+    {
+      "rank": 199,
+      "domain": "meet",
+      "count": 4,
+      "domain_names": [
+        "meetanima.app",
+        "meetnana.app",
+        "meetzero.app",
+        "premeet.app"
+      ]
+    },
+    {
+      "rank": 200,
+      "domain": "micro",
+      "count": 4,
+      "domain_names": [
+        "microbean.app",
+        "microbookkeeping.app",
+        "microfutures.app",
+        "microworkers.app"
+      ]
+    },
+    {
+      "rank": 201,
+      "domain": "mint",
+      "count": 4,
+      "domain_names": [
+        "deskmint.app",
+        "playmint.app",
+        "printmint.app",
+        "wishmint.app"
+      ]
+    },
+    {
+      "rank": 202,
+      "domain": "mirror",
+      "count": 4,
+      "domain_names": [
+        "darkmatter-mirror.app",
+        "mirrorbeauty.app",
+        "mirrorles.app",
+        "mirrornumbers.app"
+      ]
+    },
+    {
+      "rank": 203,
+      "domain": "morning",
+      "count": 4,
+      "domain_names": [
+        "morningbasket.app",
+        "morningcommute.app",
+        "morningmode.app",
+        "morningpets.app"
+      ]
+    },
+    {
+      "rank": 204,
+      "domain": "move",
+      "count": 4,
+      "domain_names": [
+        "badmove.app",
+        "movepro.app",
+        "movescout.app",
+        "right-move.app"
+      ]
+    },
+    {
+      "rank": 205,
+      "domain": "nexus",
+      "count": 4,
+      "domain_names": [
+        "nexus-dm.app",
+        "nexussocial.app",
+        "rustnexus.app",
+        "zenithnexus.app"
+      ]
+    },
+    {
+      "rank": 206,
+      "domain": "nova",
+      "count": 4,
+      "domain_names": [
+        "codenova.app",
+        "crypto-nova.app",
+        "keynova.app",
+        "novaclick.app"
+      ]
+    },
+    {
+      "rank": 207,
+      "domain": "order",
+      "count": 4,
+      "domain_names": [
+        "orderplane.app",
+        "ordersilo.app",
+        "orderstage.app",
+        "swiftorder.app"
+      ]
+    },
+    {
+      "rank": 208,
+      "domain": "pace",
+      "count": 4,
+      "domain_names": [
+        "flipspace.app",
+        "journeyspace.app",
+        "pacekey.app",
+        "pacewars.app"
+      ]
+    },
+    {
+      "rank": 209,
+      "domain": "park",
+      "count": 4,
+      "domain_names": [
+        "culturespark.app",
+        "hostpark.app",
+        "moneyspark.app",
+        "newpark.app"
+      ]
+    },
+    {
+      "rank": 210,
+      "domain": "party",
+      "count": 4,
+      "domain_names": [
+        "epicparty.app",
+        "party-album.app",
+        "partysquad.app",
+        "valparty.app"
+      ]
+    },
+    {
+      "rank": 211,
+      "domain": "peak",
+      "count": 4,
+      "domain_names": [
+        "ironpeak.app",
+        "lanternpeak.app",
+        "peakpos.app",
+        "postpeak.app"
+      ]
+    },
+    {
+      "rank": 212,
+      "domain": "planner",
+      "count": 4,
+      "domain_names": [
+        "bw-planner.app",
+        "circaplanner.app",
+        "giftplanner.app",
+        "rolloutplanner.app"
+      ]
+    },
+    {
+      "rank": 213,
+      "domain": "port",
+      "count": 4,
+      "domain_names": [
+        "portalerts.app",
+        "portbay.app",
+        "portend.app",
+        "symport.app"
+      ]
+    },
+    {
+      "rank": 214,
+      "domain": "post",
+      "count": 4,
+      "domain_names": [
+        "framepost.app",
+        "post-stack.app",
+        "postpeak.app",
+        "usepost.app"
+      ]
+    },
+    {
+      "rank": 215,
+      "domain": "prep",
+      "count": 4,
+      "domain_names": [
+        "hydroprep.app",
+        "maxprep.app",
+        "prepmobility.app",
+        "prepslate.app"
+      ]
+    },
+    {
+      "rank": 216,
+      "domain": "preview",
+      "count": 4,
+      "domain_names": [
+        "agentpreview.app",
+        "anypreview.app",
+        "previewflow.app",
+        "tripreview.app"
+      ]
+    },
+    {
+      "rank": 217,
+      "domain": "print",
+      "count": 4,
+      "domain_names": [
+        "printmint.app",
+        "printrush.app",
+        "printzippy.app",
+        "shortprint.app"
+      ]
+    },
+    {
+      "rank": 218,
+      "domain": "protocol",
+      "count": 4,
+      "domain_names": [
+        "bankprotocol.app",
+        "lemonsprotocol.app",
+        "my-protocol.app",
+        "reachprotocol.app"
+      ]
+    },
+    {
+      "rank": 219,
+      "domain": "reach",
+      "count": 4,
+      "domain_names": [
+        "reach.app",
+        "reachability.app",
+        "reachprotocol.app",
+        "stagereach.app"
+      ]
+    },
+    {
+      "rank": 220,
+      "domain": "relay",
+      "count": 4,
+      "domain_names": [
+        "offerrelay.app",
+        "recruit-relay.app",
+        "relay-app.app",
+        "relayrider.app"
+      ]
+    },
+    {
+      "rank": 221,
+      "domain": "reply",
+      "count": 4,
+      "domain_names": [
+        "nomadreply.app",
+        "promptreply.app",
+        "realtorreply.app",
+        "reply-pro.app"
+      ]
+    },
+    {
+      "rank": 222,
+      "domain": "reward",
+      "count": 4,
+      "domain_names": [
+        "reward-central.app",
+        "rewardapp.app",
+        "rewardpass.app",
+        "rewardsave.app"
+      ]
+    },
+    {
+      "rank": 223,
+      "domain": "ride",
+      "count": 4,
+      "domain_names": [
+        "rideotto.app",
+        "ridestyle.app",
+        "songride.app",
+        "terraride.app"
+      ]
+    },
+    {
+      "rank": 224,
+      "domain": "rise",
+      "count": 4,
+      "domain_names": [
+        "cryptorise.app",
+        "knightrise.app",
+        "risecrew.app",
+        "riseform.app"
+      ]
+    },
+    {
+      "rank": 225,
+      "domain": "roll",
+      "count": 4,
+      "domain_names": [
+        "afterroll.app",
+        "brickroll.app",
+        "nightroll.app",
+        "wristroll.app"
+      ]
+    },
+    {
+      "rank": 226,
+      "domain": "school",
+      "count": 4,
+      "domain_names": [
+        "candle-school.app",
+        "faithschool.app",
+        "nursingschool.app",
+        "school-connect.app"
+      ]
+    },
+    {
+      "rank": 227,
+      "domain": "seen",
+      "count": 4,
+      "domain_names": [
+        "seenbase.app",
+        "seenpool.app",
+        "starseen.app",
+        "tobeseen.app"
+      ]
+    },
+    {
+      "rank": 228,
+      "domain": "sharp",
+      "count": 4,
+      "domain_names": [
+        "focussharp.app",
+        "sharpgroups.app",
+        "sharpish.app",
+        "sharpmarket.app"
+      ]
+    },
+    {
+      "rank": 229,
+      "domain": "shop",
+      "count": 4,
+      "domain_names": [
+        "alphashop.app",
+        "shopstitch.app",
+        "shoptopia.app",
+        "tiktok-shop.app"
+      ]
+    },
+    {
+      "rank": 230,
+      "domain": "site",
+      "count": 4,
+      "domain_names": [
+        "legiblesite.app",
+        "on-site.app",
+        "sitefull.app",
+        "siteinspect.app"
+      ]
+    },
+    {
+      "rank": 231,
+      "domain": "song",
+      "count": 4,
+      "domain_names": [
+        "song-swap.app",
+        "songrepertoire.app",
+        "songride.app",
+        "songwright.app"
+      ]
+    },
+    {
+      "rank": 232,
+      "domain": "spot",
+      "count": 4,
+      "domain_names": [
+        "artistspot.app",
+        "lifespot.app",
+        "spotdrift.app",
+        "spotwhy.app"
+      ]
+    },
+    {
+      "rank": 233,
+      "domain": "sprout",
+      "count": 4,
+      "domain_names": [
+        "dailysprout.app",
+        "mapsprout.app",
+        "spendsprout.app",
+        "sproutgram.app"
+      ]
+    },
+    {
+      "rank": 234,
+      "domain": "stay",
+      "count": 4,
+      "domain_names": [
+        "fieldstay.app",
+        "foliostay.app",
+        "stayrate.app",
+        "stayupright.app"
+      ]
+    },
+    {
+      "rank": 235,
+      "domain": "sticker",
+      "count": 4,
+      "domain_names": [
+        "stickerman.app",
+        "stickerradar.app",
+        "stickersheet.app",
+        "stickershock.app"
+      ]
+    },
+    {
+      "rank": 236,
+      "domain": "sweep",
+      "count": 4,
+      "domain_names": [
+        "beachsweep.app",
+        "sweep-run.app",
+        "sweep.app",
+        "sweepvault.app"
+      ]
+    },
+    {
+      "rank": 237,
+      "domain": "tale",
+      "count": 4,
+      "domain_names": [
+        "marytale.app",
+        "steptale.app",
+        "talemakers.app",
+        "talepop.app"
+      ]
+    },
+    {
+      "rank": 238,
+      "domain": "talk",
+      "count": 4,
+      "domain_names": [
+        "acetalk.app",
+        "liketalk.app",
+        "talkmor.app",
+        "talkrly.app"
+      ]
+    },
+    {
+      "rank": 239,
+      "domain": "team",
+      "count": 4,
+      "domain_names": [
+        "hubteam.app",
+        "nextteam.app",
+        "teamframe.app",
+        "teamsov.app"
+      ]
+    },
+    {
+      "rank": 240,
+      "domain": "test",
+      "count": 4,
+      "domain_names": [
+        "acetest.app",
+        "fitnesspassport-test.app",
+        "testalk.app",
+        "youtest.app"
+      ]
+    },
+    {
+      "rank": 241,
+      "domain": "tier",
+      "count": 4,
+      "domain_names": [
+        "kinktier.app",
+        "tierbreak.app",
+        "tierlane.app",
+        "tierlift.app"
+      ]
+    },
+    {
+      "rank": 242,
+      "domain": "trader",
+      "count": 4,
+      "domain_names": [
+        "stratrader.app",
+        "textbooktrader.app",
+        "tickertrader.app",
+        "traderaudio.app"
+      ]
+    },
+    {
+      "rank": 243,
+      "domain": "type",
+      "count": 4,
+      "domain_names": [
+        "cattype.app",
+        "drawtype.app",
+        "sigmatype.app",
+        "typedating.app"
+      ]
+    },
+    {
+      "rank": 244,
+      "domain": "view",
+      "count": 4,
+      "domain_names": [
+        "lotview.app",
+        "spotterview.app",
+        "stellarview.app",
+        "vendview.app"
+      ]
+    },
+    {
+      "rank": 245,
+      "domain": "visa",
+      "count": 4,
+      "domain_names": [
+        "visa-path.app",
+        "visa.app",
+        "visaclock.app",
+        "visapod.app"
+      ]
+    },
+    {
+      "rank": 246,
+      "domain": "vision",
+      "count": 4,
+      "domain_names": [
+        "larevision.app",
+        "tidyvision.app",
+        "visionplan.app",
+        "youngvision.app"
+      ]
+    },
+    {
+      "rank": 247,
+      "domain": "ward",
+      "count": 4,
+      "domain_names": [
+        "bookward.app",
+        "loveward.app",
+        "rigward.app",
+        "trueward.app"
+      ]
+    },
+    {
+      "rank": 248,
+      "domain": "works",
+      "count": 4,
+      "domain_names": [
+        "crewworks.app",
+        "maysworks.app",
+        "orbit-works.app",
+        "tempoworks.app"
+      ]
+    },
+    {
+      "rank": 249,
+      "domain": "zone",
+      "count": 4,
+      "domain_names": [
+        "poolzone.app",
+        "zone-xaman.app",
+        "zone.app",
+        "zoneplay.app"
+      ]
+    },
+    {
+      "rank": 250,
+      "domain": "alert",
+      "count": 3,
+      "domain_names": [
+        "birdiealert.app",
+        "foxalert.app",
+        "hospitalalert.app"
+      ]
+    },
+    {
+      "rank": 251,
+      "domain": "align",
+      "count": 3,
+      "domain_names": [
+        "alignhealth.app",
+        "alignliving.app",
+        "tripalign.app"
+      ]
+    },
+    {
+      "rank": 252,
+      "domain": "allergy",
+      "count": 3,
+      "domain_names": [
+        "allergy-pass.app",
+        "allergy.app",
+        "food-allergy.app"
+      ]
+    },
+    {
+      "rank": 253,
+      "domain": "ascend",
+      "count": 3,
+      "domain_names": [
+        "ascendcoaching.app",
+        "ascendmedia.app",
+        "ascendscan.app"
+      ]
+    },
+    {
+      "rank": 254,
+      "domain": "aurora",
+      "count": 3,
+      "domain_names": [
+        "aurorainvest.app",
+        "auroraspaces.app",
+        "helloaurora.app"
+      ]
+    },
+    {
+      "rank": 255,
+      "domain": "baby",
+      "count": 3,
+      "domain_names": [
+        "babycop.app",
+        "dearbaby.app",
+        "revenuebaby.app"
+      ]
+    },
+    {
+      "rank": 256,
+      "domain": "back",
+      "count": 3,
+      "domain_names": [
+        "backplot.app",
+        "fireback.app",
+        "weighback.app"
+      ]
+    },
+    {
+      "rank": 257,
+      "domain": "based",
+      "count": 3,
+      "domain_names": [
+        "basedagent.app",
+        "votes-based.app",
+        "voting-based.app"
+      ]
+    },
+    {
+      "rank": 258,
+      "domain": "beauty",
+      "count": 3,
+      "domain_names": [
+        "beautybrief.app",
+        "beautyrevenue.app",
+        "mirrorbeauty.app"
+      ]
+    },
+    {
+      "rank": 259,
+      "domain": "bite",
+      "count": 3,
+      "domain_names": [
+        "bitebase.app",
+        "biteling.app",
+        "databite.app"
+      ]
+    },
+    {
+      "rank": 260,
+      "domain": "blink",
+      "count": 3,
+      "domain_names": [
+        "blinkcheck.app",
+        "blinkode.app",
+        "macroblink.app"
+      ]
+    },
+    {
+      "rank": 261,
+      "domain": "block",
+      "count": 3,
+      "domain_names": [
+        "blockjam.app",
+        "cornblock.app",
+        "greenblock.app"
+      ]
+    },
+    {
+      "rank": 262,
+      "domain": "bounce",
+      "count": 3,
+      "domain_names": [
+        "bouncebuddy.app",
+        "bouncehabit.app",
+        "bouncehabits.app"
+      ]
+    },
+    {
+      "rank": 263,
+      "domain": "brick",
+      "count": 3,
+      "domain_names": [
+        "brickcalculator.app",
+        "brickkeeper.app",
+        "brickroll.app"
+      ]
+    },
+    {
+      "rank": 264,
+      "domain": "brief",
+      "count": 3,
+      "domain_names": [
+        "beautybrief.app",
+        "bytebrief.app",
+        "familybrief.app"
+      ]
+    },
+    {
+      "rank": 265,
+      "domain": "builder",
+      "count": 3,
+      "domain_names": [
+        "athletic-builder.app",
+        "bedbuilder.app",
+        "squad-builder.app"
+      ]
+    },
+    {
+      "rank": 266,
+      "domain": "calc",
+      "count": 3,
+      "domain_names": [
+        "calcfits.app",
+        "palletcalc.app",
+        "runwaycalc.app"
+      ]
+    },
+    {
+      "rank": 267,
+      "domain": "canvas",
+      "count": 3,
+      "domain_names": [
+        "changecanvas.app",
+        "decisioncanvas.app",
+        "roadcanvas.app"
+      ]
+    },
+    {
+      "rank": 268,
+      "domain": "cards",
+      "count": 3,
+      "domain_names": [
+        "castcards.app",
+        "g-cards.app",
+        "scripturecards.app"
+      ]
+    },
+    {
+      "rank": 269,
+      "domain": "casino",
+      "count": 3,
+      "domain_names": [
+        "betblast-casino.app",
+        "goldencrown-casino.app",
+        "incognitocasino.app"
+      ]
+    },
+    {
+      "rank": 270,
+      "domain": "central",
+      "count": 3,
+      "domain_names": [
+        "centraldesk.app",
+        "diabetescentral.app",
+        "reward-central.app"
+      ]
+    },
+    {
+      "rank": 271,
+      "domain": "chain",
+      "count": 3,
+      "domain_names": [
+        "chainphi.app",
+        "pokechain.app",
+        "vault-chain.app"
+      ]
+    },
+    {
+      "rank": 272,
+      "domain": "chart",
+      "count": 3,
+      "domain_names": [
+        "chartreader.app",
+        "rockchart.app",
+        "seatchart.app"
+      ]
+    },
+    {
+      "rank": 273,
+      "domain": "chef",
+      "count": 3,
+      "domain_names": [
+        "cheflete.app",
+        "chefstaff.app",
+        "rouxchef.app"
+      ]
+    },
+    {
+      "rank": 274,
+      "domain": "chicken",
+      "count": 3,
+      "domain_names": [
+        "chicken-road-cristiano-ronaldo.app",
+        "chicken-road-ronaldo.app",
+        "chicken-road.app"
+      ]
+    },
+    {
+      "rank": 275,
+      "domain": "chill",
+      "count": 3,
+      "domain_names": [
+        "chilllog.app",
+        "chillouts.app",
+        "waechill.app"
+      ]
+    },
+    {
+      "rank": 276,
+      "domain": "click",
+      "count": 3,
+      "domain_names": [
+        "betclick.app",
+        "click-health.app",
+        "novaclick.app"
+      ]
+    },
+    {
+      "rank": 277,
+      "domain": "cool",
+      "count": 3,
+      "domain_names": [
+        "cestcool.app",
+        "coolconnect.app",
+        "coolplay.app"
+      ]
+    },
+    {
+      "rank": 278,
+      "domain": "crane",
+      "count": 3,
+      "domain_names": [
+        "getcrane.app",
+        "silvercrane.app",
+        "trycrane.app"
+      ]
+    },
+    {
+      "rank": 279,
+      "domain": "dark",
+      "count": 3,
+      "domain_names": [
+        "darkmatter.app",
+        "darkprometheus.app",
+        "darkstage.app"
+      ]
+    },
+    {
+      "rank": 280,
+      "domain": "date",
+      "count": 3,
+      "domain_names": [
+        "cleardate.app",
+        "duodate.app",
+        "markdate.app"
+      ]
+    },
+    {
+      "rank": 281,
+      "domain": "dating",
+      "count": 3,
+      "domain_names": [
+        "presencedating.app",
+        "sparkdating.app",
+        "typedating.app"
+      ]
+    },
+    {
+      "rank": 282,
+      "domain": "digital",
+      "count": 3,
+      "domain_names": [
+        "animaldigital.app",
+        "griffindigital.app",
+        "lind-digital.app"
+      ]
+    },
+    {
+      "rank": 283,
+      "domain": "duty",
+      "count": 3,
+      "domain_names": [
+        "dutyhive.app",
+        "dutypay.app",
+        "dutystation.app"
+      ]
+    },
+    {
+      "rank": 284,
+      "domain": "ember",
+      "count": 3,
+      "domain_names": [
+        "emberviz.app",
+        "lingember.app",
+        "roomember.app"
+      ]
+    },
+    {
+      "rank": 285,
+      "domain": "engine",
+      "count": 3,
+      "domain_names": [
+        "gxp-governance-engine.app",
+        "loreengine.app",
+        "recallengine.app"
+      ]
+    },
+    {
+      "rank": 286,
+      "domain": "fantasy",
+      "count": 3,
+      "domain_names": [
+        "fantasypress.app",
+        "newfantasy.app",
+        "realfantasy.app"
+      ]
+    },
+    {
+      "rank": 287,
+      "domain": "feed",
+      "count": 3,
+      "domain_names": [
+        "bizfeed.app",
+        "feedcent.app",
+        "feedjot.app"
+      ]
+    },
+    {
+      "rank": 288,
+      "domain": "feel",
+      "count": 3,
+      "domain_names": [
+        "feelarr.app",
+        "feelpedals.app",
+        "sentfeel.app"
+      ]
+    },
+    {
+      "rank": 289,
+      "domain": "fiber",
+      "count": 3,
+      "domain_names": [
+        "fiberblitz.app",
+        "fiberscan.app",
+        "fiberwise.app"
+      ]
+    },
+    {
+      "rank": 290,
+      "domain": "finder",
+      "count": 3,
+      "domain_names": [
+        "food-finder.app",
+        "movie-finder.app",
+        "teslafinder.app"
+      ]
+    },
+    {
+      "rank": 291,
+      "domain": "fire",
+      "count": 3,
+      "domain_names": [
+        "fireback.app",
+        "firecalculator.app",
+        "firemanager.app"
+      ]
+    },
+    {
+      "rank": 292,
+      "domain": "first",
+      "count": 3,
+      "domain_names": [
+        "firstgate.app",
+        "opsfirst.app",
+        "passfirst.app"
+      ]
+    },
+    {
+      "rank": 293,
+      "domain": "focus",
+      "count": 3,
+      "domain_names": [
+        "focusaura.app",
+        "focusnodes.app",
+        "focussharp.app"
+      ]
+    },
+    {
+      "rank": 294,
+      "domain": "football",
+      "count": 3,
+      "domain_names": [
+        "footballpassport.app",
+        "footballpredictor.app",
+        "geofootball.app"
+      ]
+    },
+    {
+      "rank": 295,
+      "domain": "foundation",
+      "count": 3,
+      "domain_names": [
+        "firelightfoundation.app",
+        "memfoundation.app",
+        "openfoundation.app"
+      ]
+    },
+    {
+      "rank": 296,
+      "domain": "front",
+      "count": 3,
+      "domain_names": [
+        "flowfront.app",
+        "forgefront.app",
+        "frontend.app"
+      ]
+    },
+    {
+      "rank": 297,
+      "domain": "funnel",
+      "count": 3,
+      "domain_names": [
+        "socialfunnel.app",
+        "textfunnel.app",
+        "thefunnel.app"
+      ]
+    },
+    {
+      "rank": 298,
+      "domain": "games",
+      "count": 3,
+      "domain_names": [
+        "bookgames.app",
+        "turbogames.app",
+        "yo-games.app"
+      ]
+    },
+    {
+      "rank": 299,
+      "domain": "gift",
+      "count": 3,
+      "domain_names": [
+        "giftplanner.app",
+        "giftsave.app",
+        "giftsound.app"
+      ]
+    },
+    {
+      "rank": 300,
+      "domain": "glow",
+      "count": 3,
+      "domain_names": [
+        "chatglow.app",
+        "glowfall.app",
+        "tradeglow.app"
+      ]
+    },
+    {
+      "rank": 301,
+      "domain": "group",
+      "count": 3,
+      "domain_names": [
+        "groupsnaps.app",
+        "groupvote.app",
+        "sante-group.app"
+      ]
+    },
+    {
+      "rank": 302,
+      "domain": "groups",
+      "count": 3,
+      "domain_names": [
+        "groupsnaps.app",
+        "photogroups.app",
+        "sharpgroups.app"
+      ]
+    },
+    {
+      "rank": 303,
+      "domain": "habit",
+      "count": 3,
+      "domain_names": [
+        "bouncehabit.app",
+        "calmhabit.app",
+        "habitfactory.app"
+      ]
+    },
+    {
+      "rank": 304,
+      "domain": "hash",
+      "count": 3,
+      "domain_names": [
+        "hashbadger.app",
+        "hashproof.app",
+        "hashverification.app"
+      ]
+    },
+    {
+      "rank": 305,
+      "domain": "heat",
+      "count": 3,
+      "domain_names": [
+        "heatflow.app",
+        "heatlift.app",
+        "heatstroke.app"
+      ]
+    },
+    {
+      "rank": 306,
+      "domain": "helm",
+      "count": 3,
+      "domain_names": [
+        "carehelm.app",
+        "helmfit.app",
+        "helmkeeper.app"
+      ]
+    },
+    {
+      "rank": 307,
+      "domain": "hero",
+      "count": 3,
+      "domain_names": [
+        "check-hero.app",
+        "hurdlehero.app",
+        "mixhero.app"
+      ]
+    },
+    {
+      "rank": 308,
+      "domain": "hield",
+      "count": 3,
+      "domain_names": [
+        "deepshield.app",
+        "vegashield.app",
+        "watershield.app"
+      ]
+    },
+    {
+      "rank": 309,
+      "domain": "hood",
+      "count": 3,
+      "domain_names": [
+        "pawhood.app",
+        "sevenhood.app",
+        "vibehood.app"
+      ]
+    },
+    {
+      "rank": 310,
+      "domain": "hook",
+      "count": 3,
+      "domain_names": [
+        "affiliatehook.app",
+        "hookbeat.app",
+        "quickhook.app"
+      ]
+    },
+    {
+      "rank": 311,
+      "domain": "hypo",
+      "count": 3,
+      "domain_names": [
+        "hypo-pro.app",
+        "hypo.app",
+        "hypokey.app"
+      ]
+    },
+    {
+      "rank": 312,
+      "domain": "insight",
+      "count": 3,
+      "domain_names": [
+        "autoinsight.app",
+        "deepinsight.app",
+        "insightson.app"
+      ]
+    },
+    {
+      "rank": 313,
+      "domain": "intelligence",
+      "count": 3,
+      "domain_names": [
+        "gentleintelligence.app",
+        "id-intelligence.app",
+        "proximityintelligence.app"
+      ]
+    },
+    {
+      "rank": 314,
+      "domain": "iron",
+      "count": 3,
+      "domain_names": [
+        "iron-forge.app",
+        "ironpeak.app",
+        "silliron.app"
+      ]
+    },
+    {
+      "rank": 315,
+      "domain": "journal",
+      "count": 3,
+      "domain_names": [
+        "magicjournal.app",
+        "promptjournal.app",
+        "thetajournal.app"
+      ]
+    },
+    {
+      "rank": 316,
+      "domain": "jumper",
+      "count": 3,
+      "domain_names": [
+        "cloudjumper.app",
+        "jumper-game.app",
+        "jumper.app"
+      ]
+    },
+    {
+      "rank": 317,
+      "domain": "kids",
+      "count": 3,
+      "domain_names": [
+        "mikirkids.app",
+        "spirekids.app",
+        "topkids.app"
+      ]
+    },
+    {
+      "rank": 318,
+      "domain": "kitchen",
+      "count": 3,
+      "domain_names": [
+        "kitchen-guide.app",
+        "kitchenguide.app",
+        "my-kitchen.app"
+      ]
+    },
+    {
+      "rank": 319,
+      "domain": "launch",
+      "count": 3,
+      "domain_names": [
+        "boatlaunch.app",
+        "launchmonitor.app",
+        "ziplaunch.app"
+      ]
+    },
+    {
+      "rank": 320,
+      "domain": "lead",
+      "count": 3,
+      "domain_names": [
+        "apexlead.app",
+        "obviouslead.app",
+        "voicelead.app"
+      ]
+    },
+    {
+      "rank": 321,
+      "domain": "league",
+      "count": 3,
+      "domain_names": [
+        "leaguebowler.app",
+        "leaguebowling.app",
+        "leaguescores.app"
+      ]
+    },
+    {
+      "rank": 322,
+      "domain": "learn",
+      "count": 3,
+      "domain_names": [
+        "learnturco.app",
+        "radiolearn.app",
+        "smart-learn.app"
+      ]
+    },
+    {
+      "rank": 323,
+      "domain": "logic",
+      "count": 3,
+      "domain_names": [
+        "atmoslogic.app",
+        "cardlogic.app",
+        "voltlogic.app"
+      ]
+    },
+    {
+      "rank": 324,
+      "domain": "look",
+      "count": 3,
+      "domain_names": [
+        "longlook.app",
+        "lookframe.app",
+        "toolslook.app"
+      ]
+    },
+    {
+      "rank": 325,
+      "domain": "lotto",
+      "count": 3,
+      "domain_names": [
+        "lottoday.app",
+        "lottodesk.app",
+        "lottomax.app"
+      ]
+    },
+    {
+      "rank": 326,
+      "domain": "magic",
+      "count": 3,
+      "domain_names": [
+        "magicjournal.app",
+        "magicreader.app",
+        "wiremagic.app"
+      ]
+    },
+    {
+      "rank": 327,
+      "domain": "mana",
+      "count": 3,
+      "domain_names": [
+        "manadia.app",
+        "manalab.app",
+        "manasate.app"
+      ]
+    },
+    {
+      "rank": 328,
+      "domain": "manager",
+      "count": 3,
+      "domain_names": [
+        "auditmanager.app",
+        "firemanager.app",
+        "shippingmanager.app"
+      ]
+    },
+    {
+      "rank": 329,
+      "domain": "mark",
+      "count": 3,
+      "domain_names": [
+        "markdate.app",
+        "markhunt.app",
+        "roundmark.app"
+      ]
+    },
+    {
+      "rank": 330,
+      "domain": "meal",
+      "count": 3,
+      "domain_names": [
+        "mealrun.app",
+        "mealvita.app",
+        "mealwallet.app"
+      ]
+    },
+    {
+      "rank": 331,
+      "domain": "meta",
+      "count": 3,
+      "domain_names": [
+        "meta-agent.app",
+        "metametrics.app",
+        "metamorphea.app"
+      ]
+    },
+    {
+      "rank": 332,
+      "domain": "moment",
+      "count": 3,
+      "domain_names": [
+        "dearmoment.app",
+        "momentjar.app",
+        "momentsupply.app"
+      ]
+    },
+    {
+      "rank": 333,
+      "domain": "movie",
+      "count": 3,
+      "domain_names": [
+        "cuemovie.app",
+        "movie-finder.app",
+        "moviewheel.app"
+      ]
+    },
+    {
+      "rank": 334,
+      "domain": "music",
+      "count": 3,
+      "domain_names": [
+        "musicmuseum.app",
+        "musicsouls.app",
+        "virtuosomusic.app"
+      ]
+    },
+    {
+      "rank": 335,
+      "domain": "navi",
+      "count": 3,
+      "domain_names": [
+        "aninavi.app",
+        "asknavi.app",
+        "pointnavi.app"
+      ]
+    },
+    {
+      "rank": 336,
+      "domain": "need",
+      "count": 3,
+      "domain_names": [
+        "needdone.app",
+        "needlater.app",
+        "needler.app"
+      ]
+    },
+    {
+      "rank": 337,
+      "domain": "nest",
+      "count": 3,
+      "domain_names": [
+        "grownest.app",
+        "nestkeep.app",
+        "nestscope.app"
+      ]
+    },
+    {
+      "rank": 338,
+      "domain": "network",
+      "count": 3,
+      "domain_names": [
+        "billionsnetwork.app",
+        "echonetwork.app",
+        "stupid-network-monitor.app"
+      ]
+    },
+    {
+      "rank": 339,
+      "domain": "nomad",
+      "count": 3,
+      "domain_names": [
+        "flynomad.app",
+        "heynomad.app",
+        "nomadreply.app"
+      ]
+    },
+    {
+      "rank": 340,
+      "domain": "options",
+      "count": 3,
+      "domain_names": [
+        "optionsdesk.app",
+        "optionsdrill.app",
+        "unlockoptions.app"
+      ]
+    },
+    {
+      "rank": 341,
+      "domain": "page",
+      "count": 3,
+      "domain_names": [
+        "capturepage.app",
+        "pagestitch.app",
+        "watchpage.app"
+      ]
+    },
+    {
+      "rank": 342,
+      "domain": "pair",
+      "count": 3,
+      "domain_names": [
+        "pocketpair.app",
+        "thinkpair.app",
+        "watchpair.app"
+      ]
+    },
+    {
+      "rank": 343,
+      "domain": "parent",
+      "count": 3,
+      "domain_names": [
+        "anchoredparent.app",
+        "parentsnap.app",
+        "parentwhisper.app"
+      ]
+    },
+    {
+      "rank": 344,
+      "domain": "path",
+      "count": 3,
+      "domain_names": [
+        "resilientpath.app",
+        "venturepath.app",
+        "visa-path.app"
+      ]
+    },
+    {
+      "rank": 345,
+      "domain": "pick",
+      "count": 3,
+      "domain_names": [
+        "beerpick.app",
+        "pickvibe.app",
+        "picturepick.app"
+      ]
+    },
+    {
+      "rank": 346,
+      "domain": "pickle",
+      "count": 3,
+      "domain_names": [
+        "picklefix.app",
+        "pickleflux.app",
+        "pickleplayer.app"
+      ]
+    },
+    {
+      "rank": 347,
+      "domain": "pixel",
+      "count": 3,
+      "domain_names": [
+        "cleanpixel.app",
+        "pixelbead.app",
+        "pixelpages.app"
+      ]
+    },
+    {
+      "rank": 348,
+      "domain": "poke",
+      "count": 3,
+      "domain_names": [
+        "pokechain.app",
+        "pokewhat.app",
+        "wellspoke.app"
+      ]
+    },
+    {
+      "rank": 349,
+      "domain": "poly",
+      "count": 3,
+      "domain_names": [
+        "polycai.app",
+        "polyeco.app",
+        "polylogy.app"
+      ]
+    },
+    {
+      "rank": 350,
+      "domain": "pool",
+      "count": 3,
+      "domain_names": [
+        "poolkeep.app",
+        "poolzone.app",
+        "seenpool.app"
+      ]
+    },
+    {
+      "rank": 351,
+      "domain": "power",
+      "count": 3,
+      "domain_names": [
+        "computingpower.app",
+        "mulepower.app",
+        "powerschema.app"
+      ]
+    },
+    {
+      "rank": 352,
+      "domain": "project",
+      "count": 3,
+      "domain_names": [
+        "foodproject.app",
+        "projectcomet.app",
+        "projectlee.app"
+      ]
+    },
+    {
+      "rank": 353,
+      "domain": "pure",
+      "count": 3,
+      "domain_names": [
+        "pureforms.app",
+        "purerevive.app",
+        "purestats.app"
+      ]
+    },
+    {
+      "rank": 354,
+      "domain": "quantum",
+      "count": 3,
+      "domain_names": [
+        "docquantum.app",
+        "quantum-agents.app",
+        "quantumeconomics.app"
+      ]
+    },
+    {
+      "rank": 355,
+      "domain": "quest",
+      "count": 3,
+      "domain_names": [
+        "meritquest.app",
+        "mind-quest.app",
+        "questonline.app"
+      ]
+    },
+    {
+      "rank": 356,
+      "domain": "queue",
+      "count": 3,
+      "domain_names": [
+        "flowqueue.app",
+        "queuebuddy.app",
+        "queueline.app"
+      ]
+    },
+    {
+      "rank": 357,
+      "domain": "quiz",
+      "count": 3,
+      "domain_names": [
+        "cannyquiz.app",
+        "netquiz.app",
+        "quiznotes.app"
+      ]
+    },
+    {
+      "rank": 358,
+      "domain": "race",
+      "count": 3,
+      "domain_names": [
+        "cubitrace.app",
+        "racenotifier.app",
+        "walkrace.app"
+      ]
+    },
+    {
+      "rank": 359,
+      "domain": "radio",
+      "count": 3,
+      "domain_names": [
+        "radiolearn.app",
+        "renegaderadio.app",
+        "totalradio.app"
+      ]
+    },
+    {
+      "rank": 360,
+      "domain": "rally",
+      "count": 3,
+      "domain_names": [
+        "betrally.app",
+        "rallylink.app",
+        "rallysquirrel.app"
+      ]
+    },
+    {
+      "rank": 361,
+      "domain": "read",
+      "count": 3,
+      "domain_names": [
+        "readbold.app",
+        "readcap.app",
+        "readloom.app"
+      ]
+    },
+    {
+      "rank": 362,
+      "domain": "ready",
+      "count": 3,
+      "domain_names": [
+        "readytales.app",
+        "readytrack.app",
+        "realready.app"
+      ]
+    },
+    {
+      "rank": 363,
+      "domain": "rewards",
+      "count": 3,
+      "domain_names": [
+        "pocketrewards.app",
+        "rewardsapp.app",
+        "rewardsave.app"
+      ]
+    },
+    {
+      "rank": 364,
+      "domain": "rider",
+      "count": 3,
+      "domain_names": [
+        "dayrider.app",
+        "relayrider.app",
+        "signalrider.app"
+      ]
+    },
+    {
+      "rank": 365,
+      "domain": "roster",
+      "count": 3,
+      "domain_names": [
+        "rosterserve.app",
+        "rostersignal.app",
+        "streetroster.app"
+      ]
+    },
+    {
+      "rank": 366,
+      "domain": "rune",
+      "count": 3,
+      "domain_names": [
+        "runespell.app",
+        "runeval.app",
+        "runevent.app"
+      ]
+    },
+    {
+      "rank": 367,
+      "domain": "sacred",
+      "count": 3,
+      "domain_names": [
+        "sacredatlas.app",
+        "sacredhour.app",
+        "sacredscore.app"
+      ]
+    },
+    {
+      "rank": 368,
+      "domain": "save",
+      "count": 3,
+      "domain_names": [
+        "giftsave.app",
+        "pocketsave.app",
+        "rewardsave.app"
+      ]
+    },
+    {
+      "rank": 369,
+      "domain": "scroll",
+      "count": 3,
+      "domain_names": [
+        "ambientscroll.app",
+        "scrollcheck.app",
+        "scrollout.app"
+      ]
+    },
+    {
+      "rank": 370,
+      "domain": "search",
+      "count": 3,
+      "domain_names": [
+        "flowsearch.app",
+        "searchgrid.app",
+        "solosearch.app"
+      ]
+    },
+    {
+      "rank": 371,
+      "domain": "seven",
+      "count": 3,
+      "domain_names": [
+        "ataseven.app",
+        "sevenhood.app",
+        "sevenportal.app"
+      ]
+    },
+    {
+      "rank": 372,
+      "domain": "sheet",
+      "count": 3,
+      "domain_names": [
+        "label-sheet.app",
+        "setsheet.app",
+        "stickersheet.app"
+      ]
+    },
+    {
+      "rank": 373,
+      "domain": "shelf",
+      "count": 3,
+      "domain_names": [
+        "botshelf.app",
+        "shelfcare.app",
+        "waxshelf.app"
+      ]
+    },
+    {
+      "rank": 374,
+      "domain": "shield",
+      "count": 3,
+      "domain_names": [
+        "deepshield.app",
+        "vegashield.app",
+        "watershield.app"
+      ]
+    },
+    {
+      "rank": 375,
+      "domain": "ship",
+      "count": 3,
+      "domain_names": [
+        "bridgeship.app",
+        "outship.app",
+        "shipfitter.app"
+      ]
+    },
+    {
+      "rank": 376,
+      "domain": "shore",
+      "count": 3,
+      "domain_names": [
+        "shorescore.app",
+        "side-shore.app",
+        "sideshore.app"
+      ]
+    },
+    {
+      "rank": 377,
+      "domain": "sight",
+      "count": 3,
+      "domain_names": [
+        "dancesight.app",
+        "sighthop.app",
+        "sightmine.app"
+      ]
+    },
+    {
+      "rank": 378,
+      "domain": "sign",
+      "count": 3,
+      "domain_names": [
+        "pegasign.app",
+        "signdeed.app",
+        "signextra.app"
+      ]
+    },
+    {
+      "rank": 379,
+      "domain": "skin",
+      "count": 3,
+      "domain_names": [
+        "binnaskin.app",
+        "formyskin.app",
+        "skintext.app"
+      ]
+    },
+    {
+      "rank": 380,
+      "domain": "slate",
+      "count": 3,
+      "domain_names": [
+        "commonslate.app",
+        "prepslate.app",
+        "slatedata.app"
+      ]
+    },
+    {
+      "rank": 381,
+      "domain": "soft",
+      "count": 3,
+      "domain_names": [
+        "platform-soft.app",
+        "softboiled.app",
+        "stationsoft.app"
+      ]
+    },
+    {
+      "rank": 382,
+      "domain": "soma",
+      "count": 3,
+      "domain_names": [
+        "maisonsoma.app",
+        "somaclub.app",
+        "somastudy.app"
+      ]
+    },
+    {
+      "rank": 383,
+      "domain": "spin",
+      "count": 3,
+      "domain_names": [
+        "highspin.app",
+        "mainspin.app",
+        "spincheck.app"
+      ]
+    },
+    {
+      "rank": 384,
+      "domain": "stage",
+      "count": 3,
+      "domain_names": [
+        "darkstage.app",
+        "orderstage.app",
+        "stagereach.app"
+      ]
+    },
+    {
+      "rank": 385,
+      "domain": "ster",
+      "count": 3,
+      "domain_names": [
+        "plister.app",
+        "pullster.app",
+        "whenster.app"
+      ]
+    },
+    {
+      "rank": 386,
+      "domain": "still",
+      "count": 3,
+      "domain_names": [
+        "stillnote.app",
+        "stillpond.app",
+        "stillruns.app"
+      ]
+    },
+    {
+      "rank": 387,
+      "domain": "stitch",
+      "count": 3,
+      "domain_names": [
+        "pagestitch.app",
+        "shopstitch.app",
+        "snipstitch.app"
+      ]
+    },
+    {
+      "rank": 388,
+      "domain": "stock",
+      "count": 3,
+      "domain_names": [
+        "stock-compass.app",
+        "stockbattle.app",
+        "stockfluence.app"
+      ]
+    },
+    {
+      "rank": 389,
+      "domain": "stream",
+      "count": 3,
+      "domain_names": [
+        "streamscene.app",
+        "streamtrace.app",
+        "streamtrade.app"
+      ]
+    },
+    {
+      "rank": 390,
+      "domain": "studios",
+      "count": 3,
+      "domain_names": [
+        "havenstudios.app",
+        "lumenstudios.app",
+        "pulsestudios.app"
+      ]
+    },
+    {
+      "rank": 391,
+      "domain": "sync",
+      "count": 3,
+      "domain_names": [
+        "celebratesync.app",
+        "pricesync.app",
+        "syncease.app"
+      ]
+    },
+    {
+      "rank": 392,
+      "domain": "systems",
+      "count": 3,
+      "domain_names": [
+        "builtsystems.app",
+        "unifiedsystems.app",
+        "valorsystems.app"
+      ]
+    },
+    {
+      "rank": 393,
+      "domain": "ting",
+      "count": 3,
+      "domain_names": [
+        "lingoting.app",
+        "tingdom.app",
+        "tinglingo.app"
+      ]
+    },
+    {
+      "rank": 394,
+      "domain": "tiny",
+      "count": 3,
+      "domain_names": [
+        "tinydog.app",
+        "tinyproof.app",
+        "tinyyard.app"
+      ]
+    },
+    {
+      "rank": 395,
+      "domain": "tools",
+      "count": 3,
+      "domain_names": [
+        "albion-tools.app",
+        "artisantools.app",
+        "toolslook.app"
+      ]
+    },
+    {
+      "rank": 396,
+      "domain": "town",
+      "count": 3,
+      "domain_names": [
+        "bosstown.app",
+        "saytown.app",
+        "town-see.app"
+      ]
+    },
+    {
+      "rank": 397,
+      "domain": "trace",
+      "count": 3,
+      "domain_names": [
+        "cubitrace.app",
+        "streamtrace.app",
+        "traceleak.app"
+      ]
+    },
+    {
+      "rank": 398,
+      "domain": "trail",
+      "count": 3,
+      "domain_names": [
+        "loantrail.app",
+        "trailsocial.app",
+        "trailthread.app"
+      ]
+    },
+    {
+      "rank": 399,
+      "domain": "vibe",
+      "count": 3,
+      "domain_names": [
+        "moonvibe.app",
+        "pickvibe.app",
+        "vibehood.app"
+      ]
+    },
+    {
+      "rank": 400,
+      "domain": "viva",
+      "count": 3,
+      "domain_names": [
+        "elaviva.app",
+        "vivabyte.app",
+        "vivatravel.app"
+      ]
+    },
+    {
+      "rank": 401,
+      "domain": "walk",
+      "count": 3,
+      "domain_names": [
+        "rotarywalk.app",
+        "walkrace.app",
+        "winewalk.app"
+      ]
+    },
+    {
+      "rank": 402,
+      "domain": "watch",
+      "count": 3,
+      "domain_names": [
+        "watchflo.app",
+        "watchpage.app",
+        "watchpair.app"
+      ]
+    },
+    {
+      "rank": 403,
+      "domain": "wealth",
+      "count": 3,
+      "domain_names": [
+        "dualwealth.app",
+        "wealth-master.app",
+        "wirewealth.app"
+      ]
+    },
+    {
+      "rank": 404,
+      "domain": "white",
+      "count": 3,
+      "domain_names": [
+        "bluewhite.app",
+        "whiteoak.app",
+        "whitepod.app"
+      ]
+    },
+    {
+      "rank": 405,
+      "domain": "wine",
+      "count": 3,
+      "domain_names": [
+        "decantwine.app",
+        "winebase.app",
+        "winewalk.app"
+      ]
+    },
+    {
+      "rank": 406,
+      "domain": "wing",
+      "count": 3,
+      "domain_names": [
+        "geneswing.app",
+        "proswing.app",
+        "wingpact.app"
+      ]
+    },
+    {
+      "rank": 407,
+      "domain": "world",
+      "count": 3,
+      "domain_names": [
+        "binaryworld.app",
+        "localworld.app",
+        "magneticworld.app"
+      ]
+    },
+    {
+      "rank": 408,
+      "domain": "wright",
+      "count": 3,
+      "domain_names": [
+        "billwright.app",
+        "branchwright.app",
+        "songwright.app"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 408,
+    "total": 408
+  }
+}
