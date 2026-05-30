@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "learn",
+      "count": 8,
+      "domain_names": [
+        "learnalgebra.app",
+        "learnarchitecture.app",
+        "learnastronomy.app",
+        "learndev.app",
+        "learngeography.app",
+        "learnhealth.app",
+        "learnorigami.app",
+        "learnsafety.app"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "6686vn",
+      "count": 3,
+      "domain_names": [
+        "6686vn-7.app",
+        "6686vn-8.app",
+        "6686vn.app"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "bigraph",
+      "count": 3,
+      "domain_names": [
+        "bigraph-dev.app",
+        "bigraph-stage.app",
+        "bigraph.app"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "chat",
+      "count": 3,
+      "domain_names": [
+        "chatexpense.app",
+        "seekchat.app",
+        "xxxchat.app"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "guide",
+      "count": 3,
+      "domain_names": [
+        "guidegenie.app",
+        "schoolguide.app",
+        "studyguide.app"
+      ]
+    },
+    {
+      "rank": 6,
+      "domain": "link",
+      "count": 3,
+      "domain_names": [
+        "linklayer.app",
+        "linkwizard.app",
+        "rawlink.app"
+      ]
+    },
+    {
+      "rank": 7,
+      "domain": "play",
+      "count": 3,
+      "domain_names": [
+        "natureplay.app",
+        "playliterate.app",
+        "playtab.app"
+      ]
+    },
+    {
+      "rank": 8,
+      "domain": "sync",
+      "count": 3,
+      "domain_names": [
+        "assetsync.app",
+        "browsersync.app",
+        "syncable.app"
+      ]
+    },
+    {
+      "rank": 9,
+      "domain": "taxrep",
+      "count": 3,
+      "domain_names": [
+        "taxrep-us.app",
+        "taxrep-usa.app",
+        "taxrep.app"
+      ]
+    },
+    {
+      "rank": 10,
+      "domain": "tech",
+      "count": 3,
+      "domain_names": [
+        "limetech.app",
+        "princetech.app",
+        "techfarm.app"
+      ]
+    },
+    {
+      "rank": 11,
+      "domain": "vibe",
+      "count": 3,
+      "domain_names": [
+        "vibeadmin.app",
+        "vibecoin.app",
+        "vibelanguage.app"
+      ]
+    },
+    {
+      "rank": 12,
+      "domain": "zero",
+      "count": 3,
+      "domain_names": [
+        "metazero.app",
+        "postzero.app",
+        "zeroentropy.app"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 12,
+    "total": 12
+  }
+}
