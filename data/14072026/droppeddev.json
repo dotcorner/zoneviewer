@@ -1,0 +1,5570 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "code",
+      "count": 73,
+      "domain_names": [
+        "aaroncode.dev",
+        "astor-code.dev",
+        "batcode.dev",
+        "behind-the-code.dev",
+        "code-island.dev",
+        "code-tutor.dev",
+        "codeboard.dev",
+        "codebox.dev",
+        "codecalico.dev",
+        "codecentral.dev",
+        "codechannels.dev",
+        "codeconstructs.dev",
+        "codecraft.dev",
+        "codecreate.dev",
+        "codecreations.dev",
+        "codecreators.dev",
+        "codecue.dev",
+        "codedex.dev",
+        "codeengine.dev",
+        "codeevolution.dev",
+        "codeextenders.dev",
+        "codefend.dev",
+        "codefinity.dev",
+        "codefish.dev",
+        "codefixer.dev",
+        "codeflakes.dev",
+        "codeflower.dev",
+        "codegap.dev",
+        "codegnome.dev",
+        "codehits.dev",
+        "codehonest.dev",
+        "codelinter.dev",
+        "codelooms.dev",
+        "codemar.dev",
+        "codemason.dev",
+        "codementor.dev",
+        "codeminer.dev",
+        "codeplace.dev",
+        "codeplayground.dev",
+        "coderesting.dev",
+        "coderift.dev",
+        "codesidekick.dev",
+        "codesmith.dev",
+        "codesniff.dev",
+        "codeswitched.dev",
+        "codesynergy.dev",
+        "codeteller.dev",
+        "codethomas.dev",
+        "codethrive.dev",
+        "codeveritas.dev",
+        "codeweasel.dev",
+        "colorcode.dev",
+        "cybercode.dev",
+        "fancode.dev",
+        "finocode.dev",
+        "forcecode.dev",
+        "goldfishcode.dev",
+        "hivecode.dev",
+        "julescode.dev",
+        "layeredcode.dev",
+        "leocode.dev",
+        "lukascode.dev",
+        "no-code.dev",
+        "playercode.dev",
+        "roulettecode.dev",
+        "sambacode.dev",
+        "servecode.dev",
+        "stackcode.dev",
+        "starcode.dev",
+        "stormcode.dev",
+        "ubiquitouscode.dev",
+        "variacode.dev",
+        "voltcode.dev"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "tech",
+      "count": 41,
+      "domain_names": [
+        "alpacastech.dev",
+        "aortech.dev",
+        "arighttech.dev",
+        "blessedtech.dev",
+        "branchtech.dev",
+        "delivertech.dev",
+        "delvetech.dev",
+        "finetech.dev",
+        "g-tech.dev",
+        "gatortech.dev",
+        "goleta-tech.dev",
+        "hiretech.dev",
+        "johntech.dev",
+        "kaltech.dev",
+        "macotech.dev",
+        "maratech.dev",
+        "medtech.dev",
+        "mogtech.dev",
+        "novatech.dev",
+        "now-tech.dev",
+        "restech.dev",
+        "right-tech.dev",
+        "soratech.dev",
+        "spokanetech.dev",
+        "tacotech.dev",
+        "tasi-tech.dev",
+        "techbeanie.dev",
+        "techbites.dev",
+        "techfinch.dev",
+        "techgarden.dev",
+        "techguide.dev",
+        "techjam.dev",
+        "techmaster.dev",
+        "techsci.dev",
+        "techsociety.dev",
+        "techsol.dev",
+        "techspace.dev",
+        "techtrend.dev",
+        "tidtech.dev",
+        "yz-tech.dev",
+        "zenith-tech.dev"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "labs",
+      "count": 30,
+      "domain_names": [
+        "ampersandlabs.dev",
+        "auslabs.dev",
+        "bri-labs.dev",
+        "bunlabs.dev",
+        "burrowlabs.dev",
+        "catalystlabs.dev",
+        "convergence-labs.dev",
+        "creeksidelabs.dev",
+        "efferentlabs.dev",
+        "freddylabs.dev",
+        "galalabs.dev",
+        "guidelabs.dev",
+        "hikari-labs.dev",
+        "intentionlabs.dev",
+        "ironlabs.dev",
+        "kobulabs.dev",
+        "lealabs.dev",
+        "lunalabs.dev",
+        "mantislabs.dev",
+        "modellabs.dev",
+        "nebula-labs.dev",
+        "raylabs.dev",
+        "reinforcelabs.dev",
+        "scrylabs.dev",
+        "shanlabs.dev",
+        "sinklabs.dev",
+        "spectralabs.dev",
+        "stratumlabs.dev",
+        "summitlabs.dev",
+        "twelvelabs.dev"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "stack",
+      "count": 30,
+      "domain_names": [
+        "breezestack.dev",
+        "bronxstack.dev",
+        "complystack.dev",
+        "cyber-stack.dev",
+        "echostack.dev",
+        "full-stack.dev",
+        "govstack.dev",
+        "hivestack.dev",
+        "jadestack.dev",
+        "kinderstack.dev",
+        "legalstack.dev",
+        "lintstack.dev",
+        "morestack.dev",
+        "nerdstack.dev",
+        "nutstack.dev",
+        "purestack.dev",
+        "slipstack.dev",
+        "stackace.dev",
+        "stackcode.dev",
+        "stackmates.dev",
+        "stackplane.dev",
+        "stackroot.dev",
+        "stacktools.dev",
+        "stackvibe.dev",
+        "stackzone.dev",
+        "stellarstack.dev",
+        "tempstack.dev",
+        "tunnelstack.dev",
+        "twinstack.dev",
+        "unicornstack.dev"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "agent",
+      "count": 29,
+      "domain_names": [
+        "agent-base.dev",
+        "agent-clone.dev",
+        "agent-ops.dev",
+        "agent-team.dev",
+        "agentboard.dev",
+        "agentbuild.dev",
+        "agentclone.dev",
+        "agentconsulting.dev",
+        "agentcortex.dev",
+        "agentcreator.dev",
+        "agentdot.dev",
+        "agenthospital.dev",
+        "agentide.dev",
+        "agentinitializer.dev",
+        "agentledger.dev",
+        "agentlog.dev",
+        "agentrental.dev",
+        "bigagent.dev",
+        "evalagent.dev",
+        "genagent.dev",
+        "get-agent.dev",
+        "opsagent.dev",
+        "run-agent.dev",
+        "scrapeagent.dev",
+        "secretagent.dev",
+        "tryagent.dev",
+        "use-agent.dev",
+        "useagent.dev",
+        "zenagent.dev"
+      ]
+    },
+    {
+      "rank": 6,
+      "domain": "vibe",
+      "count": 25,
+      "domain_names": [
+        "cleanvibe.dev",
+        "hirevibe.dev",
+        "jittervibe.dev",
+        "postvibe.dev",
+        "stackvibe.dev",
+        "truevibe.dev",
+        "vibeaid.dev",
+        "vibeanything.dev",
+        "vibeauth.dev",
+        "vibechat.dev",
+        "vibeclouding.dev",
+        "vibecto.dev",
+        "vibedit.dev",
+        "vibegrowth.dev",
+        "vibeguard.dev",
+        "vibehouse.dev",
+        "vibeinfra.dev",
+        "vibemethod.dev",
+        "vibemode.dev",
+        "vibepad.dev",
+        "vibeshipper.dev",
+        "vibesolo.dev",
+        "vibestation.dev",
+        "vibeweb.dev",
+        "vibeworker.dev"
+      ]
+    },
+    {
+      "rank": 7,
+      "domain": "cloud",
+      "count": 23,
+      "domain_names": [
+        "basecloud.dev",
+        "cloud-ops-sandbox.dev",
+        "cloud-ops.dev",
+        "cloudagents.dev",
+        "cloudblue.dev",
+        "cloudcontrol.dev",
+        "clouddrive.dev",
+        "cloudfactor.dev",
+        "cloudfelix.dev",
+        "cloudhub.dev",
+        "cloudintelligence.dev",
+        "cloudist.dev",
+        "cloudkeepers.dev",
+        "cloudsolo.dev",
+        "cloudstatus.dev",
+        "cloudtrain.dev",
+        "echocloud.dev",
+        "eventcloud.dev",
+        "google-cloud-pocs.dev",
+        "mechcloud.dev",
+        "simacloud.dev",
+        "spreewald-cloud-engineer.dev",
+        "trackscloud.dev"
+      ]
+    },
+    {
+      "rank": 8,
+      "domain": "flow",
+      "count": 20,
+      "domain_names": [
+        "ascendflow.dev",
+        "askflow.dev",
+        "chatsflow.dev",
+        "contextflow.dev",
+        "findflow.dev",
+        "flowapp.dev",
+        "flowbees.dev",
+        "flowchain.dev",
+        "flowctrl.dev",
+        "flowtap.dev",
+        "hackflow.dev",
+        "inkflow.dev",
+        "layeredflow.dev",
+        "leapflow.dev",
+        "predictflow.dev",
+        "reiflow.dev",
+        "shopflow.dev",
+        "spriteflow.dev",
+        "traceflow.dev",
+        "uptimeflow.dev"
+      ]
+    },
+    {
+      "rank": 9,
+      "domain": "chat",
+      "count": 19,
+      "domain_names": [
+        "ai-chat.dev",
+        "alcoholchat.dev",
+        "arraychat.dev",
+        "beerchat.dev",
+        "chatbridge.dev",
+        "chatlink.dev",
+        "chatlist.dev",
+        "chatlive.dev",
+        "chatmemory.dev",
+        "chatpilot.dev",
+        "chattier.dev",
+        "evalchat.dev",
+        "firesidechat.dev",
+        "liquorchat.dev",
+        "makechat.dev",
+        "paychat.dev",
+        "vibechat.dev",
+        "winechat.dev",
+        "youchat.dev"
+      ]
+    },
+    {
+      "rank": 10,
+      "domain": "software",
+      "count": 18,
+      "domain_names": [
+        "automize-software.dev",
+        "bkns-software.dev",
+        "brainrocks-software.dev",
+        "clarksoftware.dev",
+        "customsoftware.dev",
+        "duckysoftware.dev",
+        "globalsoftware.dev",
+        "good-vibes-software.dev",
+        "hcl-software.dev",
+        "lavasoftware.dev",
+        "legitsoftware.dev",
+        "offsetsoftware.dev",
+        "rkb-software.dev",
+        "serosoftware.dev",
+        "softwarecraftsmanship.dev",
+        "tapsoftware.dev",
+        "testsoftware.dev",
+        "vaporwaresoftware.dev"
+      ]
+    },
+    {
+      "rank": 11,
+      "domain": "auto",
+      "count": 15,
+      "domain_names": [
+        "auto-agents.dev",
+        "autoapply.dev",
+        "autoforms.dev",
+        "autofunnels.dev",
+        "autolaunch.dev",
+        "automark.dev",
+        "automatt.dev",
+        "automize.dev",
+        "autonest.dev",
+        "autoscale.dev",
+        "autoscope.dev",
+        "autoseed.dev",
+        "autoserve.dev",
+        "autovia.dev",
+        "autowin.dev"
+      ]
+    },
+    {
+      "rank": 12,
+      "domain": "build",
+      "count": 15,
+      "domain_names": [
+        "agentbuild.dev",
+        "agentsbuild.dev",
+        "build.dev",
+        "buildbay.dev",
+        "buildbespoke.dev",
+        "buildboard.dev",
+        "buildbrick.dev",
+        "builderos.dev",
+        "buildghost.dev",
+        "buildpicasso.dev",
+        "buildwave.dev",
+        "buildwire.dev",
+        "buildwise.dev",
+        "getbuild.dev",
+        "protobuild.dev"
+      ]
+    },
+    {
+      "rank": 13,
+      "domain": "core",
+      "count": 15,
+      "domain_names": [
+        "core-ops.dev",
+        "corebase.dev",
+        "corefall.dev",
+        "coremoon.dev",
+        "geocore.dev",
+        "greycore.dev",
+        "lumencore.dev",
+        "mooncore.dev",
+        "nashcore.dev",
+        "nuclearcore.dev",
+        "selfcore.dev",
+        "stablecore.dev",
+        "twincore.dev",
+        "webcore.dev",
+        "zenithcore.dev"
+      ]
+    },
+    {
+      "rank": 14,
+      "domain": "line",
+      "count": 15,
+      "domain_names": [
+        "akaline.dev",
+        "alpline.dev",
+        "bottomline.dev",
+        "coastline.dev",
+        "keyline.dev",
+        "line-0.dev",
+        "line-oa.dev",
+        "line-zero.dev",
+        "line.dev",
+        "linedup.dev",
+        "linezero.dev",
+        "localine.dev",
+        "regline.dev",
+        "sharpline.dev",
+        "tideline.dev"
+      ]
+    },
+    {
+      "rank": 15,
+      "domain": "tack",
+      "count": 15,
+      "domain_names": [
+        "breezestack.dev",
+        "echostack.dev",
+        "hivestack.dev",
+        "jadestack.dev",
+        "legalstack.dev",
+        "lintstack.dev",
+        "morestack.dev",
+        "mustack.dev",
+        "nerdstack.dev",
+        "nutstack.dev",
+        "slipstack.dev",
+        "tempstack.dev",
+        "tunnelstack.dev",
+        "twinstack.dev",
+        "unicornstack.dev"
+      ]
+    },
+    {
+      "rank": 16,
+      "domain": "chain",
+      "count": 14,
+      "domain_names": [
+        "caterchain.dev",
+        "chain.dev",
+        "chainstaker.dev",
+        "docchain.dev",
+        "ecochain.dev",
+        "flowchain.dev",
+        "gameschain.dev",
+        "genchain.dev",
+        "ghostchain.dev",
+        "langchain.dev",
+        "reactchain.dev",
+        "reblockchain.dev",
+        "signalchain.dev",
+        "skychain.dev"
+      ]
+    },
+    {
+      "rank": 17,
+      "domain": "forge",
+      "count": 14,
+      "domain_names": [
+        "anvilforge.dev",
+        "arkforge.dev",
+        "badgerforge.dev",
+        "focusforge.dev",
+        "humbleforge.dev",
+        "iceforge.dev",
+        "infraforge.dev",
+        "loadforge.dev",
+        "microforge.dev",
+        "neuralforge.dev",
+        "peppermint-forge.dev",
+        "product-forge.dev",
+        "questforge.dev",
+        "rankforge.dev"
+      ]
+    },
+    {
+      "rank": 18,
+      "domain": "open",
+      "count": 14,
+      "domain_names": [
+        "openadmin.dev",
+        "openagentic.dev",
+        "openbleak.dev",
+        "openfoundation.dev",
+        "openids.dev",
+        "openincident.dev",
+        "opennest.dev",
+        "opennexus.dev",
+        "openpages.dev",
+        "openreview.dev",
+        "openscript.dev",
+        "opensorcerer.dev",
+        "openstatute.dev",
+        "opentax.dev"
+      ]
+    },
+    {
+      "rank": 19,
+      "domain": "byte",
+      "count": 13,
+      "domain_names": [
+        "beckbyte.dev",
+        "berrybyte.dev",
+        "bytefork.dev",
+        "bytemaestro.dev",
+        "bytespy.dev",
+        "bytetonic.dev",
+        "bytetools.dev",
+        "jazzybyte.dev",
+        "lastbyte.dev",
+        "loadbyte.dev",
+        "smart-byte.dev",
+        "statbyte.dev",
+        "wanderlustbyte.dev"
+      ]
+    },
+    {
+      "rank": 20,
+      "domain": "link",
+      "count": 13,
+      "domain_names": [
+        "chatlink.dev",
+        "hacklink.dev",
+        "link-alternatif.dev",
+        "linkcube.dev",
+        "linkexplore.dev",
+        "linknote.dev",
+        "linkpreview.dev",
+        "meulink.dev",
+        "offerlink.dev",
+        "orderlink.dev",
+        "shortlink.dev",
+        "swaplink.dev",
+        "tracklink.dev"
+      ]
+    },
+    {
+      "rank": 21,
+      "domain": "project",
+      "count": 13,
+      "domain_names": [
+        "petproject.dev",
+        "project-facex.dev",
+        "project-r.dev",
+        "projectbase.dev",
+        "projectencore.dev",
+        "projecteros.dev",
+        "projecthydra.dev",
+        "projectkelvin.dev",
+        "projectsphere.dev",
+        "projectverse.dev",
+        "projectwild.dev",
+        "projectxyz.dev",
+        "propelproject.dev"
+      ]
+    },
+    {
+      "rank": 22,
+      "domain": "cyber",
+      "count": 12,
+      "domain_names": [
+        "cyber-stack.dev",
+        "cybercode.dev",
+        "cyberenigma.dev",
+        "cyberforce.dev",
+        "cybergames.dev",
+        "cyberpromo.dev",
+        "cyberread.dev",
+        "cybersultan.dev",
+        "cyberswift.dev",
+        "cybertask.dev",
+        "cybertasks.dev",
+        "skycyber.dev"
+      ]
+    },
+    {
+      "rank": 23,
+      "domain": "games",
+      "count": 12,
+      "domain_names": [
+        "atlasgames.dev",
+        "cultgames.dev",
+        "cybergames.dev",
+        "gameschain.dev",
+        "grubstreetgames.dev",
+        "mobgames.dev",
+        "mocagames.dev",
+        "progames.dev",
+        "quantumgames.dev",
+        "skygames.dev",
+        "speedygames.dev",
+        "thistlegames.dev"
+      ]
+    },
+    {
+      "rank": 24,
+      "domain": "lang",
+      "count": 12,
+      "domain_names": [
+        "api-lang.dev",
+        "interlang.dev",
+        "jetlang.dev",
+        "josephlang.dev",
+        "justlang.dev",
+        "langchain.dev",
+        "langfuse.dev",
+        "lovely-lang.dev",
+        "neolang.dev",
+        "proplang.dev",
+        "thelang.dev",
+        "windlang.dev"
+      ]
+    },
+    {
+      "rank": 25,
+      "domain": "mind",
+      "count": 12,
+      "domain_names": [
+        "cluelessmind.dev",
+        "cryptomind.dev",
+        "glintmind.dev",
+        "hellomind.dev",
+        "mind-craft.dev",
+        "minddawn.dev",
+        "mindforest.dev",
+        "mindmint.dev",
+        "mindsphere.dev",
+        "terramind.dev",
+        "voltmind.dev",
+        "workmind.dev"
+      ]
+    },
+    {
+      "rank": 26,
+      "domain": "prompt",
+      "count": 12,
+      "domain_names": [
+        "gitprompt.dev",
+        "heroprompt.dev",
+        "justprompt.dev",
+        "localprompt.dev",
+        "promptforce.dev",
+        "prompthive.dev",
+        "promptness.dev",
+        "promptrig.dev",
+        "promptscanner.dev",
+        "promptscience.dev",
+        "promptspark.dev",
+        "promptwealth.dev"
+      ]
+    },
+    {
+      "rank": 27,
+      "domain": "space",
+      "count": 12,
+      "domain_names": [
+        "minispace.dev",
+        "ramspace.dev",
+        "spacebricks.dev",
+        "spacebuilder.dev",
+        "spacecoin.dev",
+        "spacemesh.dev",
+        "spacepilot.dev",
+        "spacetoad.dev",
+        "tailspace.dev",
+        "techspace.dev",
+        "visitspace.dev",
+        "xyzspace.dev"
+      ]
+    },
+    {
+      "rank": 28,
+      "domain": "zero",
+      "count": 12,
+      "domain_names": [
+        "bitezero.dev",
+        "initzero.dev",
+        "konzero.dev",
+        "layerzero.dev",
+        "line-zero.dev",
+        "linezero.dev",
+        "postzero.dev",
+        "sprintzero.dev",
+        "userzero.dev",
+        "zero-in.dev",
+        "zeroless.dev",
+        "zeroops.dev"
+      ]
+    },
+    {
+      "rank": 29,
+      "domain": "board",
+      "count": 11,
+      "domain_names": [
+        "agentboard.dev",
+        "beastieboard.dev",
+        "board.dev",
+        "buildboard.dev",
+        "chessboard.dev",
+        "codeboard.dev",
+        "disboard.dev",
+        "noteboard.dev",
+        "signalboard.dev",
+        "snapboard.dev",
+        "voidboard.dev"
+      ]
+    },
+    {
+      "rank": 30,
+      "domain": "craft",
+      "count": 11,
+      "domain_names": [
+        "codecraft.dev",
+        "cubecraft.dev",
+        "cyphercraft.dev",
+        "infracraft.dev",
+        "leetcraft.dev",
+        "mind-craft.dev",
+        "protocraft.dev",
+        "scenecraft.dev",
+        "skillcraft.dev",
+        "voidcraft.dev",
+        "webcraft.dev"
+      ]
+    },
+    {
+      "rank": 31,
+      "domain": "meta",
+      "count": 11,
+      "domain_names": [
+        "arcmeta.dev",
+        "heavy-meta.dev",
+        "metafora.dev",
+        "metahealth.dev",
+        "metalinks.dev",
+        "metamatrix.dev",
+        "metamesh.dev",
+        "metanovel.dev",
+        "metaplatform.dev",
+        "metarealm.dev",
+        "metasui.dev"
+      ]
+    },
+    {
+      "rank": 32,
+      "domain": "smart",
+      "count": 11,
+      "domain_names": [
+        "smart-byte.dev",
+        "smartdelivery.dev",
+        "smarteam.dev",
+        "smartideas.dev",
+        "smartinsurance.dev",
+        "smartlogistics.dev",
+        "smartpacket.dev",
+        "smartsense.dev",
+        "smartsolution.dev",
+        "smarttools.dev",
+        "smartwellness.dev"
+      ]
+    },
+    {
+      "rank": 33,
+      "domain": "team",
+      "count": 11,
+      "domain_names": [
+        "agent-team.dev",
+        "flashteam.dev",
+        "fluxteam.dev",
+        "lazyteam.dev",
+        "pts-team.dev",
+        "rr-team.dev",
+        "teamconnect.dev",
+        "teaminsights.dev",
+        "teamnova.dev",
+        "teamsai.dev",
+        "waveteam.dev"
+      ]
+    },
+    {
+      "rank": 34,
+      "domain": "back",
+      "count": 10,
+      "domain_names": [
+        "backapp.dev",
+        "backcom.dev",
+        "backender.dev",
+        "backframe.dev",
+        "backjuggler.dev",
+        "backkit.dev",
+        "backtrack.dev",
+        "backyard.dev",
+        "pingback.dev",
+        "silverback.dev"
+      ]
+    },
+    {
+      "rank": 35,
+      "domain": "data",
+      "count": 10,
+      "domain_names": [
+        "dataformy.dev",
+        "datafusions.dev",
+        "datagrand.dev",
+        "datanerds.dev",
+        "datanode.dev",
+        "datapartners.dev",
+        "datasierra.dev",
+        "datastar.dev",
+        "inndata.dev",
+        "litdata.dev"
+      ]
+    },
+    {
+      "rank": 36,
+      "domain": "digital",
+      "count": 10,
+      "domain_names": [
+        "digital-ai.dev",
+        "digitalagency.dev",
+        "digitalcarlos.dev",
+        "digitalkoi.dev",
+        "digitalotter.dev",
+        "digitalroots.dev",
+        "digitalsilk.dev",
+        "synergydigital.dev",
+        "tundradigital.dev",
+        "yesdigital.dev"
+      ]
+    },
+    {
+      "rank": 37,
+      "domain": "form",
+      "count": 10,
+      "domain_names": [
+        "cubform.dev",
+        "fillform.dev",
+        "formdonkey.dev",
+        "formgen.dev",
+        "formlogic.dev",
+        "formscript.dev",
+        "genform.dev",
+        "govform.dev",
+        "snappyform.dev",
+        "softform.dev"
+      ]
+    },
+    {
+      "rank": 38,
+      "domain": "next",
+      "count": 10,
+      "domain_names": [
+        "next-engineers.dev",
+        "next-mcp-server.dev",
+        "next-wayfinder.dev",
+        "nextgeek.dev",
+        "nextjet.dev",
+        "nextoffer.dev",
+        "nextseller.dev",
+        "nextwest.dev",
+        "thenext.dev",
+        "typenext.dev"
+      ]
+    },
+    {
+      "rank": 39,
+      "domain": "ship",
+      "count": 10,
+      "domain_names": [
+        "filaship.dev",
+        "greatship.dev",
+        "millionship.dev",
+        "mustship.dev",
+        "observatorship.dev",
+        "ship-shape.dev",
+        "shipflare.dev",
+        "shiploy.dev",
+        "svelteship.dev",
+        "tight-ship.dev"
+      ]
+    },
+    {
+      "rank": 40,
+      "domain": "time",
+      "count": 10,
+      "domain_names": [
+        "duetime.dev",
+        "primetime.dev",
+        "runtime.dev",
+        "sparetime.dev",
+        "timedevs.dev",
+        "timedoor.dev",
+        "timemit.dev",
+        "timeplus.dev",
+        "timeshifting.dev",
+        "timewave.dev"
+      ]
+    },
+    {
+      "rank": 41,
+      "domain": "able",
+      "count": 9,
+      "domain_names": [
+        "clonable.dev",
+        "countable.dev",
+        "crossable.dev",
+        "debateable.dev",
+        "eventable.dev",
+        "explainable.dev",
+        "markable.dev",
+        "mobilable.dev",
+        "reachable.dev"
+      ]
+    },
+    {
+      "rank": 42,
+      "domain": "codes",
+      "count": 9,
+      "domain_names": [
+        "codesniff.dev",
+        "codeswitched.dev",
+        "craftingcodes.dev",
+        "danielcodes.dev",
+        "fictionalcodes.dev",
+        "jade-codes.dev",
+        "justincodes.dev",
+        "robertocodes.dev",
+        "sharecodes.dev"
+      ]
+    },
+    {
+      "rank": 43,
+      "domain": "free",
+      "count": 9,
+      "domain_names": [
+        "freebio.dev",
+        "freebooks.dev",
+        "freedick.dev",
+        "freeflash.dev",
+        "freefor.dev",
+        "freelogo.dev",
+        "freemailbox.dev",
+        "screen-free.dev",
+        "screenfree.dev"
+      ]
+    },
+    {
+      "rank": 44,
+      "domain": "hyper",
+      "count": 9,
+      "domain_names": [
+        "hyperbot.dev",
+        "hypercarry.dev",
+        "hyperdocs.dev",
+        "hypermodel.dev",
+        "hyperparam.dev",
+        "hyperpump.dev",
+        "hyperpunk.dev",
+        "hyperstable.dev",
+        "hyperswap.dev"
+      ]
+    },
+    {
+      "rank": 45,
+      "domain": "just",
+      "count": 9,
+      "domain_names": [
+        "justfreddy.dev",
+        "justinfo.dev",
+        "justlang.dev",
+        "justprompt.dev",
+        "justprototype.dev",
+        "justtrust.dev",
+        "justwon.dev",
+        "justworking.dev",
+        "justworks.dev"
+      ]
+    },
+    {
+      "rank": 46,
+      "domain": "master",
+      "count": 9,
+      "domain_names": [
+        "audiomaster.dev",
+        "botmaster.dev",
+        "clickmaster.dev",
+        "master-pay.dev",
+        "mastercoding.dev",
+        "masterprompts.dev",
+        "masterwizard.dev",
+        "salonmaster.dev",
+        "techmaster.dev"
+      ]
+    },
+    {
+      "rank": 47,
+      "domain": "micro",
+      "count": 9,
+      "domain_names": [
+        "micro-soft.dev",
+        "microbit.dev",
+        "microdev.dev",
+        "microdrive.dev",
+        "microforge.dev",
+        "micromoments.dev",
+        "micropower.dev",
+        "microsense.dev",
+        "microsip.dev"
+      ]
+    },
+    {
+      "rank": 48,
+      "domain": "soft",
+      "count": 9,
+      "domain_names": [
+        "anysoft.dev",
+        "brosoft.dev",
+        "fitzsoft.dev",
+        "iciclesoft.dev",
+        "integra-soft-solutions.dev",
+        "micro-soft.dev",
+        "softform.dev",
+        "softlaunch.dev",
+        "softseason.dev"
+      ]
+    },
+    {
+      "rank": 49,
+      "domain": "solutions",
+      "count": 9,
+      "domain_names": [
+        "access-solutions.dev",
+        "admsolutions.dev",
+        "aperturesolutions.dev",
+        "bravosolutions.dev",
+        "dolphinsolutions.dev",
+        "integra-soft-solutions.dev",
+        "ironsolutions.dev",
+        "ozonesolutions.dev",
+        "rtisolutions.dev"
+      ]
+    },
+    {
+      "rank": 50,
+      "domain": "studios",
+      "count": 9,
+      "domain_names": [
+        "bergheim-studios.dev",
+        "blinkstudios.dev",
+        "monolithstudios.dev",
+        "powerhousestudios.dev",
+        "riskstudios.dev",
+        "saffronstudios.dev",
+        "stn-studios.dev",
+        "webstudios.dev",
+        "yukistudios.dev"
+      ]
+    },
+    {
+      "rank": 51,
+      "domain": "systems",
+      "count": 9,
+      "domain_names": [
+        "alfredsystems.dev",
+        "augustsystems.dev",
+        "calmsystems.dev",
+        "codexsystems.dev",
+        "layeredsystems.dev",
+        "runtimesystems.dev",
+        "statesystems.dev",
+        "systems-made-simple.dev",
+        "systems.dev"
+      ]
+    },
+    {
+      "rank": 52,
+      "domain": "tools",
+      "count": 9,
+      "domain_names": [
+        "aws-tools.dev",
+        "billtools.dev",
+        "bytetools.dev",
+        "compliancetools.dev",
+        "onlytools.dev",
+        "smarttools.dev",
+        "stacktools.dev",
+        "unitools.dev",
+        "youtools.dev"
+      ]
+    },
+    {
+      "rank": 53,
+      "domain": "base",
+      "count": 8,
+      "domain_names": [
+        "agent-base.dev",
+        "basecloud.dev",
+        "clientbase.dev",
+        "corebase.dev",
+        "projectbase.dev",
+        "sanebase.dev",
+        "supabase.dev",
+        "threadbase.dev"
+      ]
+    },
+    {
+      "rank": 54,
+      "domain": "brain",
+      "count": 8,
+      "domain_names": [
+        "aidbrain.dev",
+        "braingame.dev",
+        "brainpolo.dev",
+        "brainrocks.dev",
+        "brainworms.dev",
+        "dishbrain.dev",
+        "idlebrain.dev",
+        "notoriousbrain.dev"
+      ]
+    },
+    {
+      "rank": 55,
+      "domain": "buddy",
+      "count": 8,
+      "domain_names": [
+        "buddy.dev",
+        "codingbuddy.dev",
+        "deploybuddy.dev",
+        "duckbuddy.dev",
+        "onboarding-buddy.dev",
+        "sharebuddy.dev",
+        "storebuddy.dev",
+        "tastebuddy.dev"
+      ]
+    },
+    {
+      "rank": 56,
+      "domain": "codex",
+      "count": 8,
+      "domain_names": [
+        "codex-ai.dev",
+        "codexagents.dev",
+        "codexhub.dev",
+        "codexsystem.dev",
+        "codexsystems.dev",
+        "deepcodex.dev",
+        "hohocodex.dev",
+        "openai-codex.dev"
+      ]
+    },
+    {
+      "rank": 57,
+      "domain": "coding",
+      "count": 8,
+      "domain_names": [
+        "codingbuddy.dev",
+        "codinginterviews.dev",
+        "codingprojects.dev",
+        "codingschool.dev",
+        "fantasycoding.dev",
+        "gencoding.dev",
+        "mastercoding.dev",
+        "titancoding.dev"
+      ]
+    },
+    {
+      "rank": 58,
+      "domain": "coin",
+      "count": 8,
+      "domain_names": [
+        "convictioncoin.dev",
+        "dadcoin.dev",
+        "flexcoin.dev",
+        "hyperioncoin.dev",
+        "rocketcoin.dev",
+        "scicoin.dev",
+        "shieldcoin.dev",
+        "spacecoin.dev"
+      ]
+    },
+    {
+      "rank": 59,
+      "domain": "docs",
+      "count": 8,
+      "domain_names": [
+        "axiomdocs.dev",
+        "blueprintdocs.dev",
+        "dev-docs.dev",
+        "dirtydocs.dev",
+        "docshound.dev",
+        "heydocs.dev",
+        "hyperdocs.dev",
+        "promodocs.dev"
+      ]
+    },
+    {
+      "rank": 60,
+      "domain": "dream",
+      "count": 8,
+      "domain_names": [
+        "dreamcanyon.dev",
+        "dreamdevelopers.dev",
+        "dreamfactory.dev",
+        "dreamgen.dev",
+        "dreamscroll.dev",
+        "dreamvision.dev",
+        "dreamwhisper.dev",
+        "ourdream.dev"
+      ]
+    },
+    {
+      "rank": 61,
+      "domain": "engine",
+      "count": 8,
+      "domain_names": [
+        "codeengine.dev",
+        "crowdengine.dev",
+        "decisionengine.dev",
+        "engineers.dev",
+        "game-engine.dev",
+        "knowledgeengine.dev",
+        "outcomeengine.dev",
+        "serenityengine.dev"
+      ]
+    },
+    {
+      "rank": 62,
+      "domain": "future",
+      "count": 8,
+      "domain_names": [
+        "futureframe.dev",
+        "futureperfect.dev",
+        "futurestate.dev",
+        "futuretate.dev",
+        "futurework.dev",
+        "sustainablefuture.dev",
+        "sustainingfuture.dev",
+        "yourfuture.dev"
+      ]
+    },
+    {
+      "rank": 63,
+      "domain": "game",
+      "count": 8,
+      "domain_names": [
+        "artgame.dev",
+        "braingame.dev",
+        "damangame.dev",
+        "game-engine.dev",
+        "gameassets.dev",
+        "gamebanca.dev",
+        "green-game-hub.dev",
+        "rocket-game.dev"
+      ]
+    },
+    {
+      "rank": 64,
+      "domain": "land",
+      "count": 8,
+      "domain_names": [
+        "farland.dev",
+        "landmaze.dev",
+        "landsky.dev",
+        "landtrain.dev",
+        "novaland.dev",
+        "radishland.dev",
+        "rivaland.dev",
+        "totland.dev"
+      ]
+    },
+    {
+      "rank": 65,
+      "domain": "list",
+      "count": 8,
+      "domain_names": [
+        "brutalist.dev",
+        "chatlist.dev",
+        "friendslist.dev",
+        "hiddenlist.dev",
+        "list-it.dev",
+        "list.dev",
+        "pagelist.dev",
+        "whitelist.dev"
+      ]
+    },
+    {
+      "rank": 66,
+      "domain": "loop",
+      "count": 8,
+      "domain_names": [
+        "launchloop.dev",
+        "loopfeedback.dev",
+        "loophole.dev",
+        "looprun.dev",
+        "loopster.dev",
+        "perfectloop.dev",
+        "protoloop.dev",
+        "twistedloop.dev"
+      ]
+    },
+    {
+      "rank": 67,
+      "domain": "network",
+      "count": 8,
+      "domain_names": [
+        "authnetwork.dev",
+        "fathersnetwork.dev",
+        "lifenetwork.dev",
+        "networksharing.dev",
+        "phantomnetwork.dev",
+        "pointnetwork.dev",
+        "unchainnetwork.dev",
+        "witnessnetwork.dev"
+      ]
+    },
+    {
+      "rank": 68,
+      "domain": "nova",
+      "count": 8,
+      "domain_names": [
+        "carbonova.dev",
+        "novaland.dev",
+        "novamobile.dev",
+        "novapulse.dev",
+        "novatech.dev",
+        "playnova.dev",
+        "sparklingnova.dev",
+        "teamnova.dev"
+      ]
+    },
+    {
+      "rank": 69,
+      "domain": "pilot",
+      "count": 8,
+      "domain_names": [
+        "chatpilot.dev",
+        "flutterpilot.dev",
+        "keypilot.dev",
+        "pathpilot.dev",
+        "planpilot.dev",
+        "scalepilot.dev",
+        "scholarpilot.dev",
+        "spacepilot.dev"
+      ]
+    },
+    {
+      "rank": 70,
+      "domain": "stream",
+      "count": 8,
+      "domain_names": [
+        "cuestream.dev",
+        "french-stream.dev",
+        "headstream.dev",
+        "soundstream.dev",
+        "southstream.dev",
+        "streambit.dev",
+        "streamhouse.dev",
+        "streamprocessing.dev"
+      ]
+    },
+    {
+      "rank": 71,
+      "domain": "super",
+      "count": 8,
+      "domain_names": [
+        "superagentic.dev",
+        "superalign.dev",
+        "superbox.dev",
+        "supercompare.dev",
+        "supercourse.dev",
+        "superslim.dev",
+        "superstate.dev",
+        "supertape.dev"
+      ]
+    },
+    {
+      "rank": 72,
+      "domain": "test",
+      "count": 8,
+      "domain_names": [
+        "bc-dmarc-test-domain.dev",
+        "mov-test.dev",
+        "multipletest.dev",
+        "testbank.dev",
+        "testsoftware.dev",
+        "vicpryl-test-01-st-05.dev",
+        "vicpryl-test-01-st-08.dev",
+        "victortest.dev"
+      ]
+    },
+    {
+      "rank": 73,
+      "domain": "trade",
+      "count": 8,
+      "domain_names": [
+        "apex-trade.dev",
+        "speedtrade.dev",
+        "tradecontrol.dev",
+        "tradecontrols.dev",
+        "tradelaw.dev",
+        "tradelaws.dev",
+        "tradepro.dev",
+        "tradescans.dev"
+      ]
+    },
+    {
+      "rank": 74,
+      "domain": "agents",
+      "count": 7,
+      "domain_names": [
+        "agentsbuild.dev",
+        "agentshub.dev",
+        "auto-agents.dev",
+        "cloudagents.dev",
+        "codexagents.dev",
+        "get-agents.dev",
+        "theagents.dev"
+      ]
+    },
+    {
+      "rank": 75,
+      "domain": "deep",
+      "count": 7,
+      "domain_names": [
+        "deepclaude.dev",
+        "deepcodex.dev",
+        "deepdots.dev",
+        "deepest.dev",
+        "deepmixer.dev",
+        "deepthought.dev",
+        "deeptrust.dev"
+      ]
+    },
+    {
+      "rank": 76,
+      "domain": "delta",
+      "count": 7,
+      "domain_names": [
+        "delta.dev",
+        "deltacli.dev",
+        "deltaits.dev",
+        "deltarecon.dev",
+        "deltatrack.dev",
+        "deltatypes.dev",
+        "rubicondelta.dev"
+      ]
+    },
+    {
+      "rank": 77,
+      "domain": "flutter",
+      "count": 7,
+      "domain_names": [
+        "embedded-flutter.dev",
+        "embeddedflutter.dev",
+        "flutter-fest.dev",
+        "flutterfast.dev",
+        "flutterfest.dev",
+        "flutterlib.dev",
+        "flutterpilot.dev"
+      ]
+    },
+    {
+      "rank": 78,
+      "domain": "force",
+      "count": 7,
+      "domain_names": [
+        "cyberforce.dev",
+        "forcecode.dev",
+        "forcemultiplier.dev",
+        "infinityforce.dev",
+        "kinderforce.dev",
+        "promptforce.dev",
+        "rootforce.dev"
+      ]
+    },
+    {
+      "rank": 79,
+      "domain": "house",
+      "count": 7,
+      "domain_names": [
+        "bighouse.dev",
+        "bloomhouse.dev",
+        "saladhouse.dev",
+        "skillhouse.dev",
+        "streamhouse.dev",
+        "traphouse.dev",
+        "vibehouse.dev"
+      ]
+    },
+    {
+      "rank": 80,
+      "domain": "human",
+      "count": 7,
+      "domain_names": [
+        "approxhuman.dev",
+        "human-readable.dev",
+        "humancapitals.dev",
+        "humanist.dev",
+        "humanprotocol.dev",
+        "humantic.dev",
+        "stevehuman.dev"
+      ]
+    },
+    {
+      "rank": 81,
+      "domain": "launch",
+      "count": 7,
+      "domain_names": [
+        "autolaunch.dev",
+        "beatlaunch.dev",
+        "fastlaunch.dev",
+        "launch.dev",
+        "launchloop.dev",
+        "softlaunch.dev",
+        "sparklaunch.dev"
+      ]
+    },
+    {
+      "rank": 82,
+      "domain": "local",
+      "count": 7,
+      "domain_names": [
+        "hooplocal.dev",
+        "local-relevance-playground.dev",
+        "localhooks.dev",
+        "localise.dev",
+        "localprompt.dev",
+        "localwire.dev",
+        "yourlocal.dev"
+      ]
+    },
+    {
+      "rank": 83,
+      "domain": "mark",
+      "count": 7,
+      "domain_names": [
+        "automark.dev",
+        "getmark.dev",
+        "leafmark.dev",
+        "markable.dev",
+        "markmakes.dev",
+        "snowmark.dev",
+        "squidmark.dev"
+      ]
+    },
+    {
+      "rank": 84,
+      "domain": "media",
+      "count": 7,
+      "domain_names": [
+        "alcmedia.dev",
+        "backhousemedia.dev",
+        "bearmedia.dev",
+        "hypemedia.dev",
+        "matesmedia.dev",
+        "mediajinn.dev",
+        "tabmedia.dev"
+      ]
+    },
+    {
+      "rank": 85,
+      "domain": "node",
+      "count": 7,
+      "domain_names": [
+        "datanode.dev",
+        "docnode.dev",
+        "glyphnode.dev",
+        "modelnode.dev",
+        "nodenative.dev",
+        "nodeoperator.dev",
+        "nullnode.dev"
+      ]
+    },
+    {
+      "rank": 86,
+      "domain": "pixel",
+      "count": 7,
+      "domain_names": [
+        "pixelcrush.dev",
+        "pixelmotive.dev",
+        "pixelpier.dev",
+        "pixelsolid.dev",
+        "pixeltea.dev",
+        "pixelversed.dev",
+        "pixelwanderer.dev"
+      ]
+    },
+    {
+      "rank": 87,
+      "domain": "post",
+      "count": 7,
+      "domain_names": [
+        "pigeonpost.dev",
+        "postgres.dev",
+        "postscale.dev",
+        "postvibe.dev",
+        "postworry.dev",
+        "postzero.dev",
+        "waypost.dev"
+      ]
+    },
+    {
+      "rank": 88,
+      "domain": "root",
+      "count": 7,
+      "domain_names": [
+        "root-gear-technologies.dev",
+        "rootforce.dev",
+        "rootgeorge.dev",
+        "rootless.dev",
+        "rootsignals.dev",
+        "rootsource.dev",
+        "stackroot.dev"
+      ]
+    },
+    {
+      "rank": 89,
+      "domain": "script",
+      "count": 7,
+      "domain_names": [
+        "betascript.dev",
+        "formscript.dev",
+        "javascript.dev",
+        "openscript.dev",
+        "pushscript.dev",
+        "salsascript.dev",
+        "voidscript.dev"
+      ]
+    },
+    {
+      "rank": 90,
+      "domain": "skill",
+      "count": 7,
+      "domain_names": [
+        "betterskill.dev",
+        "skill-issues.dev",
+        "skill-patch.dev",
+        "skillbilly.dev",
+        "skillcraft.dev",
+        "skillcrucial.dev",
+        "skillhouse.dev"
+      ]
+    },
+    {
+      "rank": 91,
+      "domain": "smith",
+      "count": 7,
+      "domain_names": [
+        "brandsmith.dev",
+        "chasesmith.dev",
+        "chrismsmith.dev",
+        "codesmith.dev",
+        "emmettsmith.dev",
+        "rodericksmith.dev",
+        "simonsmith.dev"
+      ]
+    },
+    {
+      "rank": 92,
+      "domain": "spark",
+      "count": 7,
+      "domain_names": [
+        "danielspark.dev",
+        "promptspark.dev",
+        "sparkbit.dev",
+        "sparkbot.dev",
+        "sparkfun.dev",
+        "sparklaunch.dev",
+        "sparkroom.dev"
+      ]
+    },
+    {
+      "rank": 93,
+      "domain": "star",
+      "count": 7,
+      "domain_names": [
+        "datastar.dev",
+        "shiverstar.dev",
+        "starbot.dev",
+        "starcode.dev",
+        "starise.dev",
+        "starmain.dev",
+        "starveil.dev"
+      ]
+    },
+    {
+      "rank": 94,
+      "domain": "studio",
+      "count": 7,
+      "domain_names": [
+        "beyondstudio.dev",
+        "brandingstudio.dev",
+        "dashstudio.dev",
+        "nilstudio.dev",
+        "pentastudio.dev",
+        "tailstudio.dev",
+        "webcraft-studio.dev"
+      ]
+    },
+    {
+      "rank": 95,
+      "domain": "wave",
+      "count": 7,
+      "domain_names": [
+        "buildwave.dev",
+        "farmwave.dev",
+        "movewave.dev",
+        "noxwave.dev",
+        "serverwave.dev",
+        "timewave.dev",
+        "waveteam.dev"
+      ]
+    },
+    {
+      "rank": 96,
+      "domain": "wolf",
+      "count": 7,
+      "domain_names": [
+        "henrywolf.dev",
+        "howlingwolf.dev",
+        "wolfdog.dev",
+        "wolfprint.dev",
+        "wolfscribe.dev",
+        "wolfsight.dev",
+        "wolfstitch.dev"
+      ]
+    },
+    {
+      "rank": 97,
+      "domain": "work",
+      "count": 7,
+      "domain_names": [
+        "futurework.dev",
+        "workabo.dev",
+        "workcation.dev",
+        "workhelio.dev",
+        "workhours.dev",
+        "workhunt.dev",
+        "workmind.dev"
+      ]
+    },
+    {
+      "rank": 98,
+      "domain": "works",
+      "count": 7,
+      "domain_names": [
+        "binaryworks.dev",
+        "civicworks.dev",
+        "glissworks.dev",
+        "inkworks.dev",
+        "justworks.dev",
+        "kernelworks.dev",
+        "smallworks.dev"
+      ]
+    },
+    {
+      "rank": 99,
+      "domain": "agentic",
+      "count": 6,
+      "domain_names": [
+        "agentic-dev.dev",
+        "agentic-experiences.dev",
+        "agentically.dev",
+        "agenticapis.dev",
+        "openagentic.dev",
+        "superagentic.dev"
+      ]
+    },
+    {
+      "rank": 100,
+      "domain": "alex",
+      "count": 6,
+      "domain_names": [
+        "alex-ia.dev",
+        "alex-o.dev",
+        "alexariana.dev",
+        "alexharrison.dev",
+        "alexmac.dev",
+        "alextate.dev"
+      ]
+    },
+    {
+      "rank": 101,
+      "domain": "bits",
+      "count": 6,
+      "domain_names": [
+        "bitsfab.dev",
+        "bitshow.dev",
+        "bitsproxy.dev",
+        "cutebits.dev",
+        "frostybits.dev",
+        "iosbits.dev"
+      ]
+    },
+    {
+      "rank": 102,
+      "domain": "black",
+      "count": 6,
+      "domain_names": [
+        "blackgems.dev",
+        "blackhat.dev",
+        "blacklagoon.dev",
+        "blacklines.dev",
+        "blackverse.dev",
+        "blackwhale.dev"
+      ]
+    },
+    {
+      "rank": 103,
+      "domain": "block",
+      "count": 6,
+      "domain_names": [
+        "blockbot.dev",
+        "blockend.dev",
+        "blockfabric.dev",
+        "blockpart.dev",
+        "blockring.dev",
+        "blocksuite.dev"
+      ]
+    },
+    {
+      "rank": 104,
+      "domain": "blue",
+      "count": 6,
+      "domain_names": [
+        "blue-spot.dev",
+        "bluelot.dev",
+        "bluemed.dev",
+        "cloudblue.dev",
+        "fireblue.dev",
+        "skyblue.dev"
+      ]
+    },
+    {
+      "rank": 105,
+      "domain": "coder",
+      "count": 6,
+      "domain_names": [
+        "ai-coder.dev",
+        "coderservices.dev",
+        "everydaycoder.dev",
+        "fullcoder.dev",
+        "fulltimecoder.dev",
+        "turbancoder.dev"
+      ]
+    },
+    {
+      "rank": 106,
+      "domain": "creative",
+      "count": 6,
+      "domain_names": [
+        "advertcreative.dev",
+        "creativeboro.dev",
+        "creativelazy.dev",
+        "creativesyndicate.dev",
+        "dynamic-creative.dev",
+        "noahcreative.dev"
+      ]
+    },
+    {
+      "rank": 107,
+      "domain": "design",
+      "count": 6,
+      "domain_names": [
+        "aspire-design.dev",
+        "designstallion.dev",
+        "ethandesign.dev",
+        "etherdesign.dev",
+        "luminousdesign.dev",
+        "robertsdesign.dev"
+      ]
+    },
+    {
+      "rank": 108,
+      "domain": "fast",
+      "count": 6,
+      "domain_names": [
+        "deployfast.dev",
+        "fastdoc.dev",
+        "fastfeedback.dev",
+        "fastlaunch.dev",
+        "flutterfast.dev",
+        "onboardfast.dev"
+      ]
+    },
+    {
+      "rank": 109,
+      "domain": "fire",
+      "count": 6,
+      "domain_names": [
+        "firebin.dev",
+        "fireblue.dev",
+        "firecat.dev",
+        "firething.dev",
+        "flashfire.dev",
+        "wildfire.dev"
+      ]
+    },
+    {
+      "rank": 110,
+      "domain": "gabriel",
+      "count": 6,
+      "domain_names": [
+        "gabrielcampos.dev",
+        "gabrielcole.dev",
+        "gabrielhooks.dev",
+        "gabrielromero.dev",
+        "gabrielsnow.dev",
+        "gabrieltoledo.dev"
+      ]
+    },
+    {
+      "rank": 111,
+      "domain": "gold",
+      "count": 6,
+      "domain_names": [
+        "bitgold.dev",
+        "goldendome.dev",
+        "goldengem.dev",
+        "goldmines.dev",
+        "goldsignal.dev",
+        "heraeus-gold.dev"
+      ]
+    },
+    {
+      "rank": 112,
+      "domain": "green",
+      "count": 6,
+      "domain_names": [
+        "green-game-hub.dev",
+        "greeninvest.dev",
+        "greenleaves.dev",
+        "greennooks.dev",
+        "greenware.dev",
+        "lightgreen.dev"
+      ]
+    },
+    {
+      "rank": 113,
+      "domain": "hive",
+      "count": 6,
+      "domain_names": [
+        "hive-tendering.dev",
+        "hive.dev",
+        "hivecode.dev",
+        "hivestack.dev",
+        "prompthive.dev",
+        "pulsehive.dev"
+      ]
+    },
+    {
+      "rank": 114,
+      "domain": "less",
+      "count": 6,
+      "domain_names": [
+        "dagless.dev",
+        "dockless.dev",
+        "headless.dev",
+        "lessannoying.dev",
+        "rootless.dev",
+        "zeroless.dev"
+      ]
+    },
+    {
+      "rank": 115,
+      "domain": "matt",
+      "count": 6,
+      "domain_names": [
+        "automatt.dev",
+        "matt-harrell.dev",
+        "mattchs.dev",
+        "mattherman.dev",
+        "matthew.dev",
+        "mattrix.dev"
+      ]
+    },
+    {
+      "rank": 116,
+      "domain": "mesh",
+      "count": 6,
+      "domain_names": [
+        "echomesh.dev",
+        "geo-mesh.dev",
+        "meshlike.dev",
+        "metamesh.dev",
+        "runmesh.dev",
+        "spacemesh.dev"
+      ]
+    },
+    {
+      "rank": 117,
+      "domain": "model",
+      "count": 6,
+      "domain_names": [
+        "hypermodel.dev",
+        "modellab.dev",
+        "modellabs.dev",
+        "modelnode.dev",
+        "modelnodes.dev",
+        "modelplug.dev"
+      ]
+    },
+    {
+      "rank": 118,
+      "domain": "ping",
+      "count": 6,
+      "domain_names": [
+        "bootstrapping.dev",
+        "chiping.dev",
+        "highping.dev",
+        "pingback.dev",
+        "polarping.dev",
+        "schow-ping.dev"
+      ]
+    },
+    {
+      "rank": 119,
+      "domain": "play",
+      "count": 6,
+      "domain_names": [
+        "galaxyplay.dev",
+        "peakplay.dev",
+        "playability.dev",
+        "playabl.dev",
+        "playnova.dev",
+        "playsandbox.dev"
+      ]
+    },
+    {
+      "rank": 120,
+      "domain": "react",
+      "count": 6,
+      "domain_names": [
+        "c-react.dev",
+        "hire-react.dev",
+        "reactchain.dev",
+        "reactpage.dev",
+        "reactsignify.dev",
+        "reacttoolkit.dev"
+      ]
+    },
+    {
+      "rank": 121,
+      "domain": "sandbox",
+      "count": 6,
+      "domain_names": [
+        "capx-sandbox.dev",
+        "cloud-ops-sandbox.dev",
+        "energy-sandbox.dev",
+        "joe-sandbox.dev",
+        "playsandbox.dev",
+        "testingsandbox.dev"
+      ]
+    },
+    {
+      "rank": 122,
+      "domain": "server",
+      "count": 6,
+      "domain_names": [
+        "keyserver.dev",
+        "next-mcp-server.dev",
+        "pushserver.dev",
+        "server-admin.dev",
+        "servercamp.dev",
+        "serverwave.dev"
+      ]
+    },
+    {
+      "rank": 123,
+      "domain": "sphere",
+      "count": 6,
+      "domain_names": [
+        "azuresphere.dev",
+        "mindsphere.dev",
+        "omnisphere.dev",
+        "projectsphere.dev",
+        "squaresphere.dev",
+        "stellarsphere.dev"
+      ]
+    },
+    {
+      "rank": 124,
+      "domain": "swift",
+      "count": 6,
+      "domain_names": [
+        "cyberswift.dev",
+        "swift-ai.dev",
+        "swiftbrothers.dev",
+        "swiftkit.dev",
+        "swiftwind.dev",
+        "ultraswift.dev"
+      ]
+    },
+    {
+      "rank": 125,
+      "domain": "task",
+      "count": 6,
+      "domain_names": [
+        "cybertask.dev",
+        "task.dev",
+        "taskautomate.dev",
+        "taskmagic.dev",
+        "taskpro.dev",
+        "taskura.dev"
+      ]
+    },
+    {
+      "rank": 126,
+      "domain": "tiny",
+      "count": 6,
+      "domain_names": [
+        "des-tiny.dev",
+        "destiny.dev",
+        "tinycomet.dev",
+        "tinydoodles.dev",
+        "tinytoolbox.dev",
+        "tinyworlds.dev"
+      ]
+    },
+    {
+      "rank": 127,
+      "domain": "trust",
+      "count": 6,
+      "domain_names": [
+        "deeptrust.dev",
+        "immediatetrust.dev",
+        "justtrust.dev",
+        "trustbox.dev",
+        "trustlens.dev",
+        "trusttoken.dev"
+      ]
+    },
+    {
+      "rank": 128,
+      "domain": "verse",
+      "count": 6,
+      "domain_names": [
+        "blackverse.dev",
+        "freyaverse.dev",
+        "mixverse.dev",
+        "mockverse.dev",
+        "pixyverse.dev",
+        "projectverse.dev"
+      ]
+    },
+    {
+      "rank": 129,
+      "domain": "west",
+      "count": 6,
+      "domain_names": [
+        "drakewest.dev",
+        "nextwest.dev",
+        "phoenixwest.dev",
+        "westcairo.dev",
+        "westface.dev",
+        "westmore.dev"
+      ]
+    },
+    {
+      "rank": 130,
+      "domain": "your",
+      "count": 6,
+      "domain_names": [
+        "yourbank.dev",
+        "yourbrainy.dev",
+        "yourfuture.dev",
+        "yourlocal.dev",
+        "yoursidekick.dev",
+        "yourwebmaker.dev"
+      ]
+    },
+    {
+      "rank": 131,
+      "domain": "aaron",
+      "count": 5,
+      "domain_names": [
+        "aaroncarroll.dev",
+        "aaroncode.dev",
+        "aaronhub.dev",
+        "aaronservice.dev",
+        "aarontag.dev"
+      ]
+    },
+    {
+      "rank": 132,
+      "domain": "anti",
+      "count": 5,
+      "domain_names": [
+        "antifraud.dev",
+        "antigravity.dev",
+        "antipitch.dev",
+        "antiracist.dev",
+        "antiscam.dev"
+      ]
+    },
+    {
+      "rank": 133,
+      "domain": "auth",
+      "count": 5,
+      "domain_names": [
+        "authkeeper.dev",
+        "authnetwork.dev",
+        "shopauth.dev",
+        "vibeauth.dev",
+        "webauth.dev"
+      ]
+    },
+    {
+      "rank": 134,
+      "domain": "bear",
+      "count": 5,
+      "domain_names": [
+        "bearfearful.dev",
+        "bearlight.dev",
+        "bearmedia.dev",
+        "jer-bear.dev",
+        "teddybear.dev"
+      ]
+    },
+    {
+      "rank": 135,
+      "domain": "beta",
+      "count": 5,
+      "domain_names": [
+        "betabuilder.dev",
+        "betaground.dev",
+        "betascript.dev",
+        "claire-ai-beta.dev",
+        "elizabeta.dev"
+      ]
+    },
+    {
+      "rank": 136,
+      "domain": "book",
+      "count": 5,
+      "domain_names": [
+        "bookflux.dev",
+        "booksim.dev",
+        "cablebook.dev",
+        "finbook.dev",
+        "webbook.dev"
+      ]
+    },
+    {
+      "rank": 137,
+      "domain": "bridge",
+      "count": 5,
+      "domain_names": [
+        "bridgeberry.dev",
+        "bridgesense.dev",
+        "chatbridge.dev",
+        "infobridge.dev",
+        "whizzbridge.dev"
+      ]
+    },
+    {
+      "rank": 138,
+      "domain": "builder",
+      "count": 5,
+      "domain_names": [
+        "betabuilder.dev",
+        "builder.dev",
+        "property-builder-virtues.dev",
+        "rulebuilder.dev",
+        "spacebuilder.dev"
+      ]
+    },
+    {
+      "rank": 139,
+      "domain": "connect",
+      "count": 5,
+      "domain_names": [
+        "fanconnect.dev",
+        "knightconnect.dev",
+        "soundconnect.dev",
+        "teamconnect.dev",
+        "webconnect.dev"
+      ]
+    },
+    {
+      "rank": 140,
+      "domain": "control",
+      "count": 5,
+      "domain_names": [
+        "altcontrol.dev",
+        "cloudcontrol.dev",
+        "control-j.dev",
+        "exportcontrol.dev",
+        "tradecontrol.dev"
+      ]
+    },
+    {
+      "rank": 141,
+      "domain": "crypto",
+      "count": 5,
+      "domain_names": [
+        "buycrypto.dev",
+        "cryptomind.dev",
+        "cryptomining.dev",
+        "cryptoprice.dev",
+        "cryptovector.dev"
+      ]
+    },
+    {
+      "rank": 142,
+      "domain": "deploy",
+      "count": 5,
+      "domain_names": [
+        "deploy-man.dev",
+        "deploybuddy.dev",
+        "deployfast.dev",
+        "deploythings.dev",
+        "webdeploy.dev"
+      ]
+    },
+    {
+      "rank": 143,
+      "domain": "eval",
+      "count": 5,
+      "domain_names": [
+        "evalagent.dev",
+        "evalchat.dev",
+        "evalmonkey.dev",
+        "geteval.dev",
+        "runeval.dev"
+      ]
+    },
+    {
+      "rank": 144,
+      "domain": "flux",
+      "count": 5,
+      "domain_names": [
+        "1p21-flux.dev",
+        "bookflux.dev",
+        "fluxteam.dev",
+        "konflux.dev",
+        "mergeflux.dev"
+      ]
+    },
+    {
+      "rank": 145,
+      "domain": "frame",
+      "count": 5,
+      "domain_names": [
+        "adamframe.dev",
+        "backframe.dev",
+        "forgottenframe.dev",
+        "frameport.dev",
+        "futureframe.dev"
+      ]
+    },
+    {
+      "rank": 146,
+      "domain": "front",
+      "count": 5,
+      "domain_names": [
+        "flexfront.dev",
+        "fronteer.dev",
+        "frontend.dev",
+        "fronthan.dev",
+        "magicfront.dev"
+      ]
+    },
+    {
+      "rank": 147,
+      "domain": "gent",
+      "count": 5,
+      "domain_names": [
+        "bigagent.dev",
+        "genagent.dev",
+        "mergent.dev",
+        "pyagent.dev",
+        "secretagent.dev"
+      ]
+    },
+    {
+      "rank": 148,
+      "domain": "ghost",
+      "count": 5,
+      "domain_names": [
+        "buildghost.dev",
+        "ghostchain.dev",
+        "ghostfiles.dev",
+        "ghostops.dev",
+        "ghostscreen.dev"
+      ]
+    },
+    {
+      "rank": 149,
+      "domain": "good",
+      "count": 5,
+      "domain_names": [
+        "failgood.dev",
+        "good-vibes-software.dev",
+        "goodlab.dev",
+        "goodling.dev",
+        "goodstuff.dev"
+      ]
+    },
+    {
+      "rank": 150,
+      "domain": "hack",
+      "count": 5,
+      "domain_names": [
+        "hackflow.dev",
+        "hackfund.dev",
+        "hacklink.dev",
+        "hackpress.dev",
+        "planethack.dev"
+      ]
+    },
+    {
+      "rank": 151,
+      "domain": "head",
+      "count": 5,
+      "domain_names": [
+        "headless.dev",
+        "headpop.dev",
+        "headshot.dev",
+        "headstream.dev",
+        "puzzlehead.dev"
+      ]
+    },
+    {
+      "rank": 152,
+      "domain": "hire",
+      "count": 5,
+      "domain_names": [
+        "dunshire.dev",
+        "hire-me.dev",
+        "hire-react.dev",
+        "hiretech.dev",
+        "hirevibe.dev"
+      ]
+    },
+    {
+      "rank": 153,
+      "domain": "infra",
+      "count": 5,
+      "domain_names": [
+        "infracraft.dev",
+        "infraforge.dev",
+        "inframarauder.dev",
+        "infrarune.dev",
+        "vibeinfra.dev"
+      ]
+    },
+    {
+      "rank": 154,
+      "domain": "inter",
+      "count": 5,
+      "domain_names": [
+        "interceptor.dev",
+        "intergate.dev",
+        "intergiro.dev",
+        "interlang.dev",
+        "interview.dev"
+      ]
+    },
+    {
+      "rank": 155,
+      "domain": "jason",
+      "count": 5,
+      "domain_names": [
+        "jason-armenta.dev",
+        "jason-verbracken.dev",
+        "jasonables.dev",
+        "jasongrim.dev",
+        "jasonward.dev"
+      ]
+    },
+    {
+      "rank": 156,
+      "domain": "jordan",
+      "count": 5,
+      "domain_names": [
+        "jordan-barton.dev",
+        "jordancortes.dev",
+        "jordannorth.dev",
+        "jordanwilson.dev",
+        "taylorjordan.dev"
+      ]
+    },
+    {
+      "rank": 157,
+      "domain": "legal",
+      "count": 5,
+      "domain_names": [
+        "clearlylegal.dev",
+        "legalese.dev",
+        "legaljelly.dev",
+        "legalloyd.dev",
+        "legalstack.dev"
+      ]
+    },
+    {
+      "rank": 158,
+      "domain": "light",
+      "count": 5,
+      "domain_names": [
+        "bearlight.dev",
+        "lightdarkness.dev",
+        "lightfury.dev",
+        "lightgreen.dev",
+        "pathlight.dev"
+      ]
+    },
+    {
+      "rank": 159,
+      "domain": "load",
+      "count": 5,
+      "domain_names": [
+        "load-ev.dev",
+        "load.dev",
+        "loadbyte.dev",
+        "loadforge.dev",
+        "zenload.dev"
+      ]
+    },
+    {
+      "rank": 160,
+      "domain": "lock",
+      "count": 5,
+      "domain_names": [
+        "bitlock.dev",
+        "edgelock.dev",
+        "flintlock.dev",
+        "lock.dev",
+        "stocklock.dev"
+      ]
+    },
+    {
+      "rank": 161,
+      "domain": "love",
+      "count": 5,
+      "domain_names": [
+        "love-coffee.dev",
+        "love.dev",
+        "loveapp.dev",
+        "makelove.dev",
+        "obslove.dev"
+      ]
+    },
+    {
+      "rank": 162,
+      "domain": "mail",
+      "count": 5,
+      "domain_names": [
+        "mailcatch.dev",
+        "mailflame.dev",
+        "mailler.dev",
+        "raymail.dev",
+        "voicemail.dev"
+      ]
+    },
+    {
+      "rank": 163,
+      "domain": "make",
+      "count": 5,
+      "domain_names": [
+        "makeapp.dev",
+        "makechat.dev",
+        "makedestroy.dev",
+        "makelab.dev",
+        "makelove.dev"
+      ]
+    },
+    {
+      "rank": 164,
+      "domain": "mike",
+      "count": 5,
+      "domain_names": [
+        "mike-vincent.dev",
+        "mike.dev",
+        "mikeelias.dev",
+        "mikefey.dev",
+        "mikeholland.dev"
+      ]
+    },
+    {
+      "rank": 165,
+      "domain": "mode",
+      "count": 5,
+      "domain_names": [
+        "alphamode.dev",
+        "engmode.dev",
+        "firstmode.dev",
+        "premode.dev",
+        "vibemode.dev"
+      ]
+    },
+    {
+      "rank": 166,
+      "domain": "more",
+      "count": 5,
+      "domain_names": [
+        "evenmore.dev",
+        "ingamore.dev",
+        "moreality.dev",
+        "morestack.dev",
+        "westmore.dev"
+      ]
+    },
+    {
+      "rank": 167,
+      "domain": "nathan",
+      "count": 5,
+      "domain_names": [
+        "nathan-carter.dev",
+        "nathan.dev",
+        "nathancooper.dev",
+        "nathanfletcher.dev",
+        "ramanathan.dev"
+      ]
+    },
+    {
+      "rank": 168,
+      "domain": "nest",
+      "count": 5,
+      "domain_names": [
+        "autonest.dev",
+        "nimnest.dev",
+        "opennest.dev",
+        "rooknest.dev",
+        "zennest.dev"
+      ]
+    },
+    {
+      "rank": 169,
+      "domain": "pace",
+      "count": 5,
+      "domain_names": [
+        "minispace.dev",
+        "pacetrack.dev",
+        "ramspace.dev",
+        "tailspace.dev",
+        "visitspace.dev"
+      ]
+    },
+    {
+      "rank": 170,
+      "domain": "page",
+      "count": 5,
+      "domain_names": [
+        "compage.dev",
+        "gasterus-page.dev",
+        "gitpage.dev",
+        "pagelist.dev",
+        "reactpage.dev"
+      ]
+    },
+    {
+      "rank": 171,
+      "domain": "path",
+      "count": 5,
+      "domain_names": [
+        "clear-path.dev",
+        "pathlight.dev",
+        "pathpilot.dev",
+        "pathspec.dev",
+        "stellarpath.dev"
+      ]
+    },
+    {
+      "rank": 172,
+      "domain": "plus",
+      "count": 5,
+      "domain_names": [
+        "bingoplus.dev",
+        "peopleplus.dev",
+        "staffplus.dev",
+        "timeplus.dev",
+        "ultraplus.dev"
+      ]
+    },
+    {
+      "rank": 173,
+      "domain": "proto",
+      "count": 5,
+      "domain_names": [
+        "protobuild.dev",
+        "protocraft.dev",
+        "protoduction.dev",
+        "protoloop.dev",
+        "prototype.dev"
+      ]
+    },
+    {
+      "rank": 174,
+      "domain": "quant",
+      "count": 5,
+      "domain_names": [
+        "quantanet.dev",
+        "quantara.dev",
+        "quantbot.dev",
+        "quantera.dev",
+        "quanture.dev"
+      ]
+    },
+    {
+      "rank": 175,
+      "domain": "quick",
+      "count": 5,
+      "domain_names": [
+        "quick-start.dev",
+        "quickbites.dev",
+        "quickcost.dev",
+        "quickquote.dev",
+        "quicktemplates.dev"
+      ]
+    },
+    {
+      "rank": 176,
+      "domain": "rise",
+      "count": 5,
+      "domain_names": [
+        "hayrise.dev",
+        "rise.dev",
+        "riseabove.dev",
+        "riseweb.dev",
+        "starise.dev"
+      ]
+    },
+    {
+      "rank": 177,
+      "domain": "sense",
+      "count": 5,
+      "domain_names": [
+        "bridgesense.dev",
+        "groupsense.dev",
+        "microsense.dev",
+        "sense.dev",
+        "smartsense.dev"
+      ]
+    },
+    {
+      "rank": 178,
+      "domain": "signal",
+      "count": 5,
+      "domain_names": [
+        "goldsignal.dev",
+        "quietsignal.dev",
+        "signalboard.dev",
+        "signalchain.dev",
+        "signalsift.dev"
+      ]
+    },
+    {
+      "rank": 179,
+      "domain": "social",
+      "count": 5,
+      "domain_names": [
+        "cloudhub-social-dev.dev",
+        "cloudhub-social-stg.dev",
+        "codedsocial.dev",
+        "giftedsocial.dev",
+        "socialdistancing.dev"
+      ]
+    },
+    {
+      "rank": 180,
+      "domain": "state",
+      "count": 5,
+      "domain_names": [
+        "futurestate.dev",
+        "knowledgestate.dev",
+        "statesystem.dev",
+        "statesystems.dev",
+        "superstate.dev"
+      ]
+    },
+    {
+      "rank": 181,
+      "domain": "stock",
+      "count": 5,
+      "domain_names": [
+        "stockbattles.dev",
+        "stockbroker.dev",
+        "stockholm.dev",
+        "stockinvesting.dev",
+        "stocklock.dev"
+      ]
+    },
+    {
+      "rank": 182,
+      "domain": "swap",
+      "count": 5,
+      "domain_names": [
+        "hyperswap.dev",
+        "swap.dev",
+        "swapdusty.dev",
+        "swaplink.dev",
+        "uniswap.dev"
+      ]
+    },
+    {
+      "rank": 183,
+      "domain": "technology",
+      "count": 5,
+      "domain_names": [
+        "oceanictechnology.dev",
+        "sonstechnology.dev",
+        "technologyexplorer.dev",
+        "universitytechnology.dev",
+        "webtechnology.dev"
+      ]
+    },
+    {
+      "rank": 184,
+      "domain": "track",
+      "count": 5,
+      "domain_names": [
+        "backtrack.dev",
+        "deltatrack.dev",
+        "pacetrack.dev",
+        "track.dev",
+        "tracklink.dev"
+      ]
+    },
+    {
+      "rank": 185,
+      "domain": "watch",
+      "count": 5,
+      "domain_names": [
+        "arguswatch.dev",
+        "dronewatch.dev",
+        "leakwatch.dev",
+        "watchthis.dev",
+        "watchwrestling.dev"
+      ]
+    },
+    {
+      "rank": 186,
+      "domain": "wire",
+      "count": 5,
+      "domain_names": [
+        "audiowire.dev",
+        "buildwire.dev",
+        "imagewire.dev",
+        "localwire.dev",
+        "videowire.dev"
+      ]
+    },
+    {
+      "rank": 187,
+      "domain": "admin",
+      "count": 4,
+      "domain_names": [
+        "mvp-admin.dev",
+        "nodejs-admin-panel.dev",
+        "openadmin.dev",
+        "server-admin.dev"
+      ]
+    },
+    {
+      "rank": 188,
+      "domain": "agency",
+      "count": 4,
+      "domain_names": [
+        "breakfree-agency.dev",
+        "digitalagency.dev",
+        "obviousagency.dev",
+        "vortex-agency.dev"
+      ]
+    },
+    {
+      "rank": 189,
+      "domain": "ally",
+      "count": 4,
+      "domain_names": [
+        "agentically.dev",
+        "ally-ui.dev",
+        "ally.dev",
+        "trially.dev"
+      ]
+    },
+    {
+      "rank": 190,
+      "domain": "audit",
+      "count": 4,
+      "domain_names": [
+        "auditledger.dev",
+        "auditlog.dev",
+        "auditron.dev",
+        "siteaudit.dev"
+      ]
+    },
+    {
+      "rank": 191,
+      "domain": "business",
+      "count": 4,
+      "domain_names": [
+        "businesscopilot.dev",
+        "businessonline.dev",
+        "businessstarters.dev",
+        "tiktok-business-new.dev"
+      ]
+    },
+    {
+      "rank": 192,
+      "domain": "bytes",
+      "count": 4,
+      "domain_names": [
+        "ragnarbytes.dev",
+        "shadowbytes.dev",
+        "stealthbytes.dev",
+        "yogibytes.dev"
+      ]
+    },
+    {
+      "rank": 193,
+      "domain": "click",
+      "count": 4,
+      "domain_names": [
+        "click.dev",
+        "clickgate.dev",
+        "clickmaster.dev",
+        "sideclick.dev"
+      ]
+    },
+    {
+      "rank": 194,
+      "domain": "club",
+      "count": 4,
+      "domain_names": [
+        "elixirclub.dev",
+        "hitclub.dev",
+        "luxuryclub.dev",
+        "sliceclub.dev"
+      ]
+    },
+    {
+      "rank": 195,
+      "domain": "corn",
+      "count": 4,
+      "domain_names": [
+        "corn.dev",
+        "cornflower.dev",
+        "cornwall.dev",
+        "unicorn.dev"
+      ]
+    },
+    {
+      "rank": 196,
+      "domain": "cross",
+      "count": 4,
+      "domain_names": [
+        "crossable.dev",
+        "crosscopy.dev",
+        "crosssonic.dev",
+        "davidcross.dev"
+      ]
+    },
+    {
+      "rank": 197,
+      "domain": "daniel",
+      "count": 4,
+      "domain_names": [
+        "danielcodes.dev",
+        "danieldobos.dev",
+        "danielpinto.dev",
+        "danielspark.dev"
+      ]
+    },
+    {
+      "rank": 198,
+      "domain": "dash",
+      "count": 4,
+      "domain_names": [
+        "damedash.dev",
+        "dashstudio.dev",
+        "ideadash.dev",
+        "thedash.dev"
+      ]
+    },
+    {
+      "rank": 199,
+      "domain": "duck",
+      "count": 4,
+      "domain_names": [
+        "danduck.dev",
+        "duckbuddy.dev",
+        "quackduck.dev",
+        "sleepyduck.dev"
+      ]
+    },
+    {
+      "rank": 200,
+      "domain": "dynamic",
+      "count": 4,
+      "domain_names": [
+        "dynamic-arts3.dev",
+        "dynamic-arts4.dev",
+        "dynamic-arts5.dev",
+        "dynamic-creative.dev"
+      ]
+    },
+    {
+      "rank": 201,
+      "domain": "echo",
+      "count": 4,
+      "domain_names": [
+        "echocloud.dev",
+        "echohook.dev",
+        "echomesh.dev",
+        "echostack.dev"
+      ]
+    },
+    {
+      "rank": 202,
+      "domain": "effect",
+      "count": 4,
+      "domain_names": [
+        "blessingeffect.dev",
+        "effect.dev",
+        "learn-effect.dev",
+        "learneffect.dev"
+      ]
+    },
+    {
+      "rank": 203,
+      "domain": "email",
+      "count": 4,
+      "domain_names": [
+        "awesomeemail.dev",
+        "email-index.dev",
+        "emailheaders.dev",
+        "emailtemplates.dev"
+      ]
+    },
+    {
+      "rank": 204,
+      "domain": "ense",
+      "count": 4,
+      "domain_names": [
+        "bridgesense.dev",
+        "groupsense.dev",
+        "microsense.dev",
+        "smartsense.dev"
+      ]
+    },
+    {
+      "rank": 205,
+      "domain": "error",
+      "count": 4,
+      "domain_names": [
+        "error.dev",
+        "errorware.dev",
+        "solverror.dev",
+        "throwerror.dev"
+      ]
+    },
+    {
+      "rank": 206,
+      "domain": "even",
+      "count": 4,
+      "domain_names": [
+        "even.dev",
+        "evenmore.dev",
+        "eventable.dev",
+        "eventry.dev"
+      ]
+    },
+    {
+      "rank": 207,
+      "domain": "fair",
+      "count": 4,
+      "domain_names": [
+        "fairdee.dev",
+        "fairness.dev",
+        "fairpari.dev",
+        "mayfair.dev"
+      ]
+    },
+    {
+      "rank": 208,
+      "domain": "first",
+      "count": 4,
+      "domain_names": [
+        "first-commit.dev",
+        "firstmode.dev",
+        "firstyear.dev",
+        "subscriptionfirst.dev"
+      ]
+    },
+    {
+      "rank": 209,
+      "domain": "flower",
+      "count": 4,
+      "domain_names": [
+        "codeflower.dev",
+        "cornflower.dev",
+        "flowerfugue.dev",
+        "mayflower.dev"
+      ]
+    },
+    {
+      "rank": 210,
+      "domain": "geek",
+      "count": 4,
+      "domain_names": [
+        "geekops.dev",
+        "nerdgeek.dev",
+        "nextgeek.dev",
+        "woogeek.dev"
+      ]
+    },
+    {
+      "rank": 211,
+      "domain": "gets",
+      "count": 4,
+      "domain_names": [
+        "getselect.dev",
+        "getsshift.dev",
+        "getstacked.dev",
+        "getswarm.dev"
+      ]
+    },
+    {
+      "rank": 212,
+      "domain": "group",
+      "count": 4,
+      "domain_names": [
+        "estates-group.dev",
+        "groupsense.dev",
+        "honeycombgroup.dev",
+        "peergroup.dev"
+      ]
+    },
+    {
+      "rank": 213,
+      "domain": "harrison",
+      "count": 4,
+      "domain_names": [
+        "alexharrison.dev",
+        "ericharrison.dev",
+        "harrisonminer.dev",
+        "joshharrison.dev"
+      ]
+    },
+    {
+      "rank": 214,
+      "domain": "health",
+      "count": 4,
+      "domain_names": [
+        "benchmarkhealth.dev",
+        "developerhealth.dev",
+        "holistichealth.dev",
+        "metahealth.dev"
+      ]
+    },
+    {
+      "rank": 215,
+      "domain": "hero",
+      "count": 4,
+      "domain_names": [
+        "heropay.dev",
+        "heroprompt.dev",
+        "onboardhero.dev",
+        "rusthero.dev"
+      ]
+    },
+    {
+      "rank": 216,
+      "domain": "host",
+      "count": 4,
+      "domain_names": [
+        "exceptionalhost.dev",
+        "hostbott.dev",
+        "hostfunnels.dev",
+        "hosthaven.dev"
+      ]
+    },
+    {
+      "rank": 217,
+      "domain": "hunt",
+      "count": 4,
+      "domain_names": [
+        "huntrid.dev",
+        "profilehunt.dev",
+        "talenthunt.dev",
+        "workhunt.dev"
+      ]
+    },
+    {
+      "rank": 218,
+      "domain": "info",
+      "count": 4,
+      "domain_names": [
+        "infobridge.dev",
+        "infoeffects.dev",
+        "infosec.dev",
+        "justinfo.dev"
+      ]
+    },
+    {
+      "rank": 219,
+      "domain": "interview",
+      "count": 4,
+      "domain_names": [
+        "interview-ai.dev",
+        "interview.dev",
+        "interviewhacks.dev",
+        "iosinterview.dev"
+      ]
+    },
+    {
+      "rank": 220,
+      "domain": "lazy",
+      "count": 4,
+      "domain_names": [
+        "creativelazy.dev",
+        "lazyeight.dev",
+        "lazylog.dev",
+        "lazyteam.dev"
+      ]
+    },
+    {
+      "rank": 221,
+      "domain": "lead",
+      "count": 4,
+      "domain_names": [
+        "leaddev.dev",
+        "leadplatform.dev",
+        "leadsprint.dev",
+        "leadstrategy.dev"
+      ]
+    },
+    {
+      "rank": 222,
+      "domain": "learn",
+      "count": 4,
+      "domain_names": [
+        "learn-effect.dev",
+        "learneffect.dev",
+        "learneos.dev",
+        "learnplaywright.dev"
+      ]
+    },
+    {
+      "rank": 223,
+      "domain": "life",
+      "count": 4,
+      "domain_names": [
+        "has-a-life.dev",
+        "homelife.dev",
+        "lifenetwork.dev",
+        "lifesafety.dev"
+      ]
+    },
+    {
+      "rank": 224,
+      "domain": "ling",
+      "count": 4,
+      "domain_names": [
+        "curling.dev",
+        "goodling.dev",
+        "lingrem.dev",
+        "sterling.dev"
+      ]
+    },
+    {
+      "rank": 225,
+      "domain": "live",
+      "count": 4,
+      "domain_names": [
+        "chatlive.dev",
+        "ledgerlive.dev",
+        "livedeck.dev",
+        "outlive.dev"
+      ]
+    },
+    {
+      "rank": 226,
+      "domain": "logic",
+      "count": 4,
+      "domain_names": [
+        "formlogic.dev",
+        "frostbitelogic.dev",
+        "logicgates.dev",
+        "morphologic.dev"
+      ]
+    },
+    {
+      "rank": 227,
+      "domain": "magic",
+      "count": 4,
+      "domain_names": [
+        "magicfront.dev",
+        "magicpool.dev",
+        "magicvideo.dev",
+        "taskmagic.dev"
+      ]
+    },
+    {
+      "rank": 228,
+      "domain": "maker",
+      "count": 4,
+      "domain_names": [
+        "marketmaker.dev",
+        "mischiefmaker.dev",
+        "resumemaker.dev",
+        "saas-maker.dev"
+      ]
+    },
+    {
+      "rank": 229,
+      "domain": "michael",
+      "count": 4,
+      "domain_names": [
+        "karlmichael.dev",
+        "michael-vargas.dev",
+        "michaelides.dev",
+        "michaelluo.dev"
+      ]
+    },
+    {
+      "rank": 230,
+      "domain": "money",
+      "count": 4,
+      "domain_names": [
+        "eastmoney.dev",
+        "moneyjet.dev",
+        "moneylab.dev",
+        "sendmoney.dev"
+      ]
+    },
+    {
+      "rank": 231,
+      "domain": "monkey",
+      "count": 4,
+      "domain_names": [
+        "evalmonkey.dev",
+        "inkpot-monkey.dev",
+        "stoicmonkey.dev",
+        "wordmonkey.dev"
+      ]
+    },
+    {
+      "rank": 232,
+      "domain": "moon",
+      "count": 4,
+      "domain_names": [
+        "coremoon.dev",
+        "eclipsemoon.dev",
+        "jackmoon.dev",
+        "mooncore.dev"
+      ]
+    },
+    {
+      "rank": 233,
+      "domain": "north",
+      "count": 4,
+      "domain_names": [
+        "jordannorth.dev",
+        "north.dev",
+        "northeastern.dev",
+        "northrealm.dev"
+      ]
+    },
+    {
+      "rank": 234,
+      "domain": "offer",
+      "count": 4,
+      "domain_names": [
+        "nextoffer.dev",
+        "offer.dev",
+        "offerglobe.dev",
+        "offerlink.dev"
+      ]
+    },
+    {
+      "rank": 235,
+      "domain": "omni",
+      "count": 4,
+      "domain_names": [
+        "omnigirl.dev",
+        "omniplex.dev",
+        "omniscan.dev",
+        "omnisphere.dev"
+      ]
+    },
+    {
+      "rank": 236,
+      "domain": "pass",
+      "count": 4,
+      "domain_names": [
+        "cattlepass.dev",
+        "cinepass.dev",
+        "passfail.dev",
+        "supapass.dev"
+      ]
+    },
+    {
+      "rank": 237,
+      "domain": "patterns",
+      "count": 4,
+      "domain_names": [
+        "firebasepatterns.dev",
+        "primarypatterns.dev",
+        "rubypatterns.dev",
+        "thinkingpatterns.dev"
+      ]
+    },
+    {
+      "rank": 238,
+      "domain": "plan",
+      "count": 4,
+      "domain_names": [
+        "dotplan.dev",
+        "flightplan.dev",
+        "planchon.dev",
+        "planpilot.dev"
+      ]
+    },
+    {
+      "rank": 239,
+      "domain": "point",
+      "count": 4,
+      "domain_names": [
+        "focalpoint.dev",
+        "mathpoint.dev",
+        "pointers.dev",
+        "pointnetwork.dev"
+      ]
+    },
+    {
+      "rank": 240,
+      "domain": "press",
+      "count": 4,
+      "domain_names": [
+        "compress.dev",
+        "hackpress.dev",
+        "meowpress.dev",
+        "rosterpress.dev"
+      ]
+    },
+    {
+      "rank": 241,
+      "domain": "preview",
+      "count": 4,
+      "domain_names": [
+        "corpreview.dev",
+        "linkpreview.dev",
+        "preview-sorare.dev",
+        "verdn-preview.dev"
+      ]
+    },
+    {
+      "rank": 242,
+      "domain": "relatory",
+      "count": 4,
+      "domain_names": [
+        "relatory-develop.dev",
+        "relatory-production.dev",
+        "relatory-staging.dev",
+        "relatory.dev"
+      ]
+    },
+    {
+      "rank": 243,
+      "domain": "resume",
+      "count": 4,
+      "domain_names": [
+        "resume-match.dev",
+        "resumegen.dev",
+        "resumemaker.dev",
+        "standardresume.dev"
+      ]
+    },
+    {
+      "rank": 244,
+      "domain": "review",
+      "count": 4,
+      "domain_names": [
+        "app-review.dev",
+        "codreview.dev",
+        "corpreview.dev",
+        "openreview.dev"
+      ]
+    },
+    {
+      "rank": 245,
+      "domain": "right",
+      "count": 4,
+      "domain_names": [
+        "right-tech.dev",
+        "right.dev",
+        "rightmap.dev",
+        "siliconright.dev"
+      ]
+    },
+    {
+      "rank": 246,
+      "domain": "rocket",
+      "count": 4,
+      "domain_names": [
+        "labrocket.dev",
+        "rocket-game.dev",
+        "rocketcity.dev",
+        "rocketcoin.dev"
+      ]
+    },
+    {
+      "rank": 247,
+      "domain": "scale",
+      "count": 4,
+      "domain_names": [
+        "autoscale.dev",
+        "postscale.dev",
+        "scalemate.dev",
+        "scalepilot.dev"
+      ]
+    },
+    {
+      "rank": 248,
+      "domain": "screen",
+      "count": 4,
+      "domain_names": [
+        "ghostscreen.dev",
+        "screen-free.dev",
+        "screen.dev",
+        "screenfree.dev"
+      ]
+    },
+    {
+      "rank": 249,
+      "domain": "shield",
+      "count": 4,
+      "domain_names": [
+        "camshield.dev",
+        "quantumshield.dev",
+        "shieldcoin.dev",
+        "shieldprobe.dev"
+      ]
+    },
+    {
+      "rank": 250,
+      "domain": "simple",
+      "count": 4,
+      "domain_names": [
+        "simplebet.dev",
+        "simplecontainer.dev",
+        "simplereports.dev",
+        "systems-made-simple.dev"
+      ]
+    },
+    {
+      "rank": 251,
+      "domain": "site",
+      "count": 4,
+      "domain_names": [
+        "farsite.dev",
+        "siteaudit.dev",
+        "sitehatch.dev",
+        "siteshift.dev"
+      ]
+    },
+    {
+      "rank": 252,
+      "domain": "small",
+      "count": 4,
+      "domain_names": [
+        "smallgeometry.dev",
+        "smallisland.dev",
+        "smallpotatoes.dev",
+        "smallworks.dev"
+      ]
+    },
+    {
+      "rank": 253,
+      "domain": "sound",
+      "count": 4,
+      "domain_names": [
+        "soundconnect.dev",
+        "soundfunder.dev",
+        "soundout.dev",
+        "soundstream.dev"
+      ]
+    },
+    {
+      "rank": 254,
+      "domain": "source",
+      "count": 4,
+      "domain_names": [
+        "quantasource.dev",
+        "rootsource.dev",
+        "silversource.dev",
+        "sourcefusion.dev"
+      ]
+    },
+    {
+      "rank": 255,
+      "domain": "spec",
+      "count": 4,
+      "domain_names": [
+        "leanspec.dev",
+        "pathspec.dev",
+        "specpal.dev",
+        "specraft.dev"
+      ]
+    },
+    {
+      "rank": 256,
+      "domain": "staging",
+      "count": 4,
+      "domain_names": [
+        "aventir-staging.dev",
+        "landingstaging.dev",
+        "relatory-staging.dev",
+        "verdn-staging.dev"
+      ]
+    },
+    {
+      "rank": 257,
+      "domain": "start",
+      "count": 4,
+      "domain_names": [
+        "lexstart.dev",
+        "quick-start.dev",
+        "squigglestart.dev",
+        "startnow.dev"
+      ]
+    },
+    {
+      "rank": 258,
+      "domain": "suite",
+      "count": 4,
+      "domain_names": [
+        "blocksuite.dev",
+        "lexsuite.dev",
+        "lovelysuite.dev",
+        "marssuite.dev"
+      ]
+    },
+    {
+      "rank": 259,
+      "domain": "system",
+      "count": 4,
+      "domain_names": [
+        "codexsystem.dev",
+        "mvp-system.dev",
+        "statesystem.dev",
+        "systemdefect.dev"
+      ]
+    },
+    {
+      "rank": 260,
+      "domain": "tate",
+      "count": 4,
+      "domain_names": [
+        "alextate.dev",
+        "futurestate.dev",
+        "futuretate.dev",
+        "superstate.dev"
+      ]
+    },
+    {
+      "rank": 261,
+      "domain": "tone",
+      "count": 4,
+      "domain_names": [
+        "amberstone.dev",
+        "chromatone.dev",
+        "toneanalysis.dev",
+        "tonescribe.dev"
+      ]
+    },
+    {
+      "rank": 262,
+      "domain": "tree",
+      "count": 4,
+      "domain_names": [
+        "fairytree.dev",
+        "pinktree.dev",
+        "thirstytree.dev",
+        "treecard.dev"
+      ]
+    },
+    {
+      "rank": 263,
+      "domain": "void",
+      "count": 4,
+      "domain_names": [
+        "voidboard.dev",
+        "voidchamber.dev",
+        "voidcraft.dev",
+        "voidscript.dev"
+      ]
+    },
+    {
+      "rank": 264,
+      "domain": "wild",
+      "count": 4,
+      "domain_names": [
+        "projectwild.dev",
+        "wildani.dev",
+        "wildchess.dev",
+        "wildfire.dev"
+      ]
+    },
+    {
+      "rank": 265,
+      "domain": "yard",
+      "count": 4,
+      "domain_names": [
+        "appleyard.dev",
+        "backyard.dev",
+        "rigyard.dev",
+        "yardstick.dev"
+      ]
+    },
+    {
+      "rank": 266,
+      "domain": "young",
+      "count": 4,
+      "domain_names": [
+        "joonyoung.dev",
+        "kimyoung.dev",
+        "sarahyoung.dev",
+        "youngcompany.dev"
+      ]
+    },
+    {
+      "rank": 267,
+      "domain": "zenith",
+      "count": 4,
+      "domain_names": [
+        "zenith-tech.dev",
+        "zenith.dev",
+        "zenithcore.dev",
+        "zenithzones.dev"
+      ]
+    },
+    {
+      "rank": 268,
+      "domain": "agen",
+      "count": 3,
+      "domain_names": [
+        "agentide.dev",
+        "agentos.dev",
+        "agentrental.dev"
+      ]
+    },
+    {
+      "rank": 269,
+      "domain": "ahmed",
+      "count": 3,
+      "domain_names": [
+        "ahmed.dev",
+        "ahmedtaj.dev",
+        "mustafa-ahmed.dev"
+      ]
+    },
+    {
+      "rank": 270,
+      "domain": "apex",
+      "count": 3,
+      "domain_names": [
+        "apex-trade.dev",
+        "apex.dev",
+        "apexserenity.dev"
+      ]
+    },
+    {
+      "rank": 271,
+      "domain": "arctic",
+      "count": 3,
+      "domain_names": [
+        "antarctic.dev",
+        "badarctic.dev",
+        "insidearctic.dev"
+      ]
+    },
+    {
+      "rank": 272,
+      "domain": "arena",
+      "count": 3,
+      "domain_names": [
+        "arenabreakout.dev",
+        "arenahub.dev",
+        "css-arena.dev"
+      ]
+    },
+    {
+      "rank": 273,
+      "domain": "bank",
+      "count": 3,
+      "domain_names": [
+        "memorybank.dev",
+        "testbank.dev",
+        "yourbank.dev"
+      ]
+    },
+    {
+      "rank": 274,
+      "domain": "bees",
+      "count": 3,
+      "domain_names": [
+        "beesbells.dev",
+        "flowbees.dev",
+        "paybees.dev"
+      ]
+    },
+    {
+      "rank": 275,
+      "domain": "berg",
+      "count": 3,
+      "domain_names": [
+        "berg-ai.dev",
+        "berg.dev",
+        "mollberg.dev"
+      ]
+    },
+    {
+      "rank": 276,
+      "domain": "binary",
+      "count": 3,
+      "domain_names": [
+        "binarypillow.dev",
+        "binaryworks.dev",
+        "hexabinary.dev"
+      ]
+    },
+    {
+      "rank": 277,
+      "domain": "bite",
+      "count": 3,
+      "domain_names": [
+        "bitezero.dev",
+        "funbite.dev",
+        "lowebite.dev"
+      ]
+    },
+    {
+      "rank": 278,
+      "domain": "builders",
+      "count": 3,
+      "domain_names": [
+        "blessingbuilders.dev",
+        "buildersretreat.dev",
+        "webbuilders.dev"
+      ]
+    },
+    {
+      "rank": 279,
+      "domain": "button",
+      "count": 3,
+      "domain_names": [
+        "fightbutton.dev",
+        "leftbutton.dev",
+        "thebutton.dev"
+      ]
+    },
+    {
+      "rank": 280,
+      "domain": "camp",
+      "count": 3,
+      "domain_names": [
+        "clancamp.dev",
+        "servercamp.dev",
+        "spawncamp.dev"
+      ]
+    },
+    {
+      "rank": 281,
+      "domain": "cans",
+      "count": 3,
+      "domain_names": [
+        "tincans.dev",
+        "tradescans.dev",
+        "warcans.dev"
+      ]
+    },
+    {
+      "rank": 282,
+      "domain": "capital",
+      "count": 3,
+      "domain_names": [
+        "capitalism.dev",
+        "startupcapital.dev",
+        "tradepro-capital.dev"
+      ]
+    },
+    {
+      "rank": 283,
+      "domain": "carbon",
+      "count": 3,
+      "domain_names": [
+        "carboncoded.dev",
+        "carbonology.dev",
+        "carbonova.dev"
+      ]
+    },
+    {
+      "rank": 284,
+      "domain": "card",
+      "count": 3,
+      "domain_names": [
+        "cardcam.dev",
+        "gaycard.dev",
+        "treecard.dev"
+      ]
+    },
+    {
+      "rank": 285,
+      "domain": "carlos",
+      "count": 3,
+      "domain_names": [
+        "carlosberetta.dev",
+        "carloscosta.dev",
+        "digitalcarlos.dev"
+      ]
+    },
+    {
+      "rank": 286,
+      "domain": "cast",
+      "count": 3,
+      "domain_names": [
+        "graphcast.dev",
+        "podcast.dev",
+        "revcast.dev"
+      ]
+    },
+    {
+      "rank": 287,
+      "domain": "chan",
+      "count": 3,
+      "domain_names": [
+        "brendanchan.dev",
+        "calebchan.dev",
+        "olivia-chan.dev"
+      ]
+    },
+    {
+      "rank": 288,
+      "domain": "chess",
+      "count": 3,
+      "domain_names": [
+        "chessboard.dev",
+        "chessmate.dev",
+        "wildchess.dev"
+      ]
+    },
+    {
+      "rank": 289,
+      "domain": "class",
+      "count": 3,
+      "domain_names": [
+        "chartclass.dev",
+        "classnotes.dev",
+        "webclass.dev"
+      ]
+    },
+    {
+      "rank": 290,
+      "domain": "clean",
+      "count": 3,
+      "domain_names": [
+        "cleanbody.dev",
+        "cleanpegasus.dev",
+        "cleanvibe.dev"
+      ]
+    },
+    {
+      "rank": 291,
+      "domain": "client",
+      "count": 3,
+      "domain_names": [
+        "astralclient.dev",
+        "clientbase.dev",
+        "clienthello.dev"
+      ]
+    },
+    {
+      "rank": 292,
+      "domain": "clin",
+      "count": 3,
+      "domain_names": [
+        "brianclin.dev",
+        "clinara.dev",
+        "clinsign.dev"
+      ]
+    },
+    {
+      "rank": 293,
+      "domain": "coffee",
+      "count": 3,
+      "domain_names": [
+        "coffeebox.dev",
+        "importcoffee.dev",
+        "love-coffee.dev"
+      ]
+    },
+    {
+      "rank": 294,
+      "domain": "comp",
+      "count": 3,
+      "domain_names": [
+        "compact.dev",
+        "compage.dev",
+        "complex.dev"
+      ]
+    },
+    {
+      "rank": 295,
+      "domain": "consulting",
+      "count": 3,
+      "domain_names": [
+        "acreconsulting.dev",
+        "agentconsulting.dev",
+        "kitconsulting.dev"
+      ]
+    },
+    {
+      "rank": 296,
+      "domain": "context",
+      "count": 3,
+      "domain_names": [
+        "contextflow.dev",
+        "contextkit.dev",
+        "contextlab.dev"
+      ]
+    },
+    {
+      "rank": 297,
+      "domain": "course",
+      "count": 3,
+      "domain_names": [
+        "course.dev",
+        "courseapp.dev",
+        "supercourse.dev"
+      ]
+    },
+    {
+      "rank": 298,
+      "domain": "crash",
+      "count": 3,
+      "domain_names": [
+        "crashdebug.dev",
+        "crashout.dev",
+        "joecrash.dev"
+      ]
+    },
+    {
+      "rank": 299,
+      "domain": "create",
+      "count": 3,
+      "domain_names": [
+        "codecreate.dev",
+        "create-ruxt-app.dev",
+        "createbot.dev"
+      ]
+    },
+    {
+      "rank": 300,
+      "domain": "ctrl",
+      "count": 3,
+      "domain_names": [
+        "altctrl.dev",
+        "ctrl-f.dev",
+        "flowctrl.dev"
+      ]
+    },
+    {
+      "rank": 301,
+      "domain": "daily",
+      "count": 3,
+      "domain_names": [
+        "dailyreport.dev",
+        "dailystandup.dev",
+        "emmadaily.dev"
+      ]
+    },
+    {
+      "rank": 302,
+      "domain": "david",
+      "count": 3,
+      "domain_names": [
+        "davidcross.dev",
+        "davidmora.dev",
+        "davidstech.dev"
+      ]
+    },
+    {
+      "rank": 303,
+      "domain": "desk",
+      "count": 3,
+      "domain_names": [
+        "cleardesk.dev",
+        "dirtdesk.dev",
+        "voicemail-desk.dev"
+      ]
+    },
+    {
+      "rank": 304,
+      "domain": "devs",
+      "count": 3,
+      "domain_names": [
+        "devs-x-com.dev",
+        "devs.dev",
+        "timedevs.dev"
+      ]
+    },
+    {
+      "rank": 305,
+      "domain": "dock",
+      "count": 3,
+      "domain_names": [
+        "dockless.dev",
+        "dockupdater.dev",
+        "gumdock.dev"
+      ]
+    },
+    {
+      "rank": 306,
+      "domain": "driven",
+      "count": 3,
+      "domain_names": [
+        "ai-driven-development.dev",
+        "ai-driven.dev",
+        "scrolldriven.dev"
+      ]
+    },
+    {
+      "rank": 307,
+      "domain": "eagle",
+      "count": 3,
+      "domain_names": [
+        "eagle-online.dev",
+        "eagle.dev",
+        "toddeagle.dev"
+      ]
+    },
+    {
+      "rank": 308,
+      "domain": "easy",
+      "count": 3,
+      "domain_names": [
+        "easy-pdf.dev",
+        "easyrank.dev",
+        "easyread.dev"
+      ]
+    },
+    {
+      "rank": 309,
+      "domain": "energy",
+      "count": 3,
+      "domain_names": [
+        "energy-sandbox.dev",
+        "energy.dev",
+        "energyassist.dev"
+      ]
+    },
+    {
+      "rank": 310,
+      "domain": "engineer",
+      "count": 3,
+      "domain_names": [
+        "delinquentengineer.dev",
+        "gingerengineer.dev",
+        "spreewald-cloud-engineer.dev"
+      ]
+    },
+    {
+      "rank": 311,
+      "domain": "ethan",
+      "count": 3,
+      "domain_names": [
+        "ethandesign.dev",
+        "ethanhub.dev",
+        "ethanlowery.dev"
+      ]
+    },
+    {
+      "rank": 312,
+      "domain": "ever",
+      "count": 3,
+      "domain_names": [
+        "everapp.dev",
+        "everfans.dev",
+        "not-ever.dev"
+      ]
+    },
+    {
+      "rank": 313,
+      "domain": "face",
+      "count": 3,
+      "domain_names": [
+        "facetouchup.dev",
+        "surface.dev",
+        "westface.dev"
+      ]
+    },
+    {
+      "rank": 314,
+      "domain": "factory",
+      "count": 3,
+      "domain_names": [
+        "dreamfactory.dev",
+        "factoryfabric.dev",
+        "whitefactory.dev"
+      ]
+    },
+    {
+      "rank": 315,
+      "domain": "find",
+      "count": 3,
+      "domain_names": [
+        "findera.dev",
+        "findflow.dev",
+        "findora.dev"
+      ]
+    },
+    {
+      "rank": 316,
+      "domain": "flare",
+      "count": 3,
+      "domain_names": [
+        "carrierflare.dev",
+        "flaregun.dev",
+        "shipflare.dev"
+      ]
+    },
+    {
+      "rank": 317,
+      "domain": "flash",
+      "count": 3,
+      "domain_names": [
+        "flashfire.dev",
+        "flashteam.dev",
+        "freeflash.dev"
+      ]
+    },
+    {
+      "rank": 318,
+      "domain": "flex",
+      "count": 3,
+      "domain_names": [
+        "flexcoin.dev",
+        "flexfront.dev",
+        "flexhub.dev"
+      ]
+    },
+    {
+      "rank": 319,
+      "domain": "flying",
+      "count": 3,
+      "domain_names": [
+        "flyingspur.dev",
+        "flyingwhale.dev",
+        "flyingworker.dev"
+      ]
+    },
+    {
+      "rank": 320,
+      "domain": "founder",
+      "count": 3,
+      "domain_names": [
+        "founder.dev",
+        "founderleads.dev",
+        "solofounder.dev"
+      ]
+    },
+    {
+      "rank": 321,
+      "domain": "frog",
+      "count": 3,
+      "domain_names": [
+        "bitfrog.dev",
+        "frogger.dev",
+        "nicefrog.dev"
+      ]
+    },
+    {
+      "rank": 322,
+      "domain": "george",
+      "count": 3,
+      "domain_names": [
+        "george.dev",
+        "jonathan-george.dev",
+        "rootgeorge.dev"
+      ]
+    },
+    {
+      "rank": 323,
+      "domain": "golden",
+      "count": 3,
+      "domain_names": [
+        "goldendome.dev",
+        "goldengem.dev",
+        "goldengoose.dev"
+      ]
+    },
+    {
+      "rank": 324,
+      "domain": "graph",
+      "count": 3,
+      "domain_names": [
+        "graph.dev",
+        "graphcast.dev",
+        "graphops.dev"
+      ]
+    },
+    {
+      "rank": 325,
+      "domain": "grid",
+      "count": 3,
+      "domain_names": [
+        "arcanagrid.dev",
+        "grid.dev",
+        "gridrunner.dev"
+      ]
+    },
+    {
+      "rank": 326,
+      "domain": "grow",
+      "count": 3,
+      "domain_names": [
+        "growgarden.dev",
+        "growpro.dev",
+        "growtier.dev"
+      ]
+    },
+    {
+      "rank": 327,
+      "domain": "growth",
+      "count": 3,
+      "domain_names": [
+        "cosmicgrowth.dev",
+        "growthhackers.dev",
+        "vibegrowth.dev"
+      ]
+    },
+    {
+      "rank": 328,
+      "domain": "guide",
+      "count": 3,
+      "domain_names": [
+        "guide.dev",
+        "guidelabs.dev",
+        "techguide.dev"
+      ]
+    },
+    {
+      "rank": 329,
+      "domain": "hacker",
+      "count": 3,
+      "domain_names": [
+        "hackerjoy.dev",
+        "hackerwear.dev",
+        "processhacker.dev"
+      ]
+    },
+    {
+      "rank": 330,
+      "domain": "hand",
+      "count": 3,
+      "domain_names": [
+        "handcooked.dev",
+        "handest.dev",
+        "handstand.dev"
+      ]
+    },
+    {
+      "rank": 331,
+      "domain": "hello",
+      "count": 3,
+      "domain_names": [
+        "clienthello.dev",
+        "hellohunter.dev",
+        "hellomind.dev"
+      ]
+    },
+    {
+      "rank": 332,
+      "domain": "home",
+      "count": 3,
+      "domain_names": [
+        "funeralhome.dev",
+        "homelife.dev",
+        "wayhome.dev"
+      ]
+    },
+    {
+      "rank": 333,
+      "domain": "hooks",
+      "count": 3,
+      "domain_names": [
+        "gabrielhooks.dev",
+        "localhooks.dev",
+        "render-hooks.dev"
+      ]
+    },
+    {
+      "rank": 334,
+      "domain": "hunter",
+      "count": 3,
+      "domain_names": [
+        "hellohunter.dev",
+        "hunterdouglas.dev",
+        "hunterspatial.dev"
+      ]
+    },
+    {
+      "rank": 335,
+      "domain": "hype",
+      "count": 3,
+      "domain_names": [
+        "hypeapp.dev",
+        "hypemedia.dev",
+        "hypetalk.dev"
+      ]
+    },
+    {
+      "rank": 336,
+      "domain": "inner",
+      "count": 3,
+      "domain_names": [
+        "innerave.dev",
+        "innerjoin.dev",
+        "innerlayers.dev"
+      ]
+    },
+    {
+      "rank": 337,
+      "domain": "intelligence",
+      "count": 3,
+      "domain_names": [
+        "cloudintelligence.dev",
+        "pointerintelligence.dev",
+        "textintelligence.dev"
+      ]
+    },
+    {
+      "rank": 338,
+      "domain": "iron",
+      "count": 3,
+      "domain_names": [
+        "ironlabs.dev",
+        "ironquest.dev",
+        "ironsolutions.dev"
+      ]
+    },
+    {
+      "rank": 339,
+      "domain": "jack",
+      "count": 3,
+      "domain_names": [
+        "jack.dev",
+        "jackmoon.dev",
+        "jacknielsen.dev"
+      ]
+    },
+    {
+      "rank": 340,
+      "domain": "jade",
+      "count": 3,
+      "domain_names": [
+        "jade-codes.dev",
+        "jade.dev",
+        "jadestack.dev"
+      ]
+    },
+    {
+      "rank": 341,
+      "domain": "james",
+      "count": 3,
+      "domain_names": [
+        "griffinjames.dev",
+        "jamesdrury.dev",
+        "robertjames.dev"
+      ]
+    },
+    {
+      "rank": 342,
+      "domain": "jelly",
+      "count": 3,
+      "domain_names": [
+        "jellykit.dev",
+        "jellyvote.dev",
+        "legaljelly.dev"
+      ]
+    },
+    {
+      "rank": 343,
+      "domain": "john",
+      "count": 3,
+      "domain_names": [
+        "johnaren.dev",
+        "johntech.dev",
+        "verajohn.dev"
+      ]
+    },
+    {
+      "rank": 344,
+      "domain": "josh",
+      "count": 3,
+      "domain_names": [
+        "josh-co.dev",
+        "joshharrison.dev",
+        "joshshaw.dev"
+      ]
+    },
+    {
+      "rank": 345,
+      "domain": "juris",
+      "count": 3,
+      "domain_names": [
+        "jurisdictions.dev",
+        "jurisprudence.dev",
+        "jurisprudent.dev"
+      ]
+    },
+    {
+      "rank": 346,
+      "domain": "kinder",
+      "count": 3,
+      "domain_names": [
+        "benkinder.dev",
+        "kinderforce.dev",
+        "kinderstack.dev"
+      ]
+    },
+    {
+      "rank": 347,
+      "domain": "layer",
+      "count": 3,
+      "domain_names": [
+        "layer.dev",
+        "layerzero.dev",
+        "zeuslayer.dev"
+      ]
+    },
+    {
+      "rank": 348,
+      "domain": "layered",
+      "count": 3,
+      "domain_names": [
+        "layeredcode.dev",
+        "layeredflow.dev",
+        "layeredsystems.dev"
+      ]
+    },
+    {
+      "rank": 349,
+      "domain": "ledger",
+      "count": 3,
+      "domain_names": [
+        "agentledger.dev",
+        "auditledger.dev",
+        "ledgerlive.dev"
+      ]
+    },
+    {
+      "rank": 350,
+      "domain": "lint",
+      "count": 3,
+      "domain_names": [
+        "custom-lint.dev",
+        "lintkit.dev",
+        "lintstack.dev"
+      ]
+    },
+    {
+      "rank": 351,
+      "domain": "lite",
+      "count": 3,
+      "domain_names": [
+        "literacy.dev",
+        "litesend.dev",
+        "tradinglite.dev"
+      ]
+    },
+    {
+      "rank": 352,
+      "domain": "louis",
+      "count": 3,
+      "domain_names": [
+        "louis-schuhler.dev",
+        "louishall.dev",
+        "louismary.dev"
+      ]
+    },
+    {
+      "rank": 353,
+      "domain": "lovely",
+      "count": 3,
+      "domain_names": [
+        "lovely-lang.dev",
+        "lovely.dev",
+        "lovelysuite.dev"
+      ]
+    },
+    {
+      "rank": 354,
+      "domain": "luxury",
+      "count": 3,
+      "domain_names": [
+        "luxuryapartments.dev",
+        "luxuryclub.dev",
+        "luxurytravel.dev"
+      ]
+    },
+    {
+      "rank": 355,
+      "domain": "made",
+      "count": 3,
+      "domain_names": [
+        "madeready.dev",
+        "punch-made.dev",
+        "systems-made-simple.dev"
+      ]
+    },
+    {
+      "rank": 356,
+      "domain": "mann",
+      "count": 3,
+      "domain_names": [
+        "achermann.dev",
+        "dittmann.dev",
+        "salmann.dev"
+      ]
+    },
+    {
+      "rank": 357,
+      "domain": "mate",
+      "count": 3,
+      "domain_names": [
+        "assessmate.dev",
+        "chessmate.dev",
+        "scalemate.dev"
+      ]
+    },
+    {
+      "rank": 358,
+      "domain": "matthew",
+      "count": 3,
+      "domain_names": [
+        "matthew-watson.dev",
+        "matthew.dev",
+        "matthewrosin.dev"
+      ]
+    },
+    {
+      "rank": 359,
+      "domain": "maverick",
+      "count": 3,
+      "domain_names": [
+        "marketmaverick.dev",
+        "maverick.dev",
+        "maverickweb.dev"
+      ]
+    },
+    {
+      "rank": 360,
+      "domain": "memory",
+      "count": 3,
+      "domain_names": [
+        "chatmemory.dev",
+        "gemini-memory.dev",
+        "memorybank.dev"
+      ]
+    },
+    {
+      "rank": 361,
+      "domain": "miner",
+      "count": 3,
+      "domain_names": [
+        "amberminer.dev",
+        "codeminer.dev",
+        "harrisonminer.dev"
+      ]
+    },
+    {
+      "rank": 362,
+      "domain": "mini",
+      "count": 3,
+      "domain_names": [
+        "minifridge.dev",
+        "minimum.dev",
+        "minispace.dev"
+      ]
+    },
+    {
+      "rank": 363,
+      "domain": "morph",
+      "count": 3,
+      "domain_names": [
+        "morph-guild.dev",
+        "morph.dev",
+        "polymorph.dev"
+      ]
+    },
+    {
+      "rank": 364,
+      "domain": "nicolas",
+      "count": 3,
+      "domain_names": [
+        "nicolas-sekri.dev",
+        "nicolas.dev",
+        "nicolasbonnet.dev"
+      ]
+    },
+    {
+      "rank": 365,
+      "domain": "note",
+      "count": 3,
+      "domain_names": [
+        "linknote.dev",
+        "note.dev",
+        "noteboard.dev"
+      ]
+    },
+    {
+      "rank": 366,
+      "domain": "onboard",
+      "count": 3,
+      "domain_names": [
+        "onboardfast.dev",
+        "onboardhero.dev",
+        "onboarding.dev"
+      ]
+    },
+    {
+      "rank": 367,
+      "domain": "online",
+      "count": 3,
+      "domain_names": [
+        "businessonline.dev",
+        "eagle-online.dev",
+        "lodeonline.dev"
+      ]
+    },
+    {
+      "rank": 368,
+      "domain": "only",
+      "count": 3,
+      "domain_names": [
+        "onlyclips.dev",
+        "onlycoders.dev",
+        "onlytools.dev"
+      ]
+    },
+    {
+      "rank": 369,
+      "domain": "paper",
+      "count": 3,
+      "domain_names": [
+        "inkpaper.dev",
+        "paperclipper.dev",
+        "paperjet.dev"
+      ]
+    },
+    {
+      "rank": 370,
+      "domain": "plane",
+      "count": 3,
+      "domain_names": [
+        "plane.dev",
+        "planethack.dev",
+        "stackplane.dev"
+      ]
+    },
+    {
+      "rank": 371,
+      "domain": "platform",
+      "count": 3,
+      "domain_names": [
+        "leadplatform.dev",
+        "metaplatform.dev",
+        "platformcrew.dev"
+      ]
+    },
+    {
+      "rank": 372,
+      "domain": "playground",
+      "count": 3,
+      "domain_names": [
+        "codeplayground.dev",
+        "local-relevance-playground.dev",
+        "nft-playground.dev"
+      ]
+    },
+    {
+      "rank": 373,
+      "domain": "port",
+      "count": 3,
+      "domain_names": [
+        "airport.dev",
+        "frameport.dev",
+        "portfoy.dev"
+      ]
+    },
+    {
+      "rank": 374,
+      "domain": "portfolio",
+      "count": 3,
+      "domain_names": [
+        "dd-portfolio.dev",
+        "ol-portfolio.dev",
+        "portfolio-sami.dev"
+      ]
+    },
+    {
+      "rank": 375,
+      "domain": "power",
+      "count": 3,
+      "domain_names": [
+        "micropower.dev",
+        "perpower.dev",
+        "powershell.dev"
+      ]
+    },
+    {
+      "rank": 376,
+      "domain": "promo",
+      "count": 3,
+      "domain_names": [
+        "cyberpromo.dev",
+        "hubpromo.dev",
+        "promodocs.dev"
+      ]
+    },
+    {
+      "rank": 377,
+      "domain": "prompts",
+      "count": 3,
+      "domain_names": [
+        "masterprompts.dev",
+        "promptscanner.dev",
+        "promptspark.dev"
+      ]
+    },
+    {
+      "rank": 378,
+      "domain": "property",
+      "count": 3,
+      "domain_names": [
+        "ai-property.dev",
+        "hotproperty.dev",
+        "property-builder-virtues.dev"
+      ]
+    },
+    {
+      "rank": 379,
+      "domain": "protocol",
+      "count": 3,
+      "domain_names": [
+        "acheronprotocol.dev",
+        "hatsprotocol.dev",
+        "humanprotocol.dev"
+      ]
+    },
+    {
+      "rank": 380,
+      "domain": "pulse",
+      "count": 3,
+      "domain_names": [
+        "novapulse.dev",
+        "pulse.dev",
+        "pulsehive.dev"
+      ]
+    },
+    {
+      "rank": 381,
+      "domain": "push",
+      "count": 3,
+      "domain_names": [
+        "finalpush.dev",
+        "pushscript.dev",
+        "pushserver.dev"
+      ]
+    },
+    {
+      "rank": 382,
+      "domain": "quantum",
+      "count": 3,
+      "domain_names": [
+        "quantumgames.dev",
+        "quantumjump.dev",
+        "quantumshield.dev"
+      ]
+    },
+    {
+      "rank": 383,
+      "domain": "raft",
+      "count": 3,
+      "domain_names": [
+        "codecraft.dev",
+        "raft.dev",
+        "specraft.dev"
+      ]
+    },
+    {
+      "rank": 384,
+      "domain": "report",
+      "count": 3,
+      "domain_names": [
+        "dailyreport.dev",
+        "feasibilityreport.dev",
+        "statusreport.dev"
+      ]
+    },
+    {
+      "rank": 385,
+      "domain": "rich",
+      "count": 3,
+      "domain_names": [
+        "richcat.dev",
+        "richelbert.dev",
+        "richicons.dev"
+      ]
+    },
+    {
+      "rank": 386,
+      "domain": "robert",
+      "count": 3,
+      "domain_names": [
+        "robert-thomas.dev",
+        "roberthamilton.dev",
+        "robertjames.dev"
+      ]
+    },
+    {
+      "rank": 387,
+      "domain": "room",
+      "count": 3,
+      "domain_names": [
+        "roomblitz.dev",
+        "salesroom.dev",
+        "sparkroom.dev"
+      ]
+    },
+    {
+      "rank": 388,
+      "domain": "round",
+      "count": 3,
+      "domain_names": [
+        "allround.dev",
+        "betaground.dev",
+        "round.dev"
+      ]
+    },
+    {
+      "rank": 389,
+      "domain": "rule",
+      "count": 3,
+      "domain_names": [
+        "c-rule.dev",
+        "rulebuilder.dev",
+        "rulehub.dev"
+      ]
+    },
+    {
+      "rank": 390,
+      "domain": "sales",
+      "count": 3,
+      "domain_names": [
+        "salesoffice.dev",
+        "salesroom.dev",
+        "windsorsales.dev"
+      ]
+    },
+    {
+      "rank": 391,
+      "domain": "sand",
+      "count": 3,
+      "domain_names": [
+        "sandbar.dev",
+        "sandbay.dev",
+        "sandboxy.dev"
+      ]
+    },
+    {
+      "rank": 392,
+      "domain": "scan",
+      "count": 3,
+      "domain_names": [
+        "omniscan.dev",
+        "securescan.dev",
+        "skimscan.dev"
+      ]
+    },
+    {
+      "rank": 393,
+      "domain": "scribe",
+      "count": 3,
+      "domain_names": [
+        "silentscribe.dev",
+        "tonescribe.dev",
+        "wolfscribe.dev"
+      ]
+    },
+    {
+      "rank": 394,
+      "domain": "secure",
+      "count": 3,
+      "domain_names": [
+        "securedependency.dev",
+        "securekey.dev",
+        "securescan.dev"
+      ]
+    },
+    {
+      "rank": 395,
+      "domain": "serve",
+      "count": 3,
+      "domain_names": [
+        "autoserve.dev",
+        "servecode.dev",
+        "thereserve.dev"
+      ]
+    },
+    {
+      "rank": 396,
+      "domain": "shadow",
+      "count": 3,
+      "domain_names": [
+        "nightshadow.dev",
+        "shadowbytes.dev",
+        "sunshadow.dev"
+      ]
+    },
+    {
+      "rank": 397,
+      "domain": "shop",
+      "count": 3,
+      "domain_names": [
+        "newshop.dev",
+        "shopauth.dev",
+        "shopflow.dev"
+      ]
+    },
+    {
+      "rank": 398,
+      "domain": "sierra",
+      "count": 3,
+      "domain_names": [
+        "datasierra.dev",
+        "edwardsierra.dev",
+        "sierra.dev"
+      ]
+    },
+    {
+      "rank": 399,
+      "domain": "sign",
+      "count": 3,
+      "domain_names": [
+        "clinsign.dev",
+        "co-sign.dev",
+        "signeen.dev"
+      ]
+    },
+    {
+      "rank": 400,
+      "domain": "silicon",
+      "count": 3,
+      "domain_names": [
+        "siliconbayou.dev",
+        "siliconright.dev",
+        "siliconsage.dev"
+      ]
+    },
+    {
+      "rank": 401,
+      "domain": "silver",
+      "count": 3,
+      "domain_names": [
+        "silverback.dev",
+        "silverbacks.dev",
+        "silversource.dev"
+      ]
+    },
+    {
+      "rank": 402,
+      "domain": "skills",
+      "count": 3,
+      "domain_names": [
+        "skills.dev",
+        "skillshub.dev",
+        "skillsvault.dev"
+      ]
+    },
+    {
+      "rank": 403,
+      "domain": "slot",
+      "count": 3,
+      "domain_names": [
+        "galaxyslot.dev",
+        "robotslot.dev",
+        "slotfesta.dev"
+      ]
+    },
+    {
+      "rank": 404,
+      "domain": "snap",
+      "count": 3,
+      "domain_names": [
+        "snapassistant.dev",
+        "snapboard.dev",
+        "snapwrite.dev"
+      ]
+    },
+    {
+      "rank": 405,
+      "domain": "solo",
+      "count": 3,
+      "domain_names": [
+        "cloudsolo.dev",
+        "solofounder.dev",
+        "vibesolo.dev"
+      ]
+    },
+    {
+      "rank": 406,
+      "domain": "solution",
+      "count": 3,
+      "domain_names": [
+        "clever-solution.dev",
+        "grandsolution.dev",
+        "smartsolution.dev"
+      ]
+    },
+    {
+      "rank": 407,
+      "domain": "soul",
+      "count": 3,
+      "domain_names": [
+        "soul.dev",
+        "soulana.dev",
+        "websoul.dev"
+      ]
+    },
+    {
+      "rank": 408,
+      "domain": "speed",
+      "count": 3,
+      "domain_names": [
+        "speedclaw.dev",
+        "speedtrade.dev",
+        "typingspeed.dev"
+      ]
+    },
+    {
+      "rank": 409,
+      "domain": "stech",
+      "count": 3,
+      "domain_names": [
+        "allthingstech.dev",
+        "alpacastech.dev",
+        "davidstech.dev"
+      ]
+    },
+    {
+      "rank": 410,
+      "domain": "stellar",
+      "count": 3,
+      "domain_names": [
+        "stellarpath.dev",
+        "stellarsphere.dev",
+        "stellarstack.dev"
+      ]
+    },
+    {
+      "rank": 411,
+      "domain": "ster",
+      "count": 3,
+      "domain_names": [
+        "loopster.dev",
+        "sterling.dev",
+        "twister.dev"
+      ]
+    },
+    {
+      "rank": 412,
+      "domain": "steve",
+      "count": 3,
+      "domain_names": [
+        "stevehuman.dev",
+        "stevejobs.dev",
+        "stevesloka.dev"
+      ]
+    },
+    {
+      "rank": 413,
+      "domain": "storm",
+      "count": 3,
+      "domain_names": [
+        "icestorm.dev",
+        "stormcode.dev",
+        "stormgale.dev"
+      ]
+    },
+    {
+      "rank": 414,
+      "domain": "summit",
+      "count": 3,
+      "domain_names": [
+        "summithomebuilders.dev",
+        "summitlabs.dev",
+        "summitmanagement.dev"
+      ]
+    },
+    {
+      "rank": 415,
+      "domain": "synergy",
+      "count": 3,
+      "domain_names": [
+        "codesynergy.dev",
+        "synergydigital.dev",
+        "synergysyndicate.dev"
+      ]
+    },
+    {
+      "rank": 416,
+      "domain": "tail",
+      "count": 3,
+      "domain_names": [
+        "skytail.dev",
+        "tailspace.dev",
+        "tailstudio.dev"
+      ]
+    },
+    {
+      "rank": 417,
+      "domain": "tang",
+      "count": 3,
+      "domain_names": [
+        "tangbrandon.dev",
+        "tangjing.dev",
+        "timtang.dev"
+      ]
+    },
+    {
+      "rank": 418,
+      "domain": "taylor",
+      "count": 3,
+      "domain_names": [
+        "annataylor.dev",
+        "taylorfuller.dev",
+        "taylorjordan.dev"
+      ]
+    },
+    {
+      "rank": 419,
+      "domain": "tele",
+      "count": 3,
+      "domain_names": [
+        "telegram.dev",
+        "telemetric.dev",
+        "teleprompter.dev"
+      ]
+    },
+    {
+      "rank": 420,
+      "domain": "templates",
+      "count": 3,
+      "domain_names": [
+        "emailtemplates.dev",
+        "quicktemplates.dev",
+        "tailwindtemplates.dev"
+      ]
+    },
+    {
+      "rank": 421,
+      "domain": "terra",
+      "count": 3,
+      "domain_names": [
+        "terra-verde.dev",
+        "terra.dev",
+        "terramind.dev"
+      ]
+    },
+    {
+      "rank": 422,
+      "domain": "text",
+      "count": 3,
+      "domain_names": [
+        "kontext.dev",
+        "textale.dev",
+        "textintelligence.dev"
+      ]
+    },
+    {
+      "rank": 423,
+      "domain": "thea",
+      "count": 3,
+      "domain_names": [
+        "theagents.dev",
+        "theatron.dev",
+        "theavenger.dev"
+      ]
+    },
+    {
+      "rank": 424,
+      "domain": "toby",
+      "count": 3,
+      "domain_names": [
+        "toby-lad.dev",
+        "toby-schneider.dev",
+        "toby.dev"
+      ]
+    },
+    {
+      "rank": 425,
+      "domain": "tool",
+      "count": 3,
+      "domain_names": [
+        "toolarchetype.dev",
+        "toolcrate.dev",
+        "tooltool.dev"
+      ]
+    },
+    {
+      "rank": 426,
+      "domain": "train",
+      "count": 3,
+      "domain_names": [
+        "cloudtrain.dev",
+        "landtrain.dev",
+        "trainconv.dev"
+      ]
+    },
+    {
+      "rank": 427,
+      "domain": "type",
+      "count": 3,
+      "domain_names": [
+        "prototype.dev",
+        "spectratype.dev",
+        "typenext.dev"
+      ]
+    },
+    {
+      "rank": 428,
+      "domain": "ultra",
+      "count": 3,
+      "domain_names": [
+        "ultramar.dev",
+        "ultraplus.dev",
+        "ultraswift.dev"
+      ]
+    },
+    {
+      "rank": 429,
+      "domain": "unicorn",
+      "count": 3,
+      "domain_names": [
+        "deadlyunicorn.dev",
+        "unicorn.dev",
+        "unicornstack.dev"
+      ]
+    },
+    {
+      "rank": 430,
+      "domain": "vera",
+      "count": 3,
+      "domain_names": [
+        "vera.dev",
+        "veracity.dev",
+        "verajohn.dev"
+      ]
+    },
+    {
+      "rank": 431,
+      "domain": "vibes",
+      "count": 3,
+      "domain_names": [
+        "chadvibes.dev",
+        "good-vibes-software.dev",
+        "vibeshipper.dev"
+      ]
+    },
+    {
+      "rank": 432,
+      "domain": "victor",
+      "count": 3,
+      "domain_names": [
+        "gg-victor.dev",
+        "tomvictor.dev",
+        "victortest.dev"
+      ]
+    },
+    {
+      "rank": 433,
+      "domain": "volt",
+      "count": 3,
+      "domain_names": [
+        "voltcode.dev",
+        "voltmind.dev",
+        "voltsites.dev"
+      ]
+    },
+    {
+      "rank": 434,
+      "domain": "ware",
+      "count": 3,
+      "domain_names": [
+        "dodoware.dev",
+        "errorware.dev",
+        "greenware.dev"
+      ]
+    },
+    {
+      "rank": 435,
+      "domain": "wars",
+      "count": 3,
+      "domain_names": [
+        "flagwars.dev",
+        "towerwars.dev",
+        "trenchwars.dev"
+      ]
+    },
+    {
+      "rank": 436,
+      "domain": "whale",
+      "count": 3,
+      "domain_names": [
+        "blackwhale.dev",
+        "flyingwhale.dev",
+        "whaletank.dev"
+      ]
+    },
+    {
+      "rank": 437,
+      "domain": "white",
+      "count": 3,
+      "domain_names": [
+        "sophiawhite.dev",
+        "whitefactory.dev",
+        "whitelist.dev"
+      ]
+    },
+    {
+      "rank": 438,
+      "domain": "will",
+      "count": 3,
+      "domain_names": [
+        "godswill.dev",
+        "vicwill.dev",
+        "willcharles.dev"
+      ]
+    },
+    {
+      "rank": 439,
+      "domain": "wind",
+      "count": 3,
+      "domain_names": [
+        "getwind.dev",
+        "swiftwind.dev",
+        "windlang.dev"
+      ]
+    },
+    {
+      "rank": 440,
+      "domain": "wise",
+      "count": 3,
+      "domain_names": [
+        "buildwise.dev",
+        "crowdwise.dev",
+        "hashwise.dev"
+      ]
+    },
+    {
+      "rank": 441,
+      "domain": "wizard",
+      "count": 3,
+      "domain_names": [
+        "masterwizard.dev",
+        "mediationwizard.dev",
+        "web-wizard.dev"
+      ]
+    },
+    {
+      "rank": 442,
+      "domain": "worker",
+      "count": 3,
+      "domain_names": [
+        "flyingworker.dev",
+        "vibeworker.dev",
+        "workerleech.dev"
+      ]
+    },
+    {
+      "rank": 443,
+      "domain": "working",
+      "count": 3,
+      "domain_names": [
+        "busyworking.dev",
+        "justworking.dev",
+        "workingexample.dev"
+      ]
+    },
+    {
+      "rank": 444,
+      "domain": "world",
+      "count": 3,
+      "domain_names": [
+        "obsworld.dev",
+        "worldcat.dev",
+        "worldspawn.dev"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 444,
+    "total": 444
+  }
+}
