@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "open",
+      "count": 5,
+      "domain_names": [
+        "open-seat.app",
+        "open-task.app",
+        "openreader.app",
+        "opentrips.app",
+        "openwrite.app"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "simply",
+      "count": 5,
+      "domain_names": [
+        "simplycal.app",
+        "simplycollab.app",
+        "simplyform.app",
+        "simplyprompt.app",
+        "simplywork.app"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "info",
+      "count": 4,
+      "domain_names": [
+        "botinfo.app",
+        "freeinfo.app",
+        "infomorph.app",
+        "infomorphic.app"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "master",
+      "count": 4,
+      "domain_names": [
+        "dogmaster.app",
+        "drinkmaster.app",
+        "masterbuilder.app",
+        "reelmaster.app"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "pulse",
+      "count": 4,
+      "domain_names": [
+        "fanpulse.app",
+        "feedback-pulse.app",
+        "ns1.feedback-pulse.app",
+        "ns2.feedback-pulse.app"
+      ]
+    },
+    {
+      "rank": 6,
+      "domain": "beta",
+      "count": 3,
+      "domain_names": [
+        "beta-app.app",
+        "beta-mode.app",
+        "betaapp.app"
+      ]
+    },
+    {
+      "rank": 7,
+      "domain": "care",
+      "count": 3,
+      "domain_names": [
+        "brewcare.app",
+        "carenest.app",
+        "cashcare.app"
+      ]
+    },
+    {
+      "rank": 8,
+      "domain": "cruise",
+      "count": 3,
+      "domain_names": [
+        "cruisenights.app",
+        "cruiseportal.app",
+        "cruiseservices.app"
+      ]
+    },
+    {
+      "rank": 9,
+      "domain": "finance",
+      "count": 3,
+      "domain_names": [
+        "happy-finance.app",
+        "happyfinance.app",
+        "taurusfinance.app"
+      ]
+    },
+    {
+      "rank": 10,
+      "domain": "mind",
+      "count": 3,
+      "domain_names": [
+        "mindparent.app",
+        "mindquality.app",
+        "skymind.app"
+      ]
+    },
+    {
+      "rank": 11,
+      "domain": "portal",
+      "count": 3,
+      "domain_names": [
+        "cargoportal.app",
+        "cruiseportal.app",
+        "justiceportal.app"
+      ]
+    },
+    {
+      "rank": 12,
+      "domain": "smart",
+      "count": 3,
+      "domain_names": [
+        "smartinventory.app",
+        "smartrecipe.app",
+        "writesmart.app"
+      ]
+    },
+    {
+      "rank": 13,
+      "domain": "trade",
+      "count": 3,
+      "domain_names": [
+        "trade-sparkfi.app",
+        "tradekite.app",
+        "tradeunity.app"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 13,
+    "total": 13
+  }
+}
