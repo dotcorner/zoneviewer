@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "mind",
+      "count": 5,
+      "domain_names": [
+        "chartmind.app",
+        "mindmuscle.app",
+        "mindspan.app",
+        "savedmind.app",
+        "walletmind.app"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "vault",
+      "count": 5,
+      "domain_names": [
+        "aussievault.app",
+        "liablevault.app",
+        "oblivionvault.app",
+        "playvault.app",
+        "trickvault.app"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "core",
+      "count": 4,
+      "domain_names": [
+        "coachcore.app",
+        "coreops.app",
+        "luminacore.app",
+        "pulsescore.app"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "park",
+      "count": 4,
+      "domain_names": [
+        "biospark.app",
+        "kidspark.app",
+        "modelspark.app",
+        "typespark.app"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "spark",
+      "count": 4,
+      "domain_names": [
+        "biospark.app",
+        "kidspark.app",
+        "modelspark.app",
+        "typespark.app"
+      ]
+    },
+    {
+      "rank": 6,
+      "domain": "chat",
+      "count": 3,
+      "domain_names": [
+        "chatdecode.app",
+        "chatsync.app",
+        "plotchat.app"
+      ]
+    },
+    {
+      "rank": 7,
+      "domain": "craft",
+      "count": 3,
+      "domain_names": [
+        "allocraft.app",
+        "cashcraft.app",
+        "voicecraft.app"
+      ]
+    },
+    {
+      "rank": 8,
+      "domain": "guide",
+      "count": 3,
+      "domain_names": [
+        "auctionguide.app",
+        "procurementguide.app",
+        "roamguide.app"
+      ]
+    },
+    {
+      "rank": 9,
+      "domain": "homing",
+      "count": 3,
+      "domain_names": [
+        "homing-hub.app",
+        "homing.app",
+        "hominghub.app"
+      ]
+    },
+    {
+      "rank": 10,
+      "domain": "lens",
+      "count": 3,
+      "domain_names": [
+        "investorlens.app",
+        "lenslink.app",
+        "superlens.app"
+      ]
+    },
+    {
+      "rank": 11,
+      "domain": "lore",
+      "count": 3,
+      "domain_names": [
+        "lorepath.app",
+        "lorewand.app",
+        "wanderlore.app"
+      ]
+    },
+    {
+      "rank": 12,
+      "domain": "mate",
+      "count": 3,
+      "domain_names": [
+        "eatmate.app",
+        "pokiemate.app",
+        "tallmate.app"
+      ]
+    },
+    {
+      "rank": 13,
+      "domain": "play",
+      "count": 3,
+      "domain_names": [
+        "playlust.app",
+        "playring.app",
+        "playvault.app"
+      ]
+    },
+    {
+      "rank": 14,
+      "domain": "pulse",
+      "count": 3,
+      "domain_names": [
+        "neighborhoodpulse.app",
+        "pulsescore.app",
+        "pulseseed.app"
+      ]
+    },
+    {
+      "rank": 15,
+      "domain": "simp",
+      "count": 3,
+      "domain_names": [
+        "simpcommerce.app",
+        "simpmail.app",
+        "simpsales.app"
+      ]
+    },
+    {
+      "rank": 16,
+      "domain": "social",
+      "count": 3,
+      "domain_names": [
+        "social-media.app",
+        "socialcamper.app",
+        "sociallistening.app"
+      ]
+    },
+    {
+      "rank": 17,
+      "domain": "voice",
+      "count": 3,
+      "domain_names": [
+        "momvoice.app",
+        "voiceassistant.app",
+        "voicecraft.app"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 17,
+    "total": 17
+  }
+}
