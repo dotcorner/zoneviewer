@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "betting",
+      "count": 16,
+      "domain_names": [
+        "badmintonbetting.app",
+        "baseballbetting.app",
+        "basketballbetting.app",
+        "boxingbetting.app",
+        "chessbetting.app",
+        "dartsbetting.app",
+        "galaxybetting.app",
+        "golfbetting.app",
+        "greyhoundbetting.app",
+        "hockeybetting.app",
+        "lacrossebetting.app",
+        "racingbetting.app",
+        "rugbybetting.app",
+        "snookerbetting.app",
+        "soccerbetting.app",
+        "speedwaybetting.app"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "data",
+      "count": 5,
+      "domain_names": [
+        "datacentric.app",
+        "datadealer.app",
+        "dataeconomy.app",
+        "datamodal.app",
+        "feddata.app"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "poker",
+      "count": 4,
+      "domain_names": [
+        "dogepoker.app",
+        "landpoker.app",
+        "pokerclock.app",
+        "pokerdefter.app"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "buddy",
+      "count": 3,
+      "domain_names": [
+        "contentbuddy.app",
+        "roombuddy.app",
+        "thinkbuddy.app"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "craft",
+      "count": 3,
+      "domain_names": [
+        "craftbridge.app",
+        "windcraft.app",
+        "workcraft.app"
+      ]
+    },
+    {
+      "rank": 6,
+      "domain": "nest",
+      "count": 3,
+      "domain_names": [
+        "feedbacknest.app",
+        "surfernest.app",
+        "trustnest.app"
+      ]
+    },
+    {
+      "rank": 7,
+      "domain": "smart",
+      "count": 3,
+      "domain_names": [
+        "smartlang.app",
+        "smartrings.app",
+        "sweatsmart.app"
+      ]
+    },
+    {
+      "rank": 8,
+      "domain": "stack",
+      "count": 3,
+      "domain_names": [
+        "cuestack.app",
+        "stackaudit.app",
+        "teachstack.app"
+      ]
+    },
+    {
+      "rank": 9,
+      "domain": "sync",
+      "count": 3,
+      "domain_names": [
+        "starsync.app",
+        "towersync.app",
+        "valsync.app"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 9,
+    "total": 9
+  }
+}

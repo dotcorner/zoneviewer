@@ -1,0 +1,1807 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "team",
+      "count": 13,
+      "domain_names": [
+        "bodteam.org",
+        "bulletteam.org",
+        "byteteam.org",
+        "dashteam.org",
+        "fabteam.org",
+        "frescoteam.org",
+        "haloteam.org",
+        "scaleteam.org",
+        "teamplays.org",
+        "teamsound.org",
+        "teamtriumphant.org",
+        "teamvolt.org",
+        "ultrateam.org"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "labs",
+      "count": 9,
+      "domain_names": [
+        "amazedlabs.org",
+        "berrylabs.org",
+        "blacktoplabs.org",
+        "clementinelabs.org",
+        "durianlabs.org",
+        "essentialabs.org",
+        "redesignlabs.org",
+        "taylabs.org",
+        "venomlabs.org"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "project",
+      "count": 9,
+      "domain_names": [
+        "conduitproject.org",
+        "deviproject.org",
+        "ferryproject.org",
+        "projectassembly.org",
+        "projectdogear.org",
+        "projectfabric.org",
+        "projectonsight.org",
+        "projectpreflight.org",
+        "storylinesproject.org"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "world",
+      "count": 9,
+      "domain_names": [
+        "igniteworld.org",
+        "neutralworld.org",
+        "otterworld.org",
+        "oudworld.org",
+        "preservationworld.org",
+        "worldhides.org",
+        "worldopp.org",
+        "worldrehabilitation.org",
+        "worldstance.org"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "citadel",
+      "count": 8,
+      "domain_names": [
+        "citadelreliance.org",
+        "dawncitadel.org",
+        "glimmercitadel.org",
+        "hazelcitadel.org",
+        "jetcitadel.org",
+        "kestrelcitadel.org",
+        "novacitadel.org",
+        "pinecitadel.org"
+      ]
+    },
+    {
+      "rank": 6,
+      "domain": "collaborative",
+      "count": 8,
+      "domain_names": [
+        "collaborativeagency.org",
+        "collaborativeplace.org",
+        "collaborativepoint.org",
+        "drivecollaborative.org",
+        "earncollaborative.org",
+        "fetchcollaborative.org",
+        "flowcollaborative.org",
+        "gaincollaborative.org"
+      ]
+    },
+    {
+      "rank": 7,
+      "domain": "research",
+      "count": 8,
+      "domain_names": [
+        "atiresearch.org",
+        "betterresearch.org",
+        "complexityresearch.org",
+        "kalaresearch.org",
+        "kaleidoscoperesearch.org",
+        "readingresearch.org",
+        "researchcompounds.org",
+        "researchsupplement.org"
+      ]
+    },
+    {
+      "rank": 8,
+      "domain": "fund",
+      "count": 7,
+      "domain_names": [
+        "fundgambler.org",
+        "fundrenal.org",
+        "passagefund.org",
+        "ripfund.org",
+        "roarfund.org",
+        "simplefund.org",
+        "stellarfund.org"
+      ]
+    },
+    {
+      "rank": 9,
+      "domain": "institute",
+      "count": 7,
+      "domain_names": [
+        "adventistinstitute.org",
+        "aschaminstitute.org",
+        "edgarinstitute.org",
+        "fraudinstitute.org",
+        "lipsinstitute.org",
+        "spininstitute.org",
+        "verityinstitute.org"
+      ]
+    },
+    {
+      "rank": 10,
+      "domain": "nova",
+      "count": 7,
+      "domain_names": [
+        "novaarcadia.org",
+        "novacitadel.org",
+        "novacyprus.org",
+        "novahabitat.org",
+        "novainclusive.org",
+        "novasharp.org",
+        "terrainnova.org"
+      ]
+    },
+    {
+      "rank": 11,
+      "domain": "open",
+      "count": 7,
+      "domain_names": [
+        "openassess.org",
+        "openchronicles.org",
+        "openindependence.org",
+        "openmiles.org",
+        "openpcf.org",
+        "openreasoner.org",
+        "openunder.org"
+      ]
+    },
+    {
+      "rank": 12,
+      "domain": "tech",
+      "count": 7,
+      "domain_names": [
+        "chiantech.org",
+        "civilizationtech.org",
+        "slottech.org",
+        "techaudit.org",
+        "techgeopolitics.org",
+        "techhopes.org",
+        "techrevolt.org"
+      ]
+    },
+    {
+      "rank": 13,
+      "domain": "capital",
+      "count": 6,
+      "domain_names": [
+        "alphabetcapital.org",
+        "continuouscapital.org",
+        "hivecapital.org",
+        "iconcapital.org",
+        "santiagocapital.org",
+        "upsurgecapital.org"
+      ]
+    },
+    {
+      "rank": 14,
+      "domain": "center",
+      "count": 6,
+      "domain_names": [
+        "cpdcenter.org",
+        "immunecenter.org",
+        "justitiacenter.org",
+        "originscenter.org",
+        "pediatricscenter.org",
+        "sunlightcenter.org"
+      ]
+    },
+    {
+      "rank": 15,
+      "domain": "craft",
+      "count": 6,
+      "domain_names": [
+        "crestcraft.org",
+        "dogecraft.org",
+        "keystonecraft.org",
+        "milcraft.org",
+        "regalcraft.org",
+        "tunnelcraft.org"
+      ]
+    },
+    {
+      "rank": 16,
+      "domain": "game",
+      "count": 6,
+      "domain_names": [
+        "gamecompetitive.org",
+        "gameexclusive.org",
+        "gamepremium.org",
+        "gamepreorder.org",
+        "simulationgame.org",
+        "zinggame.org"
+      ]
+    },
+    {
+      "rank": 17,
+      "domain": "home",
+      "count": 6,
+      "domain_names": [
+        "blinkhome.org",
+        "homeall.org",
+        "homeassessments.org",
+        "homelearning.org",
+        "influencerhome.org",
+        "murrayhome.org"
+      ]
+    },
+    {
+      "rank": 18,
+      "domain": "leadership",
+      "count": 6,
+      "domain_names": [
+        "hollyhockleadership.org",
+        "ingeniousleadership.org",
+        "kulaleadership.org",
+        "leadershipbuilders.org",
+        "luxuryleadership.org",
+        "productiveleadership.org"
+      ]
+    },
+    {
+      "rank": 19,
+      "domain": "news",
+      "count": 6,
+      "domain_names": [
+        "astronomynews.org",
+        "calculatornews.org",
+        "newsknowhow.org",
+        "nursenews.org",
+        "potholenews.org",
+        "wealthynews.org"
+      ]
+    },
+    {
+      "rank": 20,
+      "domain": "agent",
+      "count": 5,
+      "domain_names": [
+        "agentarcade.org",
+        "agentclip.org",
+        "agentcost.org",
+        "agentgeo.org",
+        "lateagent.org"
+      ]
+    },
+    {
+      "rank": 21,
+      "domain": "bastion",
+      "count": 5,
+      "domain_names": [
+        "crimsonbastion.org",
+        "emberbastion.org",
+        "kineticbastion.org",
+        "oceanbastion.org",
+        "orchardbastion.org"
+      ]
+    },
+    {
+      "rank": 22,
+      "domain": "church",
+      "count": 5,
+      "domain_names": [
+        "elysianchurch.org",
+        "hawkeyechurch.org",
+        "liberatechurch.org",
+        "sensationalchurch.org",
+        "unveilchurch.org"
+      ]
+    },
+    {
+      "rank": 23,
+      "domain": "dental",
+      "count": 5,
+      "domain_names": [
+        "compassdental.org",
+        "dentalalc.org",
+        "dentalequity.org",
+        "dentalfraud.org",
+        "dentaljustice.org"
+      ]
+    },
+    {
+      "rank": 24,
+      "domain": "forge",
+      "count": 5,
+      "domain_names": [
+        "castforge.org",
+        "cobolforge.org",
+        "crowdforge.org",
+        "forgeleague.org",
+        "forgepilot.org"
+      ]
+    },
+    {
+      "rank": 25,
+      "domain": "foundation",
+      "count": 5,
+      "domain_names": [
+        "goyfoundation.org",
+        "nigeriafoundation.org",
+        "ruckfoundation.org",
+        "scriptfoundation.org",
+        "spectorfoundation.org"
+      ]
+    },
+    {
+      "rank": 26,
+      "domain": "frontier",
+      "count": 5,
+      "domain_names": [
+        "cobaltfrontier.org",
+        "foxfrontier.org",
+        "frontierair.org",
+        "frontiergrit.org",
+        "lunarfrontier.org"
+      ]
+    },
+    {
+      "rank": 27,
+      "domain": "global",
+      "count": 5,
+      "domain_names": [
+        "globalmir.org",
+        "globaltropics.org",
+        "pierceglobal.org",
+        "tarsusglobal.org",
+        "vanguardglobal.org"
+      ]
+    },
+    {
+      "rank": 28,
+      "domain": "hope",
+      "count": 5,
+      "domain_names": [
+        "deeperhope.org",
+        "hopehumanity.org",
+        "hopehuskies.org",
+        "hopeinactions.org",
+        "hopesermon.org"
+      ]
+    },
+    {
+      "rank": 29,
+      "domain": "industries",
+      "count": 5,
+      "domain_names": [
+        "acronymindustries.org",
+        "cleanupindustries.org",
+        "cleanupsindustries.org",
+        "loraindustries.org",
+        "suryaindustries.org"
+      ]
+    },
+    {
+      "rank": 30,
+      "domain": "media",
+      "count": 5,
+      "domain_names": [
+        "exportmedia.org",
+        "mediacurve.org",
+        "mediadirectory.org",
+        "nyemedia.org",
+        "puppetmastermedia.org"
+      ]
+    },
+    {
+      "rank": 31,
+      "domain": "productions",
+      "count": 5,
+      "domain_names": [
+        "classicproductions.org",
+        "headframeproductions.org",
+        "marketingproductions.org",
+        "mereproductions.org",
+        "veraproductions.org"
+      ]
+    },
+    {
+      "rank": 32,
+      "domain": "service",
+      "count": 5,
+      "domain_names": [
+        "crazyservice.org",
+        "holyservice.org",
+        "rasservice.org",
+        "sovereignservice.org",
+        "vaporizerservice.org"
+      ]
+    },
+    {
+      "rank": 33,
+      "domain": "tribe",
+      "count": 5,
+      "domain_names": [
+        "hertribe.org",
+        "tribecloud.org",
+        "tribefiles.org",
+        "tribereview.org",
+        "tribereviews.org"
+      ]
+    },
+    {
+      "rank": 34,
+      "domain": "trust",
+      "count": 5,
+      "domain_names": [
+        "annextrust.org",
+        "kindtrust.org",
+        "portabletrust.org",
+        "sadtrust.org",
+        "shamrocktrust.org"
+      ]
+    },
+    {
+      "rank": 35,
+      "domain": "waste",
+      "count": 5,
+      "domain_names": [
+        "bulkwaste.org",
+        "commonwaste.org",
+        "constructionwaste.org",
+        "demolitionwaste.org",
+        "wastetransport.org"
+      ]
+    },
+    {
+      "rank": 36,
+      "domain": "access",
+      "count": 4,
+      "domain_names": [
+        "accessboston.org",
+        "accessfrederick.org",
+        "accesshire.org",
+        "accessmaryland.org"
+      ]
+    },
+    {
+      "rank": 37,
+      "domain": "better",
+      "count": 4,
+      "domain_names": [
+        "asiabetter.org",
+        "betterelephant.org",
+        "bettermourning.org",
+        "betterresearch.org"
+      ]
+    },
+    {
+      "rank": 38,
+      "domain": "camp",
+      "count": 4,
+      "domain_names": [
+        "campfield.org",
+        "campflorence.org",
+        "camplang.org",
+        "camptopia.org"
+      ]
+    },
+    {
+      "rank": 39,
+      "domain": "clip",
+      "count": 4,
+      "domain_names": [
+        "agentclip.org",
+        "clipform.org",
+        "clipsubs.org",
+        "hitclip.org"
+      ]
+    },
+    {
+      "rank": 40,
+      "domain": "code",
+      "count": 4,
+      "domain_names": [
+        "codeinspector.org",
+        "codepieces.org",
+        "codetis.org",
+        "lexcode.org"
+      ]
+    },
+    {
+      "rank": 41,
+      "domain": "connect",
+      "count": 4,
+      "domain_names": [
+        "blissconnect.org",
+        "connectrum.org",
+        "couchconnect.org",
+        "thinkconnect.org"
+      ]
+    },
+    {
+      "rank": 42,
+      "domain": "cyber",
+      "count": 4,
+      "domain_names": [
+        "cyberbench.org",
+        "cyberguide.org",
+        "cyberliability.org",
+        "cybersky.org"
+      ]
+    },
+    {
+      "rank": 43,
+      "domain": "fire",
+      "count": 4,
+      "domain_names": [
+        "cottonfire.org",
+        "cumfire.org",
+        "fireblast.org",
+        "gracefire.org"
+      ]
+    },
+    {
+      "rank": 44,
+      "domain": "flow",
+      "count": 4,
+      "domain_names": [
+        "currentflow.org",
+        "flowcollaborative.org",
+        "flowsim.org",
+        "washflow.org"
+      ]
+    },
+    {
+      "rank": 45,
+      "domain": "group",
+      "count": 4,
+      "domain_names": [
+        "brittanygroup.org",
+        "firgroup.org",
+        "groupdisc.org",
+        "laymangroup.org"
+      ]
+    },
+    {
+      "rank": 46,
+      "domain": "grow",
+      "count": 4,
+      "domain_names": [
+        "compoundgrow.org",
+        "growblueprint.org",
+        "growcoalition.org",
+        "growgifted.org"
+      ]
+    },
+    {
+      "rank": 47,
+      "domain": "guard",
+      "count": 4,
+      "domain_names": [
+        "bloatguard.org",
+        "guardelle.org",
+        "hushguard.org",
+        "insureguard.org"
+      ]
+    },
+    {
+      "rank": 48,
+      "domain": "health",
+      "count": 4,
+      "domain_names": [
+        "molecularhealth.org",
+        "spirohealth.org",
+        "tiliahealth.org",
+        "visceralhealth.org"
+      ]
+    },
+    {
+      "rank": 49,
+      "domain": "holy",
+      "count": 4,
+      "domain_names": [
+        "holyforces.org",
+        "holyservice.org",
+        "holystreet.org",
+        "holytantra.org"
+      ]
+    },
+    {
+      "rank": 50,
+      "domain": "kenya",
+      "count": 4,
+      "domain_names": [
+        "engagekenya.org",
+        "kenyacommunities.org",
+        "kenyaseafarers.org",
+        "tourkenya.org"
+      ]
+    },
+    {
+      "rank": 51,
+      "domain": "learn",
+      "count": 4,
+      "domain_names": [
+        "gamlearn.org",
+        "learnpool.org",
+        "learnvocabulary.org",
+        "loomlearn.org"
+      ]
+    },
+    {
+      "rank": 52,
+      "domain": "legacy",
+      "count": 4,
+      "domain_names": [
+        "legacyexperiences.org",
+        "legacyleasing.org",
+        "legacylifestyles.org",
+        "legacywebs.org"
+      ]
+    },
+    {
+      "rank": 53,
+      "domain": "library",
+      "count": 4,
+      "domain_names": [
+        "leolibrary.org",
+        "librarylair.org",
+        "longboatlibrary.org",
+        "materialslibrary.org"
+      ]
+    },
+    {
+      "rank": 54,
+      "domain": "link",
+      "count": 4,
+      "domain_names": [
+        "boylink.org",
+        "linklayer.org",
+        "linkmemory.org",
+        "primalink.org"
+      ]
+    },
+    {
+      "rank": 55,
+      "domain": "mind",
+      "count": 4,
+      "domain_names": [
+        "astralmind.org",
+        "distilledmind.org",
+        "mindmentorship.org",
+        "trunkmind.org"
+      ]
+    },
+    {
+      "rank": 56,
+      "domain": "pulse",
+      "count": 4,
+      "domain_names": [
+        "accountpulse.org",
+        "laborpulse.org",
+        "pulseconference.org",
+        "pulsemeter.org"
+      ]
+    },
+    {
+      "rank": 57,
+      "domain": "resilience",
+      "count": 4,
+      "domain_names": [
+        "epigeneticresilience.org",
+        "knowledgeresilience.org",
+        "resiliencequantified.org",
+        "systemsresilience.org"
+      ]
+    },
+    {
+      "rank": 58,
+      "domain": "scale",
+      "count": 4,
+      "domain_names": [
+        "quietscale.org",
+        "roofscale.org",
+        "scaleteam.org",
+        "scalevibe.org"
+      ]
+    },
+    {
+      "rank": 59,
+      "domain": "story",
+      "count": 4,
+      "domain_names": [
+        "funstory.org",
+        "napstory.org",
+        "pivotstory.org",
+        "storyvoyagers.org"
+      ]
+    },
+    {
+      "rank": 60,
+      "domain": "studio",
+      "count": 4,
+      "domain_names": [
+        "gammastudio.org",
+        "mimirstudio.org",
+        "studiodilettante.org",
+        "surroundstudio.org"
+      ]
+    },
+    {
+      "rank": 61,
+      "domain": "systems",
+      "count": 4,
+      "domain_names": [
+        "pinesystems.org",
+        "systemsresilience.org",
+        "systemsunderstress.org",
+        "urielsystems.org"
+      ]
+    },
+    {
+      "rank": 62,
+      "domain": "travel",
+      "count": 4,
+      "domain_names": [
+        "lextravel.org",
+        "travelintelligence.org",
+        "travellovers.org",
+        "travelteachers.org"
+      ]
+    },
+    {
+      "rank": 63,
+      "domain": "volt",
+      "count": 4,
+      "domain_names": [
+        "airvolt.org",
+        "teamvolt.org",
+        "voltsupply.org",
+        "voltwheels.org"
+      ]
+    },
+    {
+      "rank": 64,
+      "domain": "vote",
+      "count": 4,
+      "domain_names": [
+        "layvote.org",
+        "voteband.org",
+        "votegarland.org",
+        "voteplease.org"
+      ]
+    },
+    {
+      "rank": 65,
+      "domain": "watch",
+      "count": 4,
+      "domain_names": [
+        "holdoverwatch.org",
+        "keepwatch.org",
+        "surgewatch.org",
+        "wampwatch.org"
+      ]
+    },
+    {
+      "rank": 66,
+      "domain": "academy",
+      "count": 3,
+      "domain_names": [
+        "clevelandacademy.org",
+        "remoteacademy.org",
+        "taalacademy.org"
+      ]
+    },
+    {
+      "rank": 67,
+      "domain": "advisory",
+      "count": 3,
+      "domain_names": [
+        "fraudadvisory.org",
+        "rethinkadvisory.org",
+        "stewartadvisory.org"
+      ]
+    },
+    {
+      "rank": 68,
+      "domain": "africa",
+      "count": 3,
+      "domain_names": [
+        "africahousing.org",
+        "flameafrica.org",
+        "protectafrica.org"
+      ]
+    },
+    {
+      "rank": 69,
+      "domain": "agentic",
+      "count": 3,
+      "domain_names": [
+        "agenticgood.org",
+        "agenticjournal.org",
+        "lateagentic.org"
+      ]
+    },
+    {
+      "rank": 70,
+      "domain": "america",
+      "count": 3,
+      "domain_names": [
+        "cancelamerica.org",
+        "computeramerica.org",
+        "karateamerica.org"
+      ]
+    },
+    {
+      "rank": 71,
+      "domain": "aqua",
+      "count": 3,
+      "domain_names": [
+        "aquapair.org",
+        "aquatrail.org",
+        "controlaqua.org"
+      ]
+    },
+    {
+      "rank": 72,
+      "domain": "arrival",
+      "count": 3,
+      "domain_names": [
+        "arrivalcheck.org",
+        "arrivalverify.org",
+        "verifyarrival.org"
+      ]
+    },
+    {
+      "rank": 73,
+      "domain": "bank",
+      "count": 3,
+      "domain_names": [
+        "harmonybank.org",
+        "omegabank.org",
+        "tossbank.org"
+      ]
+    },
+    {
+      "rank": 74,
+      "domain": "base",
+      "count": 3,
+      "domain_names": [
+        "baseinvoice.org",
+        "baseword.org",
+        "thistlebase.org"
+      ]
+    },
+    {
+      "rank": 75,
+      "domain": "black",
+      "count": 3,
+      "domain_names": [
+        "blackbenefactors.org",
+        "blackpolicy.org",
+        "blackwarren.org"
+      ]
+    },
+    {
+      "rank": 76,
+      "domain": "calculator",
+      "count": 3,
+      "domain_names": [
+        "calculatornews.org",
+        "deflectioncalculator.org",
+        "paycheckscalculator.org"
+      ]
+    },
+    {
+      "rank": 77,
+      "domain": "cape",
+      "count": 3,
+      "domain_names": [
+        "metalscape.org",
+        "moonlightcape.org",
+        "zapscape.org"
+      ]
+    },
+    {
+      "rank": 78,
+      "domain": "choice",
+      "count": 3,
+      "domain_names": [
+        "builderschoice.org",
+        "humanchoice.org",
+        "parentschoice.org"
+      ]
+    },
+    {
+      "rank": 79,
+      "domain": "cloud",
+      "count": 3,
+      "domain_names": [
+        "musecloud.org",
+        "nancycloud.org",
+        "tribecloud.org"
+      ]
+    },
+    {
+      "rank": 80,
+      "domain": "coaching",
+      "count": 3,
+      "domain_names": [
+        "abacoaching.org",
+        "campbellcoaching.org",
+        "templecoaching.org"
+      ]
+    },
+    {
+      "rank": 81,
+      "domain": "coalition",
+      "count": 3,
+      "domain_names": [
+        "growcoalition.org",
+        "movementcoalition.org",
+        "riverscoalition.org"
+      ]
+    },
+    {
+      "rank": 82,
+      "domain": "coin",
+      "count": 3,
+      "domain_names": [
+        "egocoin.org",
+        "mousecoin.org",
+        "vancecoin.org"
+      ]
+    },
+    {
+      "rank": 83,
+      "domain": "collective",
+      "count": 3,
+      "domain_names": [
+        "bookishcollective.org",
+        "collectiveclassics.org",
+        "crownedcollective.org"
+      ]
+    },
+    {
+      "rank": 84,
+      "domain": "consulting",
+      "count": 3,
+      "domain_names": [
+        "alignedconsulting.org",
+        "colenconsulting.org",
+        "winterconsulting.org"
+      ]
+    },
+    {
+      "rank": 85,
+      "domain": "deals",
+      "count": 3,
+      "domain_names": [
+        "desideals.org",
+        "suredeals.org",
+        "zeedeals.org"
+      ]
+    },
+    {
+      "rank": 86,
+      "domain": "desk",
+      "count": 3,
+      "domain_names": [
+        "deskloft.org",
+        "readingdesk.org",
+        "runedesk.org"
+      ]
+    },
+    {
+      "rank": 87,
+      "domain": "development",
+      "count": 3,
+      "domain_names": [
+        "banksiadevelopment.org",
+        "grevilleadevelopment.org",
+        "stewardshipdevelopment.org"
+      ]
+    },
+    {
+      "rank": 88,
+      "domain": "digital",
+      "count": 3,
+      "domain_names": [
+        "coworkingdigital.org",
+        "specdigital.org",
+        "sterlingdigital.org"
+      ]
+    },
+    {
+      "rank": 89,
+      "domain": "drive",
+      "count": 3,
+      "domain_names": [
+        "drivecollaborative.org",
+        "popcorndrive.org",
+        "rippledrive.org"
+      ]
+    },
+    {
+      "rank": 90,
+      "domain": "fame",
+      "count": 3,
+      "domain_names": [
+        "fameboy.org",
+        "reviewfame.org",
+        "sitefame.org"
+      ]
+    },
+    {
+      "rank": 91,
+      "domain": "fashion",
+      "count": 3,
+      "domain_names": [
+        "bhartifashion.org",
+        "fashionmania.org",
+        "fashiontimes.org"
+      ]
+    },
+    {
+      "rank": 92,
+      "domain": "firewood",
+      "count": 3,
+      "domain_names": [
+        "brisbanefirewood.org",
+        "bulkfirewood.org",
+        "orangefirewood.org"
+      ]
+    },
+    {
+      "rank": 93,
+      "domain": "first",
+      "count": 3,
+      "domain_names": [
+        "dutyfirst.org",
+        "firstflush.org",
+        "firstharbor.org"
+      ]
+    },
+    {
+      "rank": 94,
+      "domain": "food",
+      "count": 3,
+      "domain_names": [
+        "emotionalfood.org",
+        "emotivefood.org",
+        "foodtours.org"
+      ]
+    },
+    {
+      "rank": 95,
+      "domain": "forward",
+      "count": 3,
+      "domain_names": [
+        "forwardplanning.org",
+        "insideforward.org",
+        "wrestleforward.org"
+      ]
+    },
+    {
+      "rank": 96,
+      "domain": "fraud",
+      "count": 3,
+      "domain_names": [
+        "dentalfraud.org",
+        "fraudadvisory.org",
+        "fraudinstitute.org"
+      ]
+    },
+    {
+      "rank": 97,
+      "domain": "futures",
+      "count": 3,
+      "domain_names": [
+        "focusedfutures.org",
+        "fourfutures.org",
+        "luminafutures.org"
+      ]
+    },
+    {
+      "rank": 98,
+      "domain": "galaxy",
+      "count": 3,
+      "domain_names": [
+        "galaxyhall.org",
+        "galaxypictures.org",
+        "galaxystadium.org"
+      ]
+    },
+    {
+      "rank": 99,
+      "domain": "gold",
+      "count": 3,
+      "domain_names": [
+        "golddragons.org",
+        "goldlock.org",
+        "gouldiangold.org"
+      ]
+    },
+    {
+      "rank": 100,
+      "domain": "good",
+      "count": 3,
+      "domain_names": [
+        "agenticgood.org",
+        "goodavenue.org",
+        "goodrituals.org"
+      ]
+    },
+    {
+      "rank": 101,
+      "domain": "grace",
+      "count": 3,
+      "domain_names": [
+        "gracefire.org",
+        "gracenew.org",
+        "veiledgrace.org"
+      ]
+    },
+    {
+      "rank": 102,
+      "domain": "guide",
+      "count": 3,
+      "domain_names": [
+        "cyberguide.org",
+        "teacherguide.org",
+        "telephoneguide.org"
+      ]
+    },
+    {
+      "rank": 103,
+      "domain": "harbinger",
+      "count": 3,
+      "domain_names": [
+        "canyonharbinger.org",
+        "keystoneharbinger.org",
+        "marbleharbinger.org"
+      ]
+    },
+    {
+      "rank": 104,
+      "domain": "heat",
+      "count": 3,
+      "domain_names": [
+        "cardsheat.org",
+        "heatprice.org",
+        "heatprices.org"
+      ]
+    },
+    {
+      "rank": 105,
+      "domain": "hive",
+      "count": 3,
+      "domain_names": [
+        "fileshive.org",
+        "hivecapital.org",
+        "thinkhive.org"
+      ]
+    },
+    {
+      "rank": 106,
+      "domain": "homes",
+      "count": 3,
+      "domain_names": [
+        "homesbuilder.org",
+        "homesstay.org",
+        "williamhomes.org"
+      ]
+    },
+    {
+      "rank": 107,
+      "domain": "housing",
+      "count": 3,
+      "domain_names": [
+        "africahousing.org",
+        "housingconference.org",
+        "selflesshousing.org"
+      ]
+    },
+    {
+      "rank": 108,
+      "domain": "human",
+      "count": 3,
+      "domain_names": [
+        "humanchoice.org",
+        "humanhacking.org",
+        "humanjudgement.org"
+      ]
+    },
+    {
+      "rank": 109,
+      "domain": "humanity",
+      "count": 3,
+      "domain_names": [
+        "hopehumanity.org",
+        "observehumanity.org",
+        "observinghumanity.org"
+      ]
+    },
+    {
+      "rank": 110,
+      "domain": "idea",
+      "count": 3,
+      "domain_names": [
+        "ideaholding.org",
+        "ideashot.org",
+        "ideatacoma.org"
+      ]
+    },
+    {
+      "rank": 111,
+      "domain": "india",
+      "count": 3,
+      "domain_names": [
+        "accelerateindia.org",
+        "connectingindia.org",
+        "indiainnovation.org"
+      ]
+    },
+    {
+      "rank": 112,
+      "domain": "kevin",
+      "count": 3,
+      "domain_names": [
+        "kevinpike.org",
+        "tutorkevin.org",
+        "wellskevin.org"
+      ]
+    },
+    {
+      "rank": 113,
+      "domain": "keystone",
+      "count": 3,
+      "domain_names": [
+        "keystonebay.org",
+        "keystonecraft.org",
+        "keystoneharbinger.org"
+      ]
+    },
+    {
+      "rank": 114,
+      "domain": "late",
+      "count": 3,
+      "domain_names": [
+        "lateach.org",
+        "lateagent.org",
+        "lateagentic.org"
+      ]
+    },
+    {
+      "rank": 115,
+      "domain": "learning",
+      "count": 3,
+      "domain_names": [
+        "homelearning.org",
+        "learninggit.org",
+        "learningverse.org"
+      ]
+    },
+    {
+      "rank": 116,
+      "domain": "living",
+      "count": 3,
+      "domain_names": [
+        "joyceliving.org",
+        "livingenv.org",
+        "livingsci.org"
+      ]
+    },
+    {
+      "rank": 117,
+      "domain": "local",
+      "count": 3,
+      "domain_names": [
+        "localflorist.org",
+        "localsovereignty.org",
+        "peptidelocal.org"
+      ]
+    },
+    {
+      "rank": 118,
+      "domain": "logistics",
+      "count": 3,
+      "domain_names": [
+        "brilliantlogistics.org",
+        "sojournlogistics.org",
+        "viperlogistics.org"
+      ]
+    },
+    {
+      "rank": 119,
+      "domain": "lost",
+      "count": 3,
+      "domain_names": [
+        "cloplost.org",
+        "lostfaculty.org",
+        "lostgeneration.org"
+      ]
+    },
+    {
+      "rank": 120,
+      "domain": "love",
+      "count": 3,
+      "domain_names": [
+        "aldealove.org",
+        "metanoialove.org",
+        "veronicalove.org"
+      ]
+    },
+    {
+      "rank": 121,
+      "domain": "master",
+      "count": 3,
+      "domain_names": [
+        "masteradmin.org",
+        "mastergram.org",
+        "pingmaster.org"
+      ]
+    },
+    {
+      "rank": 122,
+      "domain": "math",
+      "count": 3,
+      "domain_names": [
+        "equivmath.org",
+        "mathrive.org",
+        "mormath.org"
+      ]
+    },
+    {
+      "rank": 123,
+      "domain": "medical",
+      "count": 3,
+      "domain_names": [
+        "medicalpace.org",
+        "medicalspecialty.org",
+        "ungmedical.org"
+      ]
+    },
+    {
+      "rank": 124,
+      "domain": "metals",
+      "count": 3,
+      "domain_names": [
+        "hebrewmetals.org",
+        "metalscape.org",
+        "strategicmetals.org"
+      ]
+    },
+    {
+      "rank": 125,
+      "domain": "mode",
+      "count": 3,
+      "domain_names": [
+        "makemode.org",
+        "revivalmode.org",
+        "splashmode.org"
+      ]
+    },
+    {
+      "rank": 126,
+      "domain": "modern",
+      "count": 3,
+      "domain_names": [
+        "modernstreet.org",
+        "modernstreets.org",
+        "modernupdates.org"
+      ]
+    },
+    {
+      "rank": 127,
+      "domain": "network",
+      "count": 3,
+      "domain_names": [
+        "bridgebuildernetwork.org",
+        "caucasusnetwork.org",
+        "harvardnetwork.org"
+      ]
+    },
+    {
+      "rank": 128,
+      "domain": "nurse",
+      "count": 3,
+      "domain_names": [
+        "nursefiled.org",
+        "nursematthew.org",
+        "nursenews.org"
+      ]
+    },
+    {
+      "rank": 129,
+      "domain": "ocean",
+      "count": 3,
+      "domain_names": [
+        "intelligentocean.org",
+        "oceanbastion.org",
+        "oceandating.org"
+      ]
+    },
+    {
+      "rank": 130,
+      "domain": "origin",
+      "count": 3,
+      "domain_names": [
+        "originacupuncture.org",
+        "origininteractive.org",
+        "originscenter.org"
+      ]
+    },
+    {
+      "rank": 131,
+      "domain": "outreach",
+      "count": 3,
+      "domain_names": [
+        "brandoutreach.org",
+        "nectaroutreach.org",
+        "perfectoutreach.org"
+      ]
+    },
+    {
+      "rank": 132,
+      "domain": "parents",
+      "count": 3,
+      "domain_names": [
+        "adventistparents.org",
+        "maisonparents.org",
+        "parentschoice.org"
+      ]
+    },
+    {
+      "rank": 133,
+      "domain": "place",
+      "count": 3,
+      "domain_names": [
+        "collaborativeplace.org",
+        "nestplace.org",
+        "warmplace.org"
+      ]
+    },
+    {
+      "rank": 134,
+      "domain": "precision",
+      "count": 3,
+      "domain_names": [
+        "precisioncertifications.org",
+        "precisioncomfort.org",
+        "precisionscope.org"
+      ]
+    },
+    {
+      "rank": 135,
+      "domain": "prime",
+      "count": 3,
+      "domain_names": [
+        "primeconstruction.org",
+        "primegarage.org",
+        "primesquare.org"
+      ]
+    },
+    {
+      "rank": 136,
+      "domain": "pros",
+      "count": 3,
+      "domain_names": [
+        "partnerpros.org",
+        "prostats.org",
+        "sinalpros.org"
+      ]
+    },
+    {
+      "rank": 137,
+      "domain": "quiet",
+      "count": 3,
+      "domain_names": [
+        "quietdocket.org",
+        "quietscale.org",
+        "quietwisdom.org"
+      ]
+    },
+    {
+      "rank": 138,
+      "domain": "radio",
+      "count": 3,
+      "domain_names": [
+        "missionsradio.org",
+        "portableradio.org",
+        "radiokris.org"
+      ]
+    },
+    {
+      "rank": 139,
+      "domain": "records",
+      "count": 3,
+      "domain_names": [
+        "noeticrecords.org",
+        "readablerecords.org",
+        "recordspace.org"
+      ]
+    },
+    {
+      "rank": 140,
+      "domain": "route",
+      "count": 3,
+      "domain_names": [
+        "clearroute.org",
+        "routebird.org",
+        "routewrap.org"
+      ]
+    },
+    {
+      "rank": 141,
+      "domain": "school",
+      "count": 3,
+      "domain_names": [
+        "aryansschool.org",
+        "governingschool.org",
+        "terminalschool.org"
+      ]
+    },
+    {
+      "rank": 142,
+      "domain": "schultz",
+      "count": 3,
+      "domain_names": [
+        "campbellschultz.org",
+        "ryderschultz.org",
+        "shepherdschultz.org"
+      ]
+    },
+    {
+      "rank": 143,
+      "domain": "shop",
+      "count": 3,
+      "domain_names": [
+        "faceshop.org",
+        "mexicoshop.org",
+        "shopratings.org"
+      ]
+    },
+    {
+      "rank": 144,
+      "domain": "simply",
+      "count": 3,
+      "domain_names": [
+        "simplybusiness.org",
+        "simplynesting.org",
+        "simplyspacial.org"
+      ]
+    },
+    {
+      "rank": 145,
+      "domain": "site",
+      "count": 3,
+      "domain_names": [
+        "contactsite.org",
+        "sitefame.org",
+        "sitepal.org"
+      ]
+    },
+    {
+      "rank": 146,
+      "domain": "social",
+      "count": 3,
+      "domain_names": [
+        "showupsocial.org",
+        "socialbetel.org",
+        "socialtotem.org"
+      ]
+    },
+    {
+      "rank": 147,
+      "domain": "solar",
+      "count": 3,
+      "domain_names": [
+        "freyasolar.org",
+        "rotarysolar.org",
+        "solarbox.org"
+      ]
+    },
+    {
+      "rank": 148,
+      "domain": "soul",
+      "count": 3,
+      "domain_names": [
+        "soulair.org",
+        "soulartisans.org",
+        "souldriven.org"
+      ]
+    },
+    {
+      "rank": 149,
+      "domain": "speaks",
+      "count": 3,
+      "domain_names": [
+        "baltimorespeaks.org",
+        "bostonspeaks.org",
+        "philadelphiaspeaks.org"
+      ]
+    },
+    {
+      "rank": 150,
+      "domain": "stack",
+      "count": 3,
+      "domain_names": [
+        "interviewstack.org",
+        "overstack.org",
+        "stackpicks.org"
+      ]
+    },
+    {
+      "rank": 151,
+      "domain": "stop",
+      "count": 3,
+      "domain_names": [
+        "stoppolluting.org",
+        "stopsuppression.org",
+        "stopsupremacy.org"
+      ]
+    },
+    {
+      "rank": 152,
+      "domain": "street",
+      "count": 3,
+      "domain_names": [
+        "holystreet.org",
+        "modernstreet.org",
+        "streetlift.org"
+      ]
+    },
+    {
+      "rank": 153,
+      "domain": "supply",
+      "count": 3,
+      "domain_names": [
+        "vendingsupply.org",
+        "vitalitysupply.org",
+        "voltsupply.org"
+      ]
+    },
+    {
+      "rank": 154,
+      "domain": "talent",
+      "count": 3,
+      "domain_names": [
+        "devtalent.org",
+        "talentnepal.org",
+        "tipstalent.org"
+      ]
+    },
+    {
+      "rank": 155,
+      "domain": "technology",
+      "count": 3,
+      "domain_names": [
+        "azazeltechnology.org",
+        "proporttechnology.org",
+        "rainbowtechnology.org"
+      ]
+    },
+    {
+      "rank": 156,
+      "domain": "think",
+      "count": 3,
+      "domain_names": [
+        "thinkconnect.org",
+        "thinkfarms.org",
+        "thinkhive.org"
+      ]
+    },
+    {
+      "rank": 157,
+      "domain": "today",
+      "count": 3,
+      "domain_names": [
+        "adventuretoday.org",
+        "todaymall.org",
+        "walkawaytoday.org"
+      ]
+    },
+    {
+      "rank": 158,
+      "domain": "tools",
+      "count": 3,
+      "domain_names": [
+        "meditationtools.org",
+        "toolsmoon.org",
+        "youtools.org"
+      ]
+    },
+    {
+      "rank": 159,
+      "domain": "tory",
+      "count": 3,
+      "domain_names": [
+        "funstory.org",
+        "napstory.org",
+        "pivotstory.org"
+      ]
+    },
+    {
+      "rank": 160,
+      "domain": "trading",
+      "count": 3,
+      "domain_names": [
+        "karmatrading.org",
+        "reveltrading.org",
+        "tradingshares.org"
+      ]
+    },
+    {
+      "rank": 161,
+      "domain": "tree",
+      "count": 3,
+      "domain_names": [
+        "campaigntree.org",
+        "fontstree.org",
+        "nectarinetree.org"
+      ]
+    },
+    {
+      "rank": 162,
+      "domain": "true",
+      "count": 3,
+      "domain_names": [
+        "truecoach.org",
+        "truemargin.org",
+        "truemomentum.org"
+      ]
+    },
+    {
+      "rank": 163,
+      "domain": "tuff",
+      "count": 3,
+      "domain_names": [
+        "animestuff.org",
+        "bestuff.org",
+        "mousestuff.org"
+      ]
+    },
+    {
+      "rank": 164,
+      "domain": "unscripted",
+      "count": 3,
+      "domain_names": [
+        "detectivesunscripted.org",
+        "detectiveunscripted.org",
+        "scienceunscripted.org"
+      ]
+    },
+    {
+      "rank": 165,
+      "domain": "verify",
+      "count": 3,
+      "domain_names": [
+        "arrivalverify.org",
+        "verifyarrival.org",
+        "verifystay.org"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 165,
+    "total": 165
+  }
+}

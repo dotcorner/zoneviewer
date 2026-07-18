@@ -1,0 +1,389 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "domain": "code",
+      "count": 8,
+      "domain_names": [
+        "codeclan.dev",
+        "codecrash.dev",
+        "codeplex.dev",
+        "codesic.dev",
+        "crowdcode.dev",
+        "infinitycode.dev",
+        "nomcode.dev",
+        "olivecode.dev"
+      ]
+    },
+    {
+      "rank": 2,
+      "domain": "data",
+      "count": 6,
+      "domain_names": [
+        "bytedata.dev",
+        "databike.dev",
+        "datacrafted.dev",
+        "datatoolkit.dev",
+        "livedata.dev",
+        "onedata.dev"
+      ]
+    },
+    {
+      "rank": 3,
+      "domain": "flow",
+      "count": 6,
+      "domain_names": [
+        "beamflow.dev",
+        "flowmart.dev",
+        "flowwer.dev",
+        "queueflow.dev",
+        "spireflow.dev",
+        "windflow.dev"
+      ]
+    },
+    {
+      "rank": 4,
+      "domain": "agent",
+      "count": 5,
+      "domain_names": [
+        "agentchassis.dev",
+        "agentclass.dev",
+        "agentrock.dev",
+        "agentsupply.dev",
+        "roboticagent.dev"
+      ]
+    },
+    {
+      "rank": 5,
+      "domain": "mail",
+      "count": 5,
+      "domain_names": [
+        "finchmail.dev",
+        "hatemail.dev",
+        "mailbits.dev",
+        "mailpal.dev",
+        "minimail.dev"
+      ]
+    },
+    {
+      "rank": 6,
+      "domain": "meta",
+      "count": 5,
+      "domain_names": [
+        "metacrypto.dev",
+        "metahome.dev",
+        "metaminds.dev",
+        "metamount.dev",
+        "metawallet.dev"
+      ]
+    },
+    {
+      "rank": 7,
+      "domain": "vibe",
+      "count": 5,
+      "domain_names": [
+        "letsvibe.dev",
+        "nodevibe.dev",
+        "vibeflare.dev",
+        "vibenode.dev",
+        "vibevault.dev"
+      ]
+    },
+    {
+      "rank": 8,
+      "domain": "byte",
+      "count": 4,
+      "domain_names": [
+        "bytebullet.dev",
+        "bytedata.dev",
+        "deltabyte.dev",
+        "dustbyte.dev"
+      ]
+    },
+    {
+      "rank": 9,
+      "domain": "echo",
+      "count": 4,
+      "domain_names": [
+        "echointelligence.dev",
+        "echomarket.dev",
+        "echoswap.dev",
+        "echowave.dev"
+      ]
+    },
+    {
+      "rank": 10,
+      "domain": "labs",
+      "count": 4,
+      "domain_names": [
+        "ascendlabs.dev",
+        "evanlabs.dev",
+        "hubblelabs.dev",
+        "sprylabs.dev"
+      ]
+    },
+    {
+      "rank": 11,
+      "domain": "link",
+      "count": 4,
+      "domain_names": [
+        "auralink.dev",
+        "neolink.dev",
+        "voidlink.dev",
+        "wavelink.dev"
+      ]
+    },
+    {
+      "rank": 12,
+      "domain": "note",
+      "count": 4,
+      "domain_names": [
+        "delvenote.dev",
+        "notecache.dev",
+        "releasenote.dev",
+        "stacknote.dev"
+      ]
+    },
+    {
+      "rank": 13,
+      "domain": "open",
+      "count": 4,
+      "domain_names": [
+        "chronopen.dev",
+        "opencircuit.dev",
+        "openroads.dev",
+        "opentrips.dev"
+      ]
+    },
+    {
+      "rank": 14,
+      "domain": "solutions",
+      "count": 4,
+      "domain_names": [
+        "fixsolutions.dev",
+        "goldfishsolutions.dev",
+        "solidsolutions.dev",
+        "talksolutions.dev"
+      ]
+    },
+    {
+      "rank": 15,
+      "domain": "stack",
+      "count": 4,
+      "domain_names": [
+        "claritystack.dev",
+        "flankstack.dev",
+        "gridstack.dev",
+        "stacknote.dev"
+      ]
+    },
+    {
+      "rank": 16,
+      "domain": "wave",
+      "count": 4,
+      "domain_names": [
+        "echowave.dev",
+        "wavedash.dev",
+        "wavelink.dev",
+        "wavelogic.dev"
+      ]
+    },
+    {
+      "rank": 17,
+      "domain": "base",
+      "count": 3,
+      "domain_names": [
+        "mixbase.dev",
+        "tripbase.dev",
+        "windbase.dev"
+      ]
+    },
+    {
+      "rank": 18,
+      "domain": "cloud",
+      "count": 3,
+      "domain_names": [
+        "cloudengineer.dev",
+        "cloudmiami.dev",
+        "mockcloud.dev"
+      ]
+    },
+    {
+      "rank": 19,
+      "domain": "core",
+      "count": 3,
+      "domain_names": [
+        "darkcore.dev",
+        "quantacore.dev",
+        "tweetcore.dev"
+      ]
+    },
+    {
+      "rank": 20,
+      "domain": "digital",
+      "count": 3,
+      "domain_names": [
+        "digitalbench.dev",
+        "digitaloctane.dev",
+        "youdigital.dev"
+      ]
+    },
+    {
+      "rank": 21,
+      "domain": "docs",
+      "count": 3,
+      "domain_names": [
+        "cleardocs.dev",
+        "docslib.dev",
+        "mintdocs.dev"
+      ]
+    },
+    {
+      "rank": 22,
+      "domain": "flare",
+      "count": 3,
+      "domain_names": [
+        "aresflare.dev",
+        "vibeflare.dev",
+        "withflare.dev"
+      ]
+    },
+    {
+      "rank": 23,
+      "domain": "flutter",
+      "count": 3,
+      "domain_names": [
+        "flutterbits.dev",
+        "fluttergems.dev",
+        "flutterworld.dev"
+      ]
+    },
+    {
+      "rank": 24,
+      "domain": "game",
+      "count": 3,
+      "domain_names": [
+        "figarogame.dev",
+        "gameforge.dev",
+        "typegame.dev"
+      ]
+    },
+    {
+      "rank": 25,
+      "domain": "ghost",
+      "count": 3,
+      "domain_names": [
+        "ghostarmada.dev",
+        "ghostlogic.dev",
+        "ghostroot.dev"
+      ]
+    },
+    {
+      "rank": 26,
+      "domain": "hire",
+      "count": 3,
+      "domain_names": [
+        "fairehire.dev",
+        "hirewell.dev",
+        "launchhire.dev"
+      ]
+    },
+    {
+      "rank": 27,
+      "domain": "james",
+      "count": 3,
+      "domain_names": [
+        "jamescube.dev",
+        "jamesross.dev",
+        "jameswhite.dev"
+      ]
+    },
+    {
+      "rank": 28,
+      "domain": "logic",
+      "count": 3,
+      "domain_names": [
+        "ghostlogic.dev",
+        "hoverlogic.dev",
+        "wavelogic.dev"
+      ]
+    },
+    {
+      "rank": 29,
+      "domain": "platform",
+      "count": 3,
+      "domain_names": [
+        "alphaplatform.dev",
+        "marathonplatform.dev",
+        "pulseplatform.dev"
+      ]
+    },
+    {
+      "rank": 30,
+      "domain": "plus",
+      "count": 3,
+      "domain_names": [
+        "fitplus.dev",
+        "onoplus.dev",
+        "plusminus.dev"
+      ]
+    },
+    {
+      "rank": 31,
+      "domain": "project",
+      "count": 3,
+      "domain_names": [
+        "projectaegis.dev",
+        "projectcontext.dev",
+        "projectory.dev"
+      ]
+    },
+    {
+      "rank": 32,
+      "domain": "prompt",
+      "count": 3,
+      "domain_names": [
+        "masterprompt.dev",
+        "promptlang.dev",
+        "tableprompt.dev"
+      ]
+    },
+    {
+      "rank": 33,
+      "domain": "site",
+      "count": 3,
+      "domain_names": [
+        "foresite.dev",
+        "headsite.dev",
+        "sitelens.dev"
+      ]
+    },
+    {
+      "rank": 34,
+      "domain": "tool",
+      "count": 3,
+      "domain_names": [
+        "anytool.dev",
+        "leotool.dev",
+        "toolcabin.dev"
+      ]
+    },
+    {
+      "rank": 35,
+      "domain": "wise",
+      "count": 3,
+      "domain_names": [
+        "movewise.dev",
+        "suitewise.dev",
+        "threadwise.dev"
+      ]
+    }
+  ],
+  "meta": {
+    "sorted_by": "count",
+    "order": "desc",
+    "page": 1,
+    "per_page": 35,
+    "total": 35
+  }
+}
